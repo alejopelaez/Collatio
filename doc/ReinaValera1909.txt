@@ -1,0 +1,4543 @@
+The Project Gutenberg EBook of Reina Valera New Testament of the Bible 1909
+(#5 in our series of Spanish Bibles)
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Project
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**eBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These eBooks Were Prepared By Thousands of Volunteers!*****
+
+
+Title: Reina Valera New Testament of the Bible 1909
+
+Author:  Anon.
+
+Release Date: June, 2004  [EBook #5881]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on September 15, 2002]
+
+Edition: 10
+
+Language: Spanish
+
+Character set encoding: ASCII
+
+*** START OF THE PROJECT GUTENBERG EBOOK, REINA VALERA NEW TESTAMENT OF THE BIBLE 1909 ***
+
+
+
+
+La Valera 1909 de la SBBE y la SBA.
+
+
+
+Aviso:
+
+Este texto del Nuevo Testamento (Valera 1909) fue bajado de la pagina de web: 
+Antigua Version Valera 1909 - La palabra de Dios en espanol. 
+(www.valera1909.com)  Este texto no tiene derechos reservados, puedes 
+distribuirlo como quieres.  Solamente pedimos que por respeto del trabajo que 
+invertimos en dandote este texto (Encontrando, escaneando, y corrigiendo.), 
+que dejes este aviso y la siguiente introduccion (Todo entre [Empieza...] y 
+[Termina...]) en cualquier copia que publicas sobre el Internet.  Si tienes 
+cualquier pregunta o comentario por favor escribe a: info@valera1909.com.
+
+
+
+Introduccion a la Valera 1909 de la SBBE-SBA.
+
+
+
+       El siguiente texto es una copia extensamente verificada del texto Valera 
+1909 de la Online Bible (OLB) (www.onlinebible.org) la cual ellos obtuvieron 
+de las Sociedades Biblicas Unidas (SBU).  Lo verificamos usando 
+primordialmente una 1909 impresa por la Sociedad Biblica Britanica y 
+Extranjera (SBBE) para la Sociedad Biblica Americana (SBA) en 1925, la cual 
+compre en Mexico D.F.  Esta 1909 tiene el formato comun usado actualmente por 
+la Asociacion Biblica Internacional (ABI), ABS, SBU, Vida, Unilit, y quiza 
+algunos otros.  Usamos como referencia una 1909 impresa por la SBBE para la 
+SBA en 1922, la cual tiene el formato "angosto" que ya no se imprime, 
+probablemente por su tipo de letra tan pequena.
+       
+       
+       
+       Como el texto digital de la OLB fue escaneado y no fue verificado muy 
+bien estaba lleno de errores.  Muchos de estos errores se encuentran en las 
+1909 impresas por UBS y Hollman, rindiendolas inservibles, en mi opinion.  La 
+razon principal que nosotros hemos empezado a verificar el texto digital de la 
+1909 es para que nosotros podamos imprimir el Evangelio de Juan (y otros 
+libros) para la obra de evangelismo.  Pero tambien reconocemos la necesidad de 
+tener un texto mas correcto poder hacer comparaciones exactas con otras 
+versiones.  Y ultimamente, esperamos que la SBU, Hollman, y los demas corrijan 
+sus textos para que sus publicaciones de la 1909 sean utiles.
+       
+       
+       
+       En todos nuestros textos, letra italica se reproduce entre corchetes 
+[...], para que se convierte facilmente el Nuevo Testamento a muchos 
+diferentes formatos.  Algunas ediciones impresas tenian tanto letra italica y 
+palabras entre corchetes.  En estos casos, para mantener la integridad de la 
+reproduccion, aun corcheteamos palabras inicialmente italicas, pero para 
+indicar la diferencia encerramos entre simbolos relativos <...> las palabras 
+originalmente entre corchetes.
+       
+       
+       
+Este texto digital de la 1909 es reproducida, tal cual.  No hemos hecho 
+ninguna correccion al texto en cuanto a como aparece en la 1909 impresa en 
+1925 y como esa coincida con la que fue impresas en 1922.
+
+
+
+       M. N. Jackson
+       
+
+
+[Termina Aviso e Introduccion]
+
+
+
+
+
+
+
+LA
+
+SANTA BIBLIA
+
+QUE CONTIENE
+
+LOS SAGRADOS LIBROS
+
+DEL
+
+ANITGUO Y NUEVO TESTAMENTO
+
+
+
+
+
+ANTIGUA VERSION DE CIPRIANO DE VALERA COTEJADA CON
+
+DIVERSAS TRADUCCIONES Y REVISADA CON ARREGLO
+
+A LOS ORIGINALES HEBREO Y GRIEGO
+
+
+
+Capitulo  1
+
+        1 EN el principio era el Verbo, y el Verbo era con Dios, y el Verbo era 
+Dios.
+
+        2 Este era en el principio con Dios. 
+
+        3 Todas las cosas por el fueron hechas; y sin el nada de lo que es 
+hecho, fue hecho.
+
+        4 En el estaba la vida, y la vida era la luz de los hombres.
+
+        5 Y la luz en las tinieblas resplandece; mas las tinieblas no la 
+comprendieron.
+
+        6 Fue un hombre enviado de Dios, el cual se llamaba Juan.
+
+        7 Este vino por testimonio, para que diese testimonio de la luz, para 
+que todos creyesen por el.
+
+        8 No era el la luz, sino para que diese testimonio de la luz.
+
+        9 [Aquel] era la luz verdadera, que alumbra a todo hombre que viene a 
+este mundo.
+
+        10 En el mundo estaba, y el mundo fue hecho por el; y el mundo no le 
+conocio.
+
+        11 A lo suyo vino, y los suyos no le recibieron.
+
+        12 Mas a todos los que le recibieron, dioles potestad de ser hechos 
+hijos de Dios, a los que creen en su nombre:
+
+        13 Los cuales no son engendrados de sangre, ni de voluntad de carne, ni 
+de voluntad de varon, mas de Dios.
+
+        14 Y aquel Verbo fue hecho carne, y habito entre nosotros (y vimos su 
+gloria, gloria como del unigenito del Padre), lleno de gracia y de verdad.
+
+        15 Juan dio testimonio de el, y clamo diciendo: Este es del que [yo] 
+decia: El que viene tras mi, es antes de mi: porque es primero que yo.
+
+        16 Porque de su plenitud tomamos todos, y gracia por gracia.
+
+        17 Porque la ley por Moises fue dada: [mas] la gracia y la verdad por 
+Jesucristo fue hecha.
+
+        18 A Dios nadie le vio jamas: el unigenito Hijo, que esta en el seno del 
+Padre, el [le] declaro.
+
+        19 Y este es el testimonio de Juan, cuando los Judios enviaron de 
+Jerusalem sacerdotes y Levitas, que le preguntasen: ?Tu, quien eres?
+
+        20 Y confeso, y no nego; mas declaro: No soy yo el Cristo.
+
+        21 Y le preguntaron: ?Que pues? ?Eres tu Elias? Dijo: No soy. ?Eres tu 
+el profeta? Y respondio: No.
+
+        22 Dijeronle: ?Pues quien eres? para que demos respuesta a los que nos 
+enviaron. ?Que dices de ti mismo?
+
+        23 Dijo: Yo soy la voz del que clama en el desierto: Enderezad el camino 
+del Senor, como dijo Isaias profeta.
+
+        24 Y los que habian sido enviados eran de los Fariseos.
+
+        25 Y preguntaronle, y dijeronle: ?Por que pues bautizas, si tu no eres 
+el Cristo, ni Elias, ni el profeta?
+
+        26 Y Juan les respondio, diciendo: Yo bautizo con agua; mas en medio de 
+vosotros ha estado a quien vosotros no conoceis.
+
+        27 Este es el que ha de venir tras mi, el cual es antes de mi: del cual 
+yo no soy digno de desatar la correa del zapato.
+
+        28 Estas cosas acontecieron en Betabara, de la otra parte del Jordan, 
+donde Juan bautizaba.
+
+        29 El siguiente dia ve Juan a Jesus que venia a el, y dice: He aqui el 
+Cordero de Dios, que quita el pecado del mundo.
+
+        30 Este es del que dije: Tras mi viene un varon, el cual es antes de mi: 
+porque era primero que yo.
+
+        31 Y yo no le conocia; mas para que fuese manifestado a Israel, por eso 
+vine yo bautizando con agua.
+
+        32 Y Juan dio testimonio, diciendo: Vi al Espiritu que descendia del 
+cielo como paloma, y reposo sobre el.
+
+        33 Y yo no le conocia; mas el que me envio a bautizar con agua, aquel me 
+dijo: Sobre quien vieres descender el Espiritu, y que reposa sobre el, este es 
+el que bautiza con Espiritu Santo.
+
+        34 Y yo [le] vi, y he dado testimonio que este es el Hijo de Dios.
+
+        35 El siguiente dia otra vez estaba Juan, y dos de sus discipulos.
+
+        36 Y mirando a Jesus que andaba por [alli], dijo: He aqui el Cordero de 
+Dios.
+
+        37 Y oyeronle los dos discipulos hablar, y siguieron a Jesus.
+
+        38 Y volviendose Jesus, y viendolos seguir[le], diceles: ?Que buscais? Y 
+ellos le dijeron: Rabbi (que declarado quiere decir Maestro) ?donde moras?
+
+        39 Diceles: Venid y ved. Vinieron, y vieron donde moraba, y quedaronse 
+con el aquel dia: porque era como la hora de las diez.
+
+        40 Era Andres, hermano de Simon Pedro, uno de los dos que habian oido de 
+Juan, y le habian seguido.
+
+        41 Este hallo primero a su hermano Simon, y dijole: Hemos hallado al 
+Mesias (que declarado es, el Cristo).
+
+        42 Y le trajo a Jesus. Y mirandole Jesus, dijo: Tu eres Simon, hijo de 
+Jonas: tu seras llamado Cephas (que quiere decir, Piedra).
+
+        43 El siguiente dia quiso Jesus ir a Galilea, y halla a Felipe, al cual 
+dijo: Sigueme.
+
+        44 Y era Felipe de Bethsaida, la ciudad de Andres y de Pedro.
+
+        45 Felipe hallo a Natanael, y dicele: Hemos hallado a aquel de quien 
+escribio Moises en la ley, y los profetas: a Jesus, el hijo de Jose, de 
+Nazaret.
+
+        46 Y dijole Natanael: ?De Nazaret puede haber algo de bueno? Dicele 
+Felipe: Ven y ve.
+
+        47 Jesus vio venir a si a Natanael, y dijo de el: He aqui un verdadero 
+Israelita, en el cual no hay engano.
+
+        48 Dicele Natanael: ?De donde me conoces? Respondio Jesus, y dijole: 
+Antes que Felipe te llamara, cuando estabas debajo de la higuera te vi.
+
+        49 Respondio Natanael, y dijole: Rabbi, tu eres el Hijo de Dios; tu eres 
+el Rey de Israel.
+
+        50 Respondio Jesus y dijole: ?Porque te dije, te vi debajo de la 
+higuera, crees? cosas mayores que estas veras.
+
+        51 Y dicele: De cierto, de cierto os digo: De aqui adelante vereis el 
+cielo abierto, y los angeles de Dios que suben y descienden sobre el Hijo del 
+hombre.
+
+
+
+Capitulo  2
+
+        1 Y AL tercer dia hicieronse unas bodas en Cana de Galilea; y estaba 
+alli la madre de Jesus.
+
+        2 Y fue tambien llamado Jesus y sus discipulos a las bodas.
+
+        3 Y faltando el vino, la madre de Jesus le dijo: Vino no tienen.
+
+        4 Y dicele Jesus: ?Que tengo yo contigo, mujer? aun no ha venido mi 
+hora.
+
+        5 Su madre dice a los que servian: Haced todo lo que os dijere.
+
+        6 Y estaban alli seis tinajuelas de piedra para agua, conforme a la 
+purificacion de los Judios, que cabian en cada una dos o tres cantaros.
+
+        7 Diceles Jesus: Henchid estas tinajuelas de agua. E hinchieronlas hasta 
+arriba.
+
+        8 Y diceles: Sacad ahora, y presentad al maestresala. Y presentaron[le].
+
+        9 Y como el maestresala gusto el agua hecha vino, que no sabia de donde 
+era (mas lo sabian los sirvientes que habian sacado el agua), el maestresala 
+llama al esposo,
+
+        10 Y dicele: Todo hombre pone primero el buen vino, y cuando estan 
+satisfechos, entonces lo que es peor; mas tu has guardado el buen vino hasta 
+ahora.
+
+        11 Este principio de senales hizo Jesus en Cana de Galilea, y manifesto 
+su gloria; y sus discipulos creyeron en el.
+
+        12 Despues de esto descendio a Capernaum, el, y su madre, y hermanos, y 
+discipulos; y estuvieron alli no muchos dias.
+
+        13 Y estaba cerca la Pascua de los Judios; y subio Jesus a Jerusalem.
+
+        14 Y hallo en el templo a los que vendian bueyes, y ovejas, y palomas, y 
+a los cambiadores sentados.
+
+        15 Y hecho un azote de cuerdas, echolos a todos del templo, y las 
+ovejas, y los bueyes; y derramo los dineros de los cambiadores, y trastorno 
+las mesas;
+
+        16 Y a los que vendian las palomas, dijo: Quitad de aqui esto, y no 
+hagais la casa de mi Padre casa de mercado.
+
+        17 Entonces se acordaron sus discipulos que esta escrito: El celo de tu 
+casa me comio.
+
+        18 Y los Judios respondieron, y dijeronle: ?Que senal nos muestras de 
+que haces esto?
+
+        19 Respondio Jesus, y dijoles: Destruid este templo, y en tres dias lo 
+levantare.
+
+        20 Dijeron luego los Judios: En cuarenta y seis anos fue este templo 
+edificado, ?y tu en tres dias lo levantaras?
+
+        21 Mas el hablaba del templo de su cuerpo.
+
+        22 Por tanto, cuando resucito de los muertos, sus discipulos se 
+acordaron que habia dicho esto; y creyeron a la Escritura, y a la palabra que 
+Jesus habia dicho.
+
+        23 Y estando en Jerusalem en la Pascua, en el dia de la fiesta, muchos 
+creyeron en su nombre, viendo las senales que hacia.
+
+        24 Mas el mismo Jesus no se confiaba a si mismo de ellos, porque el 
+conocia a todos,
+
+        25 Y no tenia necesidad que alguien le diese testimonio del hombre; 
+porque el sabia lo que habia en el hombre.
+
+
+
+Capitulo  3
+
+        1 Y HABIA un hombre de los Fariseos que se llamaba Nicodemo, principe de 
+los Judios.
+
+        2 Este vino a Jesus de noche, y dijole: Rabbi, sabemos que has venido de 
+Dios por maestro; porque nadie puede hacer estas senales que tu haces, si no 
+fuere Dios con el.
+
+        3 Respondio Jesus, y dijole: De cierto, de cierto te digo, que el que no 
+naciere otra vez, no puede ver el reino de Dios.
+
+        4 Dicele Nicodemo: ?Como puede el hombre nacer siendo viejo? ?puede 
+entrar otra vez en el vientre de su madre, y nacer?
+
+        5 Respondio Jesus: De cierto, de cierto te digo, que el que no naciere 
+de agua y del Espiritu, no puede entrar en el reino de Dios.
+
+        6 Lo que es nacido de la carne, carne es; y lo que es nacido del 
+Espiritu, espiritu es.
+
+        7 No te maravilles de que te dije: Os es necesario nacer otra vez.
+
+        8 El viento de donde quiere sopla, y oyes su sonido; mas ni sabes de 
+donde viene, ni a donde vaya: asi es todo aquel que es nacido del Espiritu.
+
+        9 Respondio Nicodemo, y dijole: ?Como puede esto hacerse?
+
+        10 Respondio Jesus, y dijole: ?Tu eres el maestro de Israel, y no sabes 
+esto?
+
+        11 De cierto, de cierto te digo, que lo que sabemos hablamos, y lo que 
+hemos visto, testificamos; y no recibis nuestro testimonio.
+
+        12 Si os he dicho cosas terrenas, y no creeis, ?como creereis si os 
+dijere las celestiales?
+
+        13 Y nadie subio al cielo, sino el que descendio del cielo, el Hijo del 
+hombre, que esta en el cielo.
+
+        14 Y como Moises levanto la serpiente en el desierto, asi es necesario 
+que el Hijo del hombre sea levantado;
+
+        15 Para que todo aquel que en el creyere, no se pierda, sino que tenga 
+vida eterna.
+
+        16 Porque de tal manera amo Dios al mundo, que ha dado a su Hijo 
+unigenito, para que todo aquel que en el cree, no se pierda, mas tenga vida 
+eterna.
+
+        17 Porque no envio Dios a su Hijo al mundo, para que condene al mundo, 
+mas para que el mundo sea salvo por el.
+
+        18 El que en el cree, no es condenado; mas el que no cree, ya es 
+condenado, porque no creyo en el nombre del unigenito Hijo de Dios.
+
+        19 Y esta es la condenacion: porque la luz vino al mundo, y los hombres 
+amaron mas las tinieblas que la luz; porque sus obras eran malas.
+
+        20 Porque todo aquel que hace lo malo, aborrece la luz y no viene a la 
+luz, porque sus obras no sean redargueidas.
+
+        21 Mas el que obra verdad, viene a la luz, para que sus obras sean 
+manifestadas que son hechas en Dios.
+
+        22 Pasado esto, vino Jesus con sus discipulos a la tierra de Judea; y 
+estaba alli con ellos, y bautizaba.
+
+        23 Y bautizaba tambien Juan en Enon junto a Salim, porque habia alli 
+muchas aguas; y venian, y eran bautizados.
+
+        24 Porque Juan, no habia sido aun puesto en la carcel.
+
+        25 Y hubo cuestion entre los discipulos de Juan y los Judios acerca de 
+la purificacion.
+
+        26 Y vinieron a Juan, y dijeronle: Rabbi, el que estaba contigo de la 
+otra parte del Jordan, del cual tu diste testimonio, he aqui bautiza, y todos 
+vienen a el.
+
+        27 Respondio Juan, y dijo: No puede el hombre recibir algo, si no le 
+fuere dado del cielo.
+
+        28 Vosotros mismos me sois testigos que dije: Yo no soy el Cristo, sino 
+que soy enviado delante de el.
+
+        29 El que tiene la esposa, es el esposo; mas el amigo del esposo, que 
+esta en pie y le oye, se goza grandemente de la voz del esposo; asi pues, este 
+mi gozo es cumplido.
+
+        30 A el conviene crecer, mas a mi menguar.
+
+        31 El que de arriba viene, sobre todos es: el que es de la tierra, 
+terreno es, y cosas terrenas habla: el que viene del cielo, sobre todos es.
+
+        32 Y lo que vio y oyo, esto testifica: y nadie recibe su testimonio.
+
+        33 El que recibe su testimonio, este signo que Dios es verdadero.
+
+        34 Porque el que Dios envio, las palabras de Dios habla: porque no da 
+Dios el Espiritu por medida.
+
+        35 El Padre ama al Hijo, y todas las cosas dio en su mano.
+
+        36 El que cree en el Hijo, tiene vida eterna; mas el que es incredulo al 
+Hijo, no vera la vida, sino que la ira de Dios esta sobre el.
+
+
+
+Capitulo  4
+
+        1 DE manera que como Jesus entendio que los Fariseos habian oido que 
+Jesus hacia y bautizaba mas discipulos que Juan,
+
+        2 (Aunque Jesus no bautizaba, sino sus discipulos),
+
+        3 Dejo a Judea, y fuese otra vez a Galilea.
+
+        4 Y era menester que pasase por Samaria.
+
+        5 Vino, pues, a una ciudad de Samaria que se llamaba Sichar, junto a la 
+heredad que Jacob dio a Jose su hijo.
+
+        6 Y estaba alli la fuente de Jacob. Pues Jesus, cansado del camino, asi 
+se sento a la fuente. Era como la hora de sexta.
+
+        7 Vino una mujer de Samaria a sacar agua: [y] Jesus le dice: Dame de 
+beber.
+
+        8 (Porque sus discipulos habian ido a la ciudad a comprar de comer.)
+
+        9 Y la mujer Samaritana le dice: ?Como tu, siendo Judio, me pides a mi 
+de beber, que soy mujer Samaritana? porque los Judios no se tratan con los 
+Samaritanos.
+
+        10 Respondio Jesus y dijole: Si conocieses el don de Dios, y quien es el 
+que te dice: Dame de beber: tu pedirias de el, y el te daria agua viva.
+
+        11 La mujer le dice: Senor, no tienes con que sacar[la], y el pozo es 
+hondo: ?de donde, pues, tienes el agua viva?
+
+        12 ?Eres tu mayor que nuestro padre Jacob, que nos dio este pozo, del 
+cual el bebio, y sus hijos, y sus ganados?
+
+        13 Respondio Jesus y dijole: Cualquiera que bebiere de esta agua, 
+volvera a tener sed;
+
+        14 Mas el que bebiere del agua que yo le dare, para siempre no tendra 
+sed: mas el agua que yo le dare, sera en el una fuente de agua que salte para 
+vida eterna.
+
+        15 La mujer le dice: Senor, dame esta agua, para que no tenga sed, ni 
+venga aca a sacar[la].
+
+        16 Jesus le dice: Ve, llama a tu marido, y ven aca.
+
+        17 Respondio la mujer, y dijo: No tengo marido. Dicele Jesus: Bien has 
+dicho, No tengo marido;
+
+        18 Porque cinco maridos has tenido: y el que ahora tienes no es tu 
+marido; esto has dicho con verdad.
+
+        19 Dicele la mujer: Senor, pareceme que tu eres profeta.
+
+        20 Nuestros padres adoraron en este monte, y vosotros decis que en 
+Jerusalem es el lugar donde es necesario adorar.
+
+        21 Dicele Jesus: Mujer, creeme, que la hora viene, cuando ni en este 
+monte, ni en Jerusalem adorareis al Padre.
+
+        22 Vosotros adorais lo que no sabeis; nosotros adoramos lo que sabemos: 
+porque la salud viene de los Judios.
+
+        23 Mas la hora viene, y ahora es, cuando los verdaderos adoradores 
+adoraran al Padre en espiritu y en verdad; porque tambien el Padre tales 
+adoradores busca que le adoren.
+
+        24 Dios es Espiritu; y los que le adoran, en espiritu y en verdad es 
+necesario que adoren.
+
+        25 Dicele la mujer: Se que el Mesias ha de venir, el cual se dice el 
+Cristo: cuando el viniere nos declarara todas las cosas.
+
+        26 Dicele Jesus: Yo soy, que hablo contigo.
+
+        27 Y en esto vinieron sus discipulos, y maravillaronse de que hablaba 
+con mujer; mas ninguno dijo: ?Que preguntas? o, ?Que hablas con ella?
+
+        28 Entonces la mujer dejo su cantaro, y fue a la ciudad, y dijo a 
+aquellos hombres:
+
+        29 Venid, ved un hombre que me ha dicho todo lo que he hecho: ?si quizas 
+es este el Cristo?
+
+        30 Entonces salieron de la ciudad, y vinieron a el.
+
+        31 Entre tanto los discipulos le rogaban, diciendo: Rabbi, come.
+
+        32 Y el les dijo: Yo tengo una comida que comer, que vosotros no sabeis.
+
+        33 Entonces los discipulos decian el uno al otro: ?Si le habra traido 
+alguien de comer?
+
+        34 Diceles Jesus: Mi comida es que haga la voluntad del que me envio, y 
+que acabe su obra.
+
+        35 ?No decis vosotros: Aun hay cuatro meses hasta que llegue la siega? 
+He aqui os digo: Alzad vuestros ojos, y mirad las regiones, porque ya estan 
+blancas para la siega.
+
+        36 Y el que siega, recibe salario, y allega fruto para vida eterna; para 
+que el que siembra tambien goce, y el que siega.
+
+        37 Porque en esto es el dicho verdadero: Que uno es el que siembra, y 
+otro es el que siega.
+
+        38 Yo os he enviado a segar lo que vosotros no labrasteis: otros 
+labraron, y vosotros habeis entrado en sus labores.
+
+        39 Y muchos de los Samaritanos de aquella ciudad creyeron en el por la 
+palabra de la mujer, que daba testimonio, [diciendo:] Que me dijo todo lo que 
+he hecho.
+
+        40 Viniendo pues los Samaritanos a el, rogaronle que se quedase alli: y 
+se quedo alli dos dias.
+
+        41 Y creyeron muchos mas por la palabra de el.
+
+        42 Y decian a la mujer: Ya no creemos por tu dicho; porque nosotros 
+mismos hemos oido, y sabemos que verdaderamente este es el Salvador del mundo, 
+el Cristo.
+
+        43 Y dos dias despues, salio de alli, y fuese a Galilea.
+
+        44 Porque el mismo Jesus dio testimonio de que el profeta en su tierra 
+no tiene honra.
+
+        45 Y como vino a Galilea, los Galileos le recibieron, vistas todas las 
+cosas que habia hecho en Jerusalem en el dia de la fiesta: porque tambien 
+ellos habian ido a la fiesta.
+
+        46 Vino pues Jesus otra vez a Cana de Galilea, donde habia hecho el vino 
+del agua. Y habia en Capernaum uno del rey, cuyo hijo estaba enfermo.
+
+        47 Este, como oyo que Jesus venia de Judea a Galilea, fue a el, y 
+rogabale que descendiese, y sanase a su hijo, porque se comenzaba a morir.
+
+        48 Entonces Jesus le dijo: Si no viereis senales y milagros no creereis.
+
+        49 El del rey le dijo: Senor, desciende antes que mi hijo muera.
+
+        50 Dicele Jesus: Ve, tu hijo vive. Y el hombre creyo a la palabra que 
+Jesus le dijo, y se fue.
+
+        51 Y cuando ya el descendia, los siervos le salieron a recibir, y le 
+dieron nuevas, diciendo: Tu hijo vive.
+
+        52 Entonces el les pregunto a que hora comenzo a estar mejor. Y 
+dijeronle: Ayer a las siete le dejo la fiebre.
+
+        53 El padre entonces entendio, que aquella hora era cuando Jesus le 
+dijo: Tu hijo vive; y creyo el y toda su casa.
+
+        54 Esta segunda senal volvio Jesus a hacer, cuando vino de Judea a 
+Galilea.
+
+
+
+Capitulo  5
+
+        1 DESPUES de estas cosas, era un dia de fiesta de los Judios, y subio 
+Jesus a Jerusalem.
+
+        2 Y hay en Jerusalem a [la puerta] del ganado un estanque, que en 
+hebraico es llamado Bethesda, el cual tiene cinco portales.
+
+        3 En estos yacia multitud de enfermos, ciegos, cojos, secos, que estaban 
+esperando el movimiento del agua.
+
+        4 Porque un angel descendia a cierto tiempo al estanque, y revolvia el 
+agua; y el que primero descendia en el estanque despues del movimiento del 
+agua, era sano de cualquier enfermedad que tuviese.
+
+        5 Y estaba alli un hombre que habia treinta y ocho anos que estaba 
+enfermo.
+
+        6 Como Jesus vio a este echado, y entendio que ya habia mucho tiempo, 
+dicele: ?Quieres ser sano?
+
+        7 Senor, le respondio el enfermo, no tengo hombre que me meta en el 
+estanque cuando el agua fuere revuelta; porque entre tanto que yo vengo, otro 
+antes de mi ha descendido.
+
+        8 Dicele Jesus: Levantate, toma tu lecho, y anda.
+
+        9 Y luego aquel hombre fue sano, y tomo su lecho, e ibase. Y era sabado 
+aquel dia.
+
+        10 Entonces los Judios decian a aquel que habia sido sanado: Sabado es: 
+no te es licito llevar tu lecho.
+
+        11 Respondioles: El que me sano, el mismo me dijo: Toma tu lecho y anda.
+
+        12 Preguntaronle entonces: ?Quien es el que te dijo: Toma tu lecho y 
+anda?
+
+        13 Y el que habia sido sanado, no sabia quien fuese; porque Jesus se 
+habia apartado de la gente que estaba en aquel lugar.
+
+        14 Despues le hallo Jesus en el templo, y dijole: He aqui, has sido 
+sanado; no peques mas, porque no te venga alguna cosa peor.
+
+        15 El se fue, y dio aviso a los Judios, que Jesus era el que le habia 
+sanado.
+
+        16 Y por esta causa los Judios perseguian a Jesus, y procuraban matarle, 
+porque hacia estas cosas en sabado.
+
+        17 Y Jesus les respondio: Mi Padre hasta ahora obra, y yo obro.
+
+        18 Entonces, por tanto, mas procuraban los Judios matarle, porque no 
+solo quebrantaba el sabado, sino que tambien a su Padre llamaba Dios, 
+haciendose igual a Dios.
+
+        19 Respondio entonces Jesus, y dijoles: De cierto, de cierto os digo: No 
+puede el Hijo hacer nada de si mismo, sino lo que viere hacer al Padre: porque 
+todo lo que el hace, esto tambien hace el Hijo juntamente.
+
+        20 Porque el Padre ama al Hijo, y le muestra todas las cosas que el 
+hace; y mayores obras que estas le mostrara, de suerte que vosotros os 
+maravilleis.
+
+        21 Porque como el Padre levanta los muertos, y les da vida, asi tambien 
+el Hijo a los que quiere da vida.
+
+        22 Porque el Padre a nadie juzga, mas todo el juicio dio al Hijo;
+
+        23 Para que todos honren al Hijo como honran al Padre. El que no honra 
+al Hijo, no honra al Padre que le envio.
+
+        24 De cierto, de cierto os digo: El que oye mi palabra, y cree al que me 
+ha enviado, tiene vida eterna; y no vendra a condenacion, mas paso de muerte a 
+vida.
+
+        25 De cierto, de cierto os digo: Vendra hora, y ahora es, cuando los 
+muertos oiran la voz del Hijo de Dios: y los que oyeren viviran.
+
+        26 Porque como el Padre tiene vida en si mismo, asi dio tambien al Hijo 
+que tuviese vida en si mismo:
+
+        27 Y tambien le dio poder de hacer juicio, en cuanto es el Hijo del 
+hombre.
+
+        28 No os maravilleis de esto; porque vendra hora, cuando todos los que 
+estan en los sepulcros oiran su voz;
+
+        29 Y los que hicieron bien, saldran a resurreccion de vida; mas los que 
+hicieron mal, a resurreccion de condenacion.
+
+        30 No puedo yo de mi mismo hacer nada: como oigo, juzgo: y mi juicio es 
+justo; porque no busco mi voluntad, mas la voluntad del que me envio, del 
+Padre.
+
+        31 Si yo doy testimonio de mi mismo, mi testimonio no es verdadero.
+
+        32 Otro es el que da testimonio de mi; y se que el testimonio que da de 
+mi, es verdadero.
+
+        33 Vosotros enviasteis a Juan, y [el] dio testimonio a la verdad.
+
+        34 Empero yo no tomo el testimonio de hombre; mas digo esto, para que 
+vosotros seais salvos.
+
+        35 El era antorcha que ardia y alumbraba: y vosotros quisisteis 
+recrearos por un poco a su luz.
+
+        36 Mas yo tengo mayor testimonio que [el] de Juan: porque las obras que 
+el Padre me dio que cumpliese, las mismas obras que yo hago, dan testimonio de 
+mi, que el Padre me haya enviado.
+
+        37 Y el que me envio, el Padre, el ha dado testimonio de mi. Ni nunca 
+habeis oido su voz, ni habeis visto su parecer.
+
+        38 Ni teneis su palabra permanente en vosotros; porque al que el envio, 
+a este vosotros no creeis.
+
+        39 Escudrinad las Escrituras, porque a vosotros os parece que en ellas 
+teneis la vida eterna; y ellas son las que dan testimonio de mi.
+
+        40 Y no quereis venir a mi, para que tengais vida.
+
+        41 Gloria de los hombres no recibo.
+
+        42 Mas yo os conozco, que no teneis amor de Dios en vosotros.
+
+        43 Yo he venido en nombre de mi Padre, y no me recibis: si otro viniere 
+en su propio nombre, a aquel recibireis.
+
+        44 ?Como podeis vosotros creer, pues tomais la gloria los unos de los 
+otros, y no buscais la gloria que de solo Dios viene?
+
+        45 No penseis que yo os tengo de acusar delante del Padre; hay quien os 
+acusa, Moises, en quien vosotros esperais.
+
+        46 Porque si vosotros creyeseis a Moises, creeriais a mi; porque de mi 
+escribio el.
+
+        47 Y si a sus escritos no creeis, ?como creereis a mis palabras?
+
+ 
+
+
+
+Capitulo  6
+
+1 PASADAS estas cosas, fuese Jesus de la otra parte de la mar de Galilea, [que 
+es] de Tiberias.
+
+        2 Y seguiale grande multitud, porque veian sus senales que hacia en los 
+enfermos.
+
+        3 Y subio Jesus a un monte, y se sento alli con sus discipulos.
+
+        4 Y estaba cerca la Pascua, la fiesta de los Judios.
+
+        5 Y como alzo Jesus los ojos, y vio que habia venido a el grande 
+multitud, dice a Felipe: ?De donde compraremos pan para que coman estos?
+
+        6 Mas esto decia para probarle; porque el sabia lo que habia de hacer.
+
+        7 Respondiole Felipe: Doscientos denarios de pan no les bastaran, para 
+que cada uno de ellos tome un poco.
+
+        8 Dicele uno de sus discipulos, Andres, hermano de Simon Pedro:
+
+        9 Un muchacho esta aqui que tiene cinco panes de cebada y dos 
+pececillos; ?mas que es esto entre tantos?
+
+        10 Entonces Jesus dijo: Haced recostar la gente. Y habia mucha hierba en 
+aquel lugar: y recostaronse como numero de cinco mil varones.
+
+        11 Y tomo Jesus aquellos panes, y habiendo dado gracias, repartio a los 
+discipulos, y los discipulos a los que estaban recostados: asimismo de los 
+peces, cuanto querian.
+
+        12 Y como fueron saciados, dijo a sus discipulos: Recoged los pedazos 
+que han quedado, porque no se pierda nada.
+
+        13 Cogieron pues, e hinchieron doce cestas de pedazos de los cinco panes 
+de cebada, que sobraron a los que habian comido.
+
+        14 Aquellos hombres entonces, como vieron la senal que Jesus habia 
+hecho, decian: Este verdaderamente es el profeta que habia de venir al mundo.
+
+        15 Y entendiendo Jesus que habian de venir para arrebatarle, y hacerle 
+rey, volvio a retirarse al monte, el solo.
+
+        16 Y como se hizo tarde, descendieron sus discipulos a la mar;
+
+        17 Y entrando en un barco, venian de la otra parte de la mar hacia 
+Capernaum. Y era ya oscuro, y Jesus no habia venido a ellos.
+
+        18 Y levantabase la mar con un gran viento que soplaba.
+
+        19 Y como hubieron navegado como veinticinco o treinta estadios, ven a 
+Jesus que andaba sobre la mar, y se acercaba al barco: y tuvieron miedo.
+
+        20 Mas el les dijo: Yo soy; no tengais miedo.
+
+        21 Ellos entonces gustaron recibirle en el barco: y luego el barco llego 
+a la tierra donde iban.
+
+        22 El dia siguiente, la gente que estaba de la otra parte de la mar, 
+como vio que no habia alli otra navecilla sino una, y que Jesus no habia 
+entrado con sus discipulos en ella, sino que sus discipulos se habian ido 
+solos;
+
+        23 Y que otras navecillas habian arribado de Tiberias junto al lugar 
+donde habian comido el pan despues de haber el Senor dado gracias;
+
+        24 Como vio pues la gente que Jesus no estaba alli, ni sus discipulos, 
+entraron ellos en las navecillas, y vinieron a Capernaum buscando a Jesus.
+
+        25 Y hallandole de la otra parte de la mar, dijeronle: Rabbi, ?cuando 
+llegaste aca?
+
+        26 Respondioles Jesus, y dijo; De cierto, de cierto os digo, que me 
+buscais, no porque habeis visto las senales, sino porque comisteis el pan y os 
+hartasteis.
+
+        27 Trabajad no por la comida que perece, mas por la comida que a vida 
+eterna permanece, la cual el Hijo del hombre os dara: porque a este senalo el 
+Padre, [que es] Dios.
+
+        28 Y dijeronle: ?Que haremos para que obremos las obras de Dios?
+
+        29 Respondio Jesus, y dijoles: Esta es la obra de Dios, que creais en el 
+que el ha enviado.
+
+        30 Dijeronle entonces: ?Que senal pues haces tu, para que veamos, y te 
+creamos? ?Que obras?
+
+        31 Nuestros padres comieron el mana en el desierto, como esta escrito: 
+Pan del cielo les dio a comer.
+
+        32 Y Jesus les dijo: De cierto, de cierto os digo: No os dio Moises pan 
+del cielo; mas mi Padre os da el verdadero pan del cielo.
+
+        33 Porque el pan de Dios es aquel que descendio del cielo y da vida al 
+mundo.
+
+        34 Y dijeronle: Senor, danos siempre este pan.
+
+        35 Y Jesus les dijo: Yo soy el pan de vida: el que a mi viene, nunca 
+tendra hambre; y el que en mi cree, no tendra sed jamas.
+
+        36 Mas os he dicho, que aunque me habeis visto, no creeis.
+
+        37 Todo lo que el Padre me da, vendra a mi; y al que a mi viene, no [le] 
+echo fuera.
+
+        38 Porque he descendido del cielo, no para hacer mi voluntad, mas la 
+voluntad del que me envio.
+
+        39 Y esta es la voluntad del que me envio, del Padre: Que todo lo que me 
+diere, no pierda de ello, sino que lo resucite en el dia postrero.
+
+        40 Y esta es la voluntad del que me ha enviado: Que todo aquel que ve al 
+Hijo, y cree en el, tenga vida eterna: y yo le resucitare en el dia postrero.
+
+        41 Murmuraban entonces de el los Judios, porque habia dicho: Yo soy el 
+pan que descendi del cielo.
+
+        42 Y decian: ?No es este Jesus, el hijo de Jose, cuyo padre y madre 
+nosotros conocemos? ?como, pues, dice este: Del cielo he descendido?
+
+        43 Y Jesus respondio, y dijoles: No murmureis entre vosotros.
+
+        44 Ninguno puede venir a mi, si el Padre que me envio no le trajere; y 
+yo le resucitare en el dia postrero.
+
+        45 Escrito esta en los profetas: Y seran todos ensenados de Dios. Asi 
+que, todo aquel que oyo del Padre, y aprendio, viene a mi.
+
+        46 No que alguno haya visto al Padre, sino aquel que vino de Dios, este 
+ha visto al Padre.
+
+        47 De cierto, de cierto os digo: El que cree en mi, tiene vida eterna.
+
+        48 Yo soy el pan de vida.
+
+        49 Vuestros padres comieron el mana en el desierto, y son muertos.
+
+        50 Este es el pan que desciende del cielo, para que el que de el 
+comiere, no muera.
+
+        51 Yo soy el pan vivo que he descendido del cielo: si alguno comiere de 
+este pan, vivira para siempre; y el pan que yo dare es mi carne, la cual yo 
+dare por la vida del mundo.
+
+        52 Entonces los Judios contendian entre si, diciendo: ?Como puede este 
+darnos su carne a comer?
+
+        53 Y Jesus les dijo: De cierto, de cierto os digo: Si no comiereis la 
+carne del Hijo del hombre, y bebiereis su sangre, no tendreis vida en 
+vosotros.
+
+        54 El que come mi carne y bebe mi sangre, tiene vida eterna: y yo le 
+resucitare en el dia postrero.
+
+        55 Porque mi carne es verdadera comida, y mi sangre es verdadera bebida.
+
+        56 El que come mi carne y bebe mi sangre, en mi permanece, y yo en el.
+
+        57 Como me envio el Padre viviente, y yo vivo por el Padre, asimismo el 
+que me come, el tambien vivira por mi.
+
+        58 Este es el pan que descendio del cielo: no como vuestros padres 
+comieron el mana, y son muertos: el que come de este pan, vivira eternamente.
+
+        59 Estas cosas dijo en la sinagoga, ensenando en Capernaum.
+
+        60 Y muchos de sus discipulos oyendo[lo], dijeron: Dura es esta palabra: 
+?quien la puede oir?
+
+        61 Y sabiendo Jesus en si mismo que sus discipulos murmuraban de esto, 
+dijoles: ?Esto os escandaliza?
+
+        62 ?Pues [que], si viereis al Hijo del hombre que sube donde estaba 
+primero?
+
+        63 El espiritu es el que da vida; la carne nada aprovecha: las palabras 
+que yo os he hablado, son espiritu y son vida.
+
+        64 Mas hay algunos de vosotros que no creen. Porque Jesus desde el 
+principio sabia quienes eran los que no creian, y quien le habia de entregar.
+
+        65 Y dijo: Por eso os he dicho que ninguno puede venir a mi, si no le 
+fuere dado del Padre.
+
+        66 Desde esto, muchos de sus discipulos volvieron atras, y ya no andaban 
+con el.
+
+        67 Dijo entonces Jesus a los doce: ?Quereis vosotros iros tambien?
+
+        68 Y respondiole Simon Pedro: Senor, ?a quien iremos? tu tienes palabras 
+de vida eterna.
+
+        69 Y nosotros creemos y conocemos que tu eres el Cristo, el Hijo de Dios 
+viviente.
+
+        70 Jesus le respondio: ?No he escogido yo a vosotros doce, y uno de 
+vosotros es diablo?
+
+        71 Y hablaba de Judas Iscariote, [hijo] de Simon, porque este era el que 
+le habia de entregar, el cual era uno de los doce.
+
+
+
+Capitulo  7
+
+        1 Y PASADAS estas cosas andaba Jesus en Galilea: que no queria andar en 
+Judea, porque los Judios procuraban matarle.
+
+        2 Y estaba cerca la fiesta de los Judios, [la] de los tabernaculos.
+
+        3 Y dijeronle sus hermanos: Pasate de aqui, y vete a Judea, para que 
+tambien tus discipulos vean las obras que haces.
+
+        4 Que ninguno que procura ser claro, hace algo en oculto. Si estas cosas 
+haces, manifiestate al mundo.
+
+        5 Porque ni aun sus hermanos creian en el.
+
+        6 Diceles entonces Jesus: Mi tiempo aun no ha venido; mas vuestro tiempo 
+siempre esta presto.
+
+        7 No puede el mundo aborreceros a vosotros; mas a mi me aborrece, porque 
+yo doy testimonio de el, que sus obras son malas.
+
+        8 Vosotros subid a esta fiesta; yo no subo aun a esta fiesta, porque mi 
+tiempo aun no es cumplido.
+
+        9 Y habiendoles dicho esto, quedose en Galilea.
+
+        10 Mas como sus hermanos hubieron subido, entonces el tambien subio a la 
+fiesta, no manifiestamente, sino como en secreto.
+
+        11 Y buscabanle los Judios en la fiesta, y decian: ?Donde esta aquel?
+
+        12 Y habia grande murmullo de el entre la gente: porque unos decian: 
+Bueno es; y otros decian: No, antes engana a las gentes.
+
+        13 Mas ninguno hablaba abiertamente de el, por miedo de los Judios.
+
+        14 Y al medio de la fiesta subio Jesus al templo, y ensenaba.
+
+        15 Y maravillabanse los Judios, diciendo: ?Como sabe este letras, no 
+habiendo aprendido?
+
+        16 Respondioles Jesus, y dijo: Mi doctrina no es mia, sino de aquel que 
+me envio.
+
+        17 El que quisiere hacer su voluntad, conocera de la doctrina si viene 
+de Dios, o si yo hablo de mi mismo.
+
+        18 El que habla de si mismo, su propia gloria busca; mas el que busca la 
+gloria del que le envio, este es verdadero, y no hay en el injusticia.
+
+        19 ?No os dio Moises la ley, y ninguno de vosotros hace la ley? ?Por que 
+me procurais matar?
+
+        20 Respondio la gente, y dijo: Demonio tienes: ?quien te procura matar?
+
+        21 Jesus respondio, y dijoles: Una obra hice, y todos os maravillais.
+
+        22 Cierto, Moises os dio la circuncision (no porque sea de Moises, mas 
+de los padres); y en sabado circuncidais al hombre.
+
+        23 Si recibe el hombre la circuncision en sabado, para que la ley de 
+Moises no sea quebrantada, ?os enojais conmigo porque en sabado hice sano todo 
+un hombre?
+
+        24 No juzgueis segun lo que parece, mas juzgad justo juicio.
+
+        25 Decian entonces unos de los de Jerusalem: ?No es este al que buscan 
+para matarlo?
+
+        26 Y he aqui, habla publicamente, y no le dicen nada; ?si habran 
+entendido verdaderamente los principes, que este es el Cristo?
+
+        27 Mas este, sabemos de donde es: y cuando viniere el Cristo, nadie 
+sabra de donde sea.
+
+        28 Entonces clamaba Jesus en el templo, ensenando y diciendo: Y a mi me 
+conoceis, y sabeis de donde soy: y no he venido de mi mismo; mas el que me 
+envio es verdadero, al cual vosotros no conoceis.
+
+        29 Yo le conozco, porque de el soy, y el me envio.
+
+        30 Entonces procuraban prenderle; mas ninguno puso en el mano, porque 
+aun no habia venido su hora.
+
+        31 Y muchos del pueblo creyeron en el, y decian: El Cristo, cuando 
+viniere, ?hara mas senales que las que este hace?
+
+        32 Los Fariseos oyeron a la gente que murmuraba de el estas cosas; y los 
+principes de los sacerdotes y los Fariseos enviaron servidores que le 
+prendiesen.
+
+        33 Y Jesus dijo: Aun un poco de tiempo estare con vosotros, e ire al que 
+me envio.
+
+        34 Me buscareis, y no me hallareis; y donde yo estare, vosotros no 
+podreis venir.
+
+        35 Entonces los Judios dijeron entre si: ?A donde se ha de ir este que 
+no le hallemos? ?Se ha de ir a los esparcidos entre los Griegos, y a ensenar a 
+los Griegos?
+
+        36 ?Que dicho es este que dijo: Me buscareis, y no me hallareis; y donde 
+yo estare, vosotros no podreis venir?
+
+        37 Mas en el postrer dia grande de la fiesta, Jesus se ponia en pie y 
+clamaba, diciendo: Si alguno tiene sed, venga a mi y beba.
+
+        38 El que cree en mi, como dice la Escritura, rios de agua viva correran 
+de su vientre.
+
+        39 (Y esto dijo del Espiritu que habian de recibir los que creyesen en 
+el: pues aun no habia [venido] el Espiritu Santo; porque Jesus no estaba aun 
+glorificado.)
+
+        40 Entonces algunos de la multitud, oyendo este dicho, decian: 
+Verdaderamente este es el profeta.
+
+        41 Otros decian: Este es el Cristo. Algunos empero decian: ?De Galilea 
+ha de venir el Cristo?
+
+        42 ?No dice la Escritura, que de la simiente de David, y de la aldea de 
+Bethlehem, de donde era David, vendra el Cristo?
+
+        43 Asi que habia disension entre la gente acerca de el.
+
+        44 Y algunos de ellos querian prenderle; mas ninguno echo sobre el 
+manos.
+
+        45 Y los ministriles vinieron a los principales sacerdotes y a los 
+Fariseos; y ellos les dijeron: ?Por que no le trajisteis?
+
+        46 Los ministriles respondieron: Nunca ha hablado hombre asi como este 
+hombre.
+
+        47 Entonces los Fariseos les respondieron: ?Estais tambien vosotros 
+enganados?
+
+        48 ?Ha creido en el alguno de los principes, o de los Fariseos?
+
+        49 Mas estos comunales que no saben la ley, malditos son.
+
+        50 Diceles Nicodemo (el que vino a el de noche, el cual era uno de 
+ellos):
+
+        51 ?Juzga nuestra ley a hombre, si primero no oyere de el, y entendiere 
+lo que ha hecho?
+
+        52 Respondieron y dijeronle: ?Eres tu tambien Galileo? Escudrina y ve 
+que de Galilea nunca se levanto profeta.
+
+        53 Y fuese cada uno a su casa.
+
+
+
+Capitulo  8
+
+        1 Y JESUS se fue al monte de las Olivas.
+
+        2 Y por la manana volvio al templo, y todo el pueblo vino a el: y 
+sentado el, los ensenaba.
+
+        3 Entonces los escribas y los Fariseos le traen una mujer tomada en 
+adulterio; y poniendola en medio,
+
+        4 Dicenle: Maestro, esta mujer ha sido tomada en el mismo hecho, 
+adulterando;
+
+        5 Y en la ley Moises nos mando apedrear a las tales: tu pues, ?que 
+dices?
+
+        6 Mas esto decian tentandole, para poder acusarle. Empero Jesus, 
+inclinado hacia abajo, escribia en tierra con el dedo.
+
+        7 Y como perseverasen preguntandole, enderezose, y dijoles: El que de 
+vosotros este sin pecado, arroje contra ella la piedra el primero.
+
+        8 Y volviendose a inclinar hacia abajo, escribia en tierra.
+
+        9 Oyendo, pues, ellos, redargueidos de la conciencia, salianse uno a uno, 
+comenzando desde los mas viejos hasta los postreros: y quedo solo Jesus, y la 
+mujer que estaba en medio.
+
+        10 Y enderezandose Jesus, y no viendo a nadie mas que a la mujer, 
+dijole: ?Mujer, donde estan los que te acusaban? ?Ninguno te ha condenado?
+
+        11 Y ella dijo: Senor, ninguno. Entonces Jesus le dijo: Ni yo te 
+condeno: vete, y no peques mas.
+
+        12 Y habloles Jesus otra vez, diciendo: Yo soy la luz del mundo: el que 
+me sigue, no andara en tinieblas, mas tendra la lumbre de la vida.
+
+        13 Entonces los Fariseos le dijeron: Tu de ti mismo das testimonio: tu 
+testimonio no es verdadero.
+
+        14 Respondio Jesus, y dijoles: Aunque yo doy testimonio de mi mismo, mi 
+
+testimonio es verdadero, porque se de donde he venido y a donde voy; mas 
+vosotros no sabeis de donde vengo, y a donde voy.
+
+        15 Vosotros segun la carne juzgais; mas yo no juzgo a nadie.
+
+        16 Y si yo juzgo, mi juicio es verdadero; porque no soy solo, sino yo y 
+el que me envio, el Padre.
+
+        17 Y en vuestra ley esta escrito que el testimonio de dos hombres es 
+verdadero.
+
+        18 Yo soy el que doy testimonio de mi mismo: y da testimonio de mi el 
+que me envio, el Padre.
+
+        19 Y decianle: ?Donde esta tu Padre? Respondio Jesus: Ni a mi me 
+conoceis, ni a mi Padre; si a mi me conocieseis, a mi Padre tambien 
+conocierais.
+
+        20 Estas palabras hablo Jesus en el lugar de las limosnas, ensenando en 
+el templo: y nadie le prendio; porque aun no habia venido su hora.
+
+        21 Y dijoles otra vez Jesus: Yo me voy, y me buscareis, mas en vuestro 
+pecado morireis: a donde yo voy, vosotros no podeis venir.
+
+        22 Decian entonces los Judios: ?Hase de matar a si mismo, que dice: A 
+donde yo voy, vosotros no podeis venir?
+
+        23 Y deciales: Vosotros sois de abajo, yo soy de arriba; vosotros sois 
+de este mundo, yo no soy de este mundo.
+
+        24 Por eso os dije que morireis en vuestros pecados: porque si no 
+creyereis que yo soy, en vuestros pecados morireis.
+
+        25 Y decianle: ?Tu quien eres? Entonces Jesus les dijo: El que al 
+principio tambien os he dicho.
+
+        26 Muchas cosas tengo que decir y juzgar de vosotros: mas el que me 
+envio, es verdadero: y yo, lo que he oido de el, esto hablo en el mundo.
+
+        27 Mas no entendieron que el les hablaba del Padre.
+
+        28 Dijoles pues, Jesus: Cuando levantareis al Hijo del hombre, entonces 
+entendereis que yo soy, y que nada hago de mi mismo; mas como el Padre me 
+enseno, esto hablo.
+
+        29 Porque el que me envio, conmigo esta; no me ha dejado solo el Padre; 
+porque yo, lo que a el agrada, hago siempre.
+
+        30 Hablando el estas cosas, muchos creyeron en el.
+
+        31 Y decia Jesus a los Judios que le habian creido: Si vosotros 
+permaneciereis en mi palabra, sereis verdaderamente mis discipulos;
+
+        32 Y conocereis la verdad, y la verdad os libertara.
+
+        33 Y respondieronle: Simiente de Abraham somos, y jamas servimos a 
+nadie: ?como dices tu: Sereis libres?
+
+        34 Jesus les respondio: De cierto, de cierto os digo, que todo aquel que 
+hace pecado, es siervo de pecado.
+
+        35 Y el siervo no queda en casa para siempre: el hijo queda para 
+siempre.
+
+        36 Asi que, si el Hijo os libertare, sereis verdaderamente libres.
+
+        37 Se que sois simiente de Abraham, mas procurais matarme, porque mi 
+palabra no cabe en vosotros.
+
+        38 Yo hablo lo que he visto cerca del Padre; y vosotros haceis lo que 
+habeis oido cerca de vuestro padre.
+
+        39 Respondieron y dijeronle: Nuestro padre es Abraham. Diceles Jesus: Si 
+fuerais hijos de Abraham, las obras de Abraham harias.
+
+        40 Empero ahora procurais matarme, hombre que os he hablado la verdad, 
+la cual he oido de Dios: no hizo esto Abraham.
+
+        41 Vosotros haceis las obras de vuestro padre. Dijeronle entonces: 
+Nosotros no somos nacidos de fornicacion; un padre tenemos, [que es] Dios.
+
+        42 Jesus entonces les dijo: Si vuestro padre fuera Dios, ciertamente me 
+amariais: porque yo de Dios he salido, y he venido; que no he venido de mi 
+mismo, mas el me envio.
+
+        43 ?Por que no reconoceis mi lenguaje? porque no podeis oir mi palabra.
+
+        44 Vosotros de [vuestro] padre el diablo sois, y los deseos de vuestro 
+padre quereis cumplir. El, homicida ha sido desde el principio, y no 
+permanecio en la verdad, porque no hay verdad en el. Cuando habla mentira, de 
+suyo habla; porque es mentiroso, y padre de mentira.
+
+        45 Y porque yo digo verdad, no me creeis.
+
+        46 ?Quien de vosotros me redarguye de pecado? Pues si digo verdad, ?por 
+que vosotros no me creeis?
+
+        47 El que es de Dios, las palabras de Dios oye: por esto no [las] ois 
+vosotros, porque no sois de Dios.
+
+        48 Respondieron entonces los Judios, y dijeronle: ?No decimos bien 
+nosotros, que tu eres Samaritano, y tienes demonio?
+
+        49 Respondio Jesus: Yo no tengo demonio, antes honro a mi Padre; y 
+vosotros me habeis deshonrado.
+
+        50 Y no busco mi gloria: hay quien [la] busque, y juzgue.
+
+        51 De cierto, de cierto os digo, que el que guardare mi palabra, no vera 
+muerte para siempre.
+
+        52 Entonces los Judios le dijeron: Ahora conocemos que tienes demonio. 
+Abraham murio, y los profetas, y tu dices: El que guardare mi palabra, no 
+gustara muerte para siempre.
+
+        53 ?Eres tu mayor que nuestro padre Abraham, el cual murio? y los 
+profetas murieron: ?quien te haces a ti mismo?
+
+        54 Respondio Jesus: Si yo me glorifico a mi mismo, mi gloria es nada: mi 
+Padre es el que me glorifica; el que vosotros decis que es vuestro Dios;
+
+        55 Y no le conoceis: mas yo le conozco; y si dijere que no le conozco, 
+sere como vosotros mentiroso: mas le conozco, y guardo su palabra.
+
+        56 Abraham vuestro padre se gozo por ver mi dia; y lo vio, y se gozo.
+
+        57 Dijeronle entonces los Judios: Aun no tienes cincuenta anos, ?y has 
+visto a Abraham?
+
+        58 Dijoles Jesus: De cierto, de cierto os digo: Antes que Abraham fuese, 
+yo soy.
+
+        59 Tomaron entonces piedras para tirarle: mas Jesus se encubrio, y salio 
+del templo; y atravesando por medio de ellos, se fue.
+
+
+
+Capitulo  9
+
+        1 Y PASANDO [Jesus], vio un hombre ciego desde su nacimiento.
+
+        2 Y preguntaronle sus discipulos, diciendo: Rabbi, ?quien peco, este o 
+sus padres, para que naciese ciego?
+
+        3 Respondio Jesus: Ni este peco, ni sus padres: mas para que las obras 
+de Dios se manifiesten en el.
+
+        4 Convieneme obrar las obras del que me envio, entre tanto que el dia 
+dura: la noche viene, cuando nadie puede obrar.
+
+        5 Entre tanto que estuviere en el mundo, luz soy del mundo.
+
+        6 Esto dicho, escupio en tierra, e hizo lodo con la saliva, y unto con 
+el lodo sobre los ojos del ciego,
+
+        7 Y dijole: Ve, lavate en el estanque de Siloe (que significa, si [lo] 
+interpretares, Enviado). Y fue entonces, y lavose, y volvio viendo.
+
+        8 Entonces los vecinos, y los que antes le habian visto que era ciego, 
+decian: ?No es este el que se sentaba y mendigaba?
+
+        9 Unos decian: Este es; y otros: A el se parece. El decia: Yo soy.
+
+        10 Y dijeronle: ?Como te fueron abiertos los ojos?
+
+        11 Respondio el y dijo: El hombre que se llama Jesus, hizo lodo, y me 
+unto los ojos, y me dijo: Ve al Siloe, y lavate: y fui, y me lave, y recibi la 
+vista.
+
+        12 Entonces le dijeron: ?Donde esta aquel? El dijo: No se.
+
+        13 Llevaron a los Fariseos al que antes habia sido ciego.
+
+        14 Y era sabado cuando Jesus habia hecho el lodo, y le habia abierto los 
+ojos.
+
+        15 Y volvieronle a preguntar tambien los Fariseos de que manera habia 
+recibido la vista. Y el les dijo: Pusome lodo sobre los ojos, y me lave, y 
+veo.
+
+        16 Entonces unos de los Fariseos decian: Este hombre no es de Dios, que 
+no guarda el sabado. Otros decian: ?Como puede un hombre pecador hacer estas 
+senales? Y habia disension entre ellos.
+
+        17 Vuelven a decir al ciego: ?Tu, que dices del que te abrio los ojos? Y 
+el dijo: Que es profeta.
+
+        18 Mas los Judios no creian de el, que habia sido ciego, y hubiese 
+recibido la vista, hasta que llamaron a los padres del que habia recibido la 
+vista;
+
+        19 Y preguntaronles, diciendo: ?Es este vuestro hijo, el que vosotros 
+decis que nacio ciego? ?Como, pues, ve ahora?
+
+        20 Respondieronles sus padres y dijeron: Sabemos que este es nuestro 
+hijo, y que nacio ciego:
+
+        21 Mas como vea ahora, no sabemos; o quien le haya abierto los ojos, 
+nosotros no lo sabemos; el tiene edad, preguntadle a el; el hablara de si.
+
+        22 Esto dijeron sus padres, porque tenian miedo de los Judios: porque ya 
+los Judios habian resuelto que si alguno confesase ser el el Mesias, fuese 
+fuera de la sinagoga.
+
+        23 Por eso dijeron sus padres: Edad tiene, preguntadle a el.
+
+        24 Asi que volvieron a llamar al hombre que habia sido ciego, y 
+dijeronle: Da gloria a Dios: nosotros sabemos que este hombre es pecador.
+
+        25 Entonces el respondio, y dijo: Si es pecador, no lo se: una cosa se, 
+que habiendo yo sido ciego, ahora veo.
+
+        26 Y volvieronle a decir: ?Que te hizo? ?Como te abrio los ojos?
+
+        27 Respondioles: Ya os [lo] he dicho, y no habeis atendido: ?por que lo 
+quereis otra vez oir? ?quereis tambien vosotros haceros sus discipulos?
+
+        28 Y le ultrajaron, y dijeron: Tu eres su discipulo; pero nosotros 
+discipulos de Moises somos.
+
+        29 Nosotros sabemos que a Moises hablo Dios: mas este no sabemos de 
+donde es.
+
+        30 Respondio aquel hombre, y dijoles: Por cierto, maravillosa cosa es 
+esta, que vosotros no sabeis de donde sea, y [a mi] me abrio los ojos.
+
+        31 Y sabemos que Dios no oye a los pecadores: mas si alguno es temeroso 
+de Dios, y hace su voluntad, a este oye.
+
+        32 Desde el siglo no fue oido, que abriese alguno los ojos de uno que 
+nacio ciego.
+
+        33 Si este no fuera de Dios, no pudiera hacer nada.
+
+        34 Respondieron, y dijeronle: En pecados eres nacido todo, ?y tu nos 
+ensenas? Y echaronle fuera.
+
+        35 Oyo Jesus que le habian echado fuera; y hallandole, dijole: ?Crees tu 
+en el Hijo de Dios?
+
+        36 Respondio el, y dijo: ?Quien es, Senor, para que crea en el?
+
+        37 Y dijole Jesus: Y le has visto, y el que habla contigo, el es.
+
+        38 Y el dice: Creo, Senor; y adorole.
+
+        39 Y dijo Jesus: Yo, para juicio he venido a este mundo: para que los 
+que no ven, vean; y los que ven, sean cegados.
+
+        40 Y [ciertos] de los Fariseos que estaban con el oyeron esto, y 
+dijeronle: ?Somos nosotros tambien ciegos?
+
+        41 Dijoles Jesus: Si fuerais ciegos, no tuvierais pecado: mas ahora 
+porque decis, Vemos, por tanto vuestro pecado permanece.
+
+
+
+Capitulo  10
+
+        1 DE cierto, de cierto os digo: El que no entra por la puerta en el 
+corral de las ovejas, mas sube por otra parte, el tal es ladron y robador.
+
+        2 Mas el que entra por la puerta, el pastor de las ovejas es.
+
+        3 A este abre el portero, y las ovejas oyen su voz: y a sus ovejas llama 
+por nombre, y las saca.
+
+        4 Y como ha sacado fuera todas las propias, va delante de ellas; y las 
+ovejas le siguen, porque conocen su voz.
+
+        5 Mas al extrano no seguiran, antes huiran de el: porque no conocen la 
+voz de los extranos.
+
+        6 Esta parabola les dijo Jesus; mas ellos no entendieron que era lo que 
+les decia.
+
+        7 Volvioles, pues, Jesus a decir: De cierto, de cierto os digo: Yo soy 
+la puerta de las ovejas.
+
+        8 Todos los que antes de mi vinieron, ladrones son y robadores; mas no 
+los oyeron las ovejas.
+
+        9 Yo soy la puerta: el que por mi entrare, sera salvo; y entrara, y 
+saldra, y hallara pastos.
+
+        10 El ladron no viene sino para hurtar, y matar, y destruir: yo he 
+venido para que tengan vida, y para que [la] tengan en abundancia.
+
+        11 Yo soy el buen pastor: el buen pastor su vida da por las ovejas.
+
+        12 Mas el asalariado, y que no es el pastor, de quien no son propias las 
+ovejas, ve al lobo que viene, y deja las ovejas, y huye, y el lobo las 
+arrebata, y esparce las ovejas.
+
+        13 Asi que, el asalariado, huye, porque es asalariado, y no tiene 
+cuidado de las ovejas.
+
+        14 Yo soy el buen pastor; y conozco mis [ovejas], y las mias me conocen.
+
+        15 Como el Padre me conoce, y yo conozco al Padre; y pongo mi vida por 
+las ovejas.
+
+        16 Tambien tengo otras ovejas que no son de este redil; aquellas tambien 
+me conviene traer, y oiran mi voz; y habra un rebano, y un pastor.
+
+        17 Por eso me ama el Padre, porque yo pongo mi vida, para volverla a 
+tomar.
+
+        18 Nadie me la quita, mas yo la pongo de mi mismo. Tengo poder para 
+ponerla, y tengo poder para volverla a tomar. Este mandamiento recibi de mi 
+Padre.
+
+        19 Y volvio a haber disension entre los Judios por estas palabras.
+
+        20 Y muchos de ellos decian: Demonio tiene, y esta fuera de si; ?para 
+que le ois?
+
+        21 Decian otros: Estas palabras no son de endemoniado: ?puede el demonio 
+abrir los ojos de los ciegos?
+
+        22 Y se hacia la fiesta de la dedicacion en Jerusalem; y era invierno;
+
+        23 Y Jesus andaba en el templo por el portal de Salomon.
+
+        24 Y rodearonle los Judios y dijeronle: ?Hasta cuando nos has de turbar 
+el alma? Si tu eres el Cristo, dinos[lo] abiertamente.
+
+        25 Respondioles Jesus: Os [lo] he dicho, y no creeis: las obras que yo 
+hago en nombre de mi Padre, ellas dan testimonio de mi;
+
+        26 Mas vosotros no creeis, porque no sois de mis ovejas, como os he 
+dicho.
+
+        27 Mis ovejas oyen mi voz, y yo las conozco, y me siguen;
+
+        28 Y yo les doy vida eterna y no pereceran para siempre, ni nadie las 
+arrebatara de mi mano.
+
+        29 Mi Padre que me [las] dio, mayor que todos es y nadie [las] puede 
+arrebatar de la mano de mi Padre.
+
+        30 Yo y el Padre una cosa somos.
+
+        31 Entonces volvieron a tomar piedras los Judios para apedrearle.
+
+        32 Respondioles Jesus: Muchas buenas obras os he mostrado de mi Padre; 
+?por cual obra de esas me apedreais?
+
+        33 Respondieronle los Judios, diciendo: Por buena obra no te apedreamos, 
+sino por la blasfemia; y porque tu, siendo hombre, te haces Dios.
+
+        34 Respondioles Jesus: ?No esta escrito en vuestra ley: Yo dije, Dioses 
+sois?
+
+        35 Si dijo, dioses, a aquellos a los cuales fue hecha palabra de Dios (y 
+la Escritura no puede ser quebrantada);
+
+        36 ?A quien el Padre santifico y envio al mundo, vosotros decis: Tu 
+blasfemas, porque dije: Hijo de Dios soy?
+
+        37 Si no hago obras de mi Padre, no me creais.
+
+        38 Mas si las hago, aunque a mi no creais, creed a las obras; para que 
+conozcais y creais que el Padre esta en mi, y yo en el Padre.
+
+        39 Y procuraban otra vez prenderle; mas el se salio de sus manos;
+
+        40 Y volviose tras el Jordan, a aquel lugar donde primero habia estado 
+bautizando Juan; y estuvose alli.
+
+        41 Y muchos venian a el, y decian: Juan, a la verdad, ninguna senal 
+hizo; mas todo lo que Juan dijo de este, era verdad.
+
+        42 Y muchos creyeron alli en el.
+
+
+
+Capitulo  11
+
+        1 ESTABA entonces enfermo uno [llamado] Lazaro, de Bethania, la aldea de 
+Maria y de Marta su hermana.
+
+        2 (Y Maria, cuyo hermano Lazaro estaba enfermo, era la que ungio al 
+Senor con ungueento, y limpio sus pies con sus cabellos.)
+
+        3 Enviaron, pues, sus hermanas a el, diciendo: Senor, he aqui, el que 
+amas esta enfermo.
+
+        4 Y oyendolo Jesus, dijo: Esta enfermedad no es para muerte, mas por 
+gloria de Dios, para que el Hijo de Dios sea glorificado por ella.
+
+        5 Y amaba Jesus a Marta, y a su hermana, y a Lazaro.
+
+        6 Como oyo pues que estaba enfermo, quedose aun dos dias en aquel lugar 
+donde estaba.
+
+        7 Luego, despues de esto, dijo a los discipulos: Vamos a Judea otra vez.
+
+        8 Dicenle los discipulos: Rabbi, ahora procuraban los Judios apedrearte, 
+?y otra vez vas alla?
+
+        9 Respondio Jesus: ?No tiene el dia doce horas? El que anduviere de dia, 
+no tropieza, porque ve la luz de este mundo.
+
+        10 Mas el que anduviere de noche, tropieza, porque no hay luz en el.
+
+        11 Dicho esto, diceles despues: Lazaro nuestro amigo duerme; mas voy a 
+despertarle del sueno.
+
+        12 Dijeron entonces sus discipulos: Senor, si duerme, salvo estara.
+
+        13 Mas [esto] decia Jesus de la muerte de el: y ellos pensaron que 
+hablaba del reposar del sueno.
+
+        14 Entonces, pues, Jesus les dijo claramente: Lazaro es muerto;
+
+        15 Y huelgome por vosotros, que yo no haya estado alli, para que creais: 
+mas vamos a el.
+
+        16 Dijo entonces Tomas, el que se dice el Didimo, a sus condiscipulos: 
+Vamos tambien nosotros, para que muramos con el.
+
+        17 Vino pues Jesus, y hallo que habia ya cuatro dias que estaba en el 
+sepulcro.
+
+        18 Y Bethania estaba cerca de Jerusalem, como quince estadios;
+
+        19 Y muchos de los Judios habian venido a Marta y a Maria, a consolarlas 
+de su hermano.
+
+        20 Entonces Marta, como oyo que Jesus venia, salio a encontrarle; mas 
+Maria se estuvo en casa.
+
+        21 Y Marta dijo a Jesus: Senor, si hubieses estado aqui, mi hermano no 
+fuera muerto;
+
+        22 Mas tambien se ahora, que todo lo que pidieres de Dios, te dara Dios.
+
+        23 Dicele Jesus: Resucitara tu hermano.
+
+        24 Marta le dice: Yo se que resucitara en la resurreccion en el dia 
+postrero.
+
+        25 Dicele Jesus: Yo soy la resurreccion y la vida: el que cree en mi, 
+aunque este muerto, vivira.
+
+        26 Y todo aquel que vive y cree en mi, no morira eternamente. ?Crees 
+esto?
+
+        27 Dicele: Si, Senor; yo he creido que tu eres el Cristo, el Hijo de 
+Dios, que has venido al mundo.
+
+        28 Y esto dicho, fuese, y llamo en secreto a Maria su hermana, diciendo: 
+El Maestro esta aqui y te llama.
+
+        29 Ella, como lo oyo, levantase prestamente y viene a el.
+
+        30 (Que aun no habia llegado Jesus a la aldea, mas estaba en aquel lugar 
+donde Marta le habia encontrado.)
+
+        31 Entonces los Judios que estaban en casa con ella, y la consolaban, 
+como vieron que Maria se habia levantado prestamente, y habia salido, 
+siguieronla, diciendo: Va al sepulcro a llorar alli.
+
+        32 Mas Maria, como vino donde estaba Jesus, viendole, derribose a sus 
+pies, diciendole: Senor, si hubieras estado aqui, no fuera muerto mi hermano.
+
+        33 Jesus entonces, como la vio llorando, y a los Judios que habian 
+venido juntamente con ella llorando, se conmovio en espiritu, y turbose,
+
+        34 Y dijo: ?Donde le pusisteis? Dicenle: Senor, ven, y ve.
+
+        35 Y lloro Jesus.
+
+        36 Dijeron entonces los Judios: Mirad como le amaba.
+
+        37 Y algunos de ellos dijeron: ?No podia este que abrio los ojos al 
+ciego, hacer que este no muriera?
+
+        38 Y Jesus, conmoviendose otra vez en si mismo, vino al sepulcro. Era 
+una cueva, la cual tenia una piedra encima.
+
+        39 Dice Jesus: Quitad la piedra. Marta, la hermana del que se habia 
+muerto, le dice: Senor, hiede ya, que es de cuatro dias.
+
+        40 Jesus le dice: ?No te he dicho que, si creyeres, veras la gloria de 
+Dios?
+
+        41 Entonces quitaron la piedra de donde el muerto habia sido puesto. Y 
+Jesus, alzando los ojos arriba, dijo: Padre, gracias te doy que me has oido.
+
+        42 Que yo sabia que siempre me oyes; mas por causa de la compania que 
+esta alrededor, lo dije, para que crean que tu me has enviado.
+
+        43 Y habiendo dicho estas cosas, clamo a gran voz: Lazaro, ven fuera.
+
+        44 Y el que habia estado muerto, salio, atadas las manos y los pies con 
+vendas; y su rostro estaba envuelto en un sudario. Diceles Jesus: Desatadle, y 
+dejadle ir.
+
+        45 Entonces muchos de los Judios que habian venido a Maria, y habian 
+visto lo que habia hecho Jesus, creyeron en el.
+
+        46 Mas algunos de ellos fueron a los Fariseos, y dijeronles lo que Jesus 
+habia hecho.
+
+        47 Entonces los pontifices y los Fariseos juntaron concilio, y decian: 
+?Que hacemos? porque este hombre hace muchas senales.
+
+        48 Si le dejamos asi, todos creeran en el: y vendran los Romanos, y 
+quitaran nuestro lugar y la nacion.
+
+        49 Y Caifas, uno de ellos, sumo pontifice de aquel ano, les dijo: 
+Vosotros no sabeis nada;
+
+        50 Ni pensais que nos conviene que un hombre muera por el pueblo, y no 
+que toda la nacion se pierda.
+
+        51 Mas esto no lo dijo de si mismo; sino que, como era el sumo pontifice 
+de aquel ano, profetizo que Jesus habia de morir por la nacion:
+
+        52 Y no solamente por aquella nacion, mas tambien para que juntase en 
+uno los hijos de Dios que estaban derramados.
+
+        53 Asi que, desde aquel dia consultaban juntos de matarle.
+
+        54 Por tanto, Jesus ya no andaba manifiestamente entre los Judios; mas 
+fuese de alli a la tierra que esta junto al desierto, a una ciudad que se 
+llama Ephraim: y estabase alli con sus discipulos.
+
+        55 Y la Pascua de los Judios estaba cerca: y muchos subieron de aquella 
+tierra a Jerusalem antes de la Pascua, para purificarse;
+
+        56 Y buscaban a Jesus, y hablaban los unos con los otros estando en el 
+templo. ?Que os parece, que no vendra a la fiesta?
+
+        57 Y los pontifices y los Fariseos habian dado mandamiento, que si 
+alguno supiese donde estuviera, lo manifestase, para que le prendiesen.
+
+
+
+Capitulo  12
+
+        1 Y JESUS, seis dias antes de la Pascua, vino a Bethania, donde estaba 
+Lazaro, que habia sido muerto, al cual habia resucitado de los muertos.
+
+        2 E hicieronle alli una cena: y Marta servia, y Lazaro era uno de los 
+que estaban sentados a la mesa juntamente con el.
+
+        3 Entonces Maria tomo una libra de ungueento de nardo liquido de mucho 
+precio, y ungio los pies de Jesus, y limpio sus pies con sus cabellos: y la 
+casa se lleno del olor del ungueento.
+
+        4 Y dijo uno de sus discipulos, Judas Iscariote, [hijo]de Simon, el que 
+le habia de entregar:
+
+        5 ?Por que no se ha vendido este ungueento por trescientos dineros, y se 
+dio a los pobres?
+
+        6 Mas dijo esto, no por el cuidado que el tenia de los pobres; sino 
+porque era ladron, y tenia la bolsa, y traia lo que se echaba en ella.
+
+        7 Entonces Jesus dijo: Dejala: para el dia de mi sepultura ha guardado 
+esto;
+
+        8 Porque a los pobres siempre los teneis con vosotros, mas a mi no 
+siempre me teneis.
+
+        9 Entonces mucha gente de los Judios entendio que el estaba alli; y 
+vinieron no solamente por causa de Jesus, mas tambien por ver a Lazaro, al 
+cual habia resucitado de los muertos.
+
+        10 Consultaron asimismo los principes de los sacerdotes, de matar 
+tambien a Lazaro;
+
+        11 Porque muchos de los Judios iban y creian en Jesus por causa de el.
+
+        12 El siguiente dia, mucha gente que habia venido a la fiesta, como 
+oyeron que Jesus venia a Jerusalem,
+
+        13 Tomaron ramos de palmas, y salieron a recibirle, y clamaban: 
+iHosanna, Bendito el que viene en el nombre del Senor, el Rey de Israel!
+
+        14 Y hallo Jesus un asnillo, y se sento sobre el, como esta escrito:
+
+        15 No temas, hija de Sion: he aqui tu Rey viene, sentado sobre un 
+pollino de asna.
+
+        16 Estas cosas no las entendieron sus discipulos de primero: empero 
+cuando Jesus fue glorificado, entonces se acordaron de que estas cosas estaban 
+escritas de el, y que le hicieron estas cosas.
+
+        17 Y la gente que estaba con el, daba testimonio de cuando llamo a 
+Lazaro del sepulcro, y le resucito de los muertos.
+
+        18 Por lo cual tambien habia venido la gente a recibirle, porque habia 
+oido que el habia hecho esta senal;
+
+        19 Mas los Fariseos dijeron entre si: ?Veis que nada aprovechais? he 
+aqui, el mundo se va tras de el.
+
+        20 Y habia ciertos Griegos de los que habian subido a adorar en la 
+fiesta:
+
+        21 Estos pues, se llegaron a Felipe, que era de Bethsaida de Galilea, y 
+rogaronle, diciendo: Senor, querriamos ver a Jesus.
+
+        22 Vino Felipe, y dijolo a Andres: Andres entonces, y Felipe, lo dicen a 
+Jesus.
+
+        23 Entonces Jesus les respondio, diciendo: La hora viene en que el Hijo 
+del hombre ha de ser glorificado.
+
+        24 De cierto, de cierto os digo, que si el grano de trigo no cae en la 
+tierra y muere, el solo queda; mas si muriere, mucho fruto lleva.
+
+        25 El que ama su vida, la perdera; y el que aborrece su vida en este 
+mundo, para vida eterna la guardara.
+
+        26 Si alguno me sirve, sigame: y donde yo estuviere, alli tambien estara 
+mi servidor. Si alguno me sirviere, mi Padre le honrara.
+
+        27 Ahora esta turbada mi alma; ?y que dire? Padre, salvame de esta hora. 
+Mas por esto he venido en esta hora.
+
+        28 Padre, glorifica tu nombre. Entonces vino una voz del cielo: Y lo he 
+glorificado, y lo glorificare otra vez.
+
+        29 Y la gente que estaba presente, y habia oido, decia que habia sido 
+trueno. Otros decian: Angel le ha hablado.
+
+        30 Respondio Jesus, y dijo: No ha venido esta voz por mi causa, mas por 
+causa de vosotros.
+
+        31 Ahora es el juicio de este mundo: ahora el principe de este mundo 
+sera echado fuera.
+
+        32 Y yo, si fuere levantado de la tierra, a todos traere a mi mismo.
+
+        33 Y esto decia dando a entender de que muerte habia de morir.
+
+        34 Respondiole la gente: Nosotros hemos oido de la ley, que el Cristo 
+permanece para siempre: ?como pues dices tu: Conviene que el Hijo del hombre 
+sea levantado? ?Quien es este Hijo del hombre?
+
+        35 Entonces Jesus les dice: Aun por un poco estara la luz entre 
+vosotros: andad entre tanto que teneis luz, porque no os sorprendan las 
+tinieblas; porque el que anda en tinieblas, no sabe donde va.
+
+        36 Entre tanto que teneis la luz, creed en la luz, para que seais hijos 
+de luz. Estas cosas hablo Jesus, y fuese, y escondiose de ellos.
+
+        37 Empero habiendo hecho delante de ellos tantas senales, no creian en 
+el.
+
+        38 Para que se cumpliese el dicho que dijo el profeta Isaias: ?Senor, 
+quien ha creido a nuestro dicho? ?Y el brazo del Senor, a quien es revelado?
+
+        39 Por esto no podian creer, porque otra vez dijo Isaias:
+
+        40 Cego los ojos de ellos, y endurecio su corazon; Porque no vean con 
+los ojos, y entiendan de corazon, Y se conviertan, Y yo los sane.
+
+        41 Estas cosas dijo Isaias cuando vio su gloria, y hablo de el.
+
+        42 Con todo eso, aun de los principes, muchos creyeron en el; mas por 
+causa de los Fariseos no [lo] confesaban, por no ser echados de la sinagoga.
+
+        43 Porque amaban mas la gloria de los hombres que la gloria de Dios.
+
+        44 Mas Jesus clamo y dijo: El que cree en mi, no cree en mi, sino en el 
+que me envio;
+
+        45 Y el que me ve, ve al que me envio.
+
+        46 Yo [la] luz he venido al mundo, para que todo aquel que cree en mi no 
+permanezca en tinieblas.
+
+        47 Y el que oyere mis palabras, y no las creyere, yo no le juzgo; porque 
+no he venido a juzgar al mundo, sino a salvar al mundo.
+
+        48 El que me desecha, y no recibe mis palabras, tiene quien le juzgue: 
+la palabra que he hablado, ella le juzgara en el dia postrero.
+
+        49 Porque yo no he hablado de mi mismo: mas el Padre que me envio, el me 
+dio mandamiento de lo que he de decir, y de lo que he de hablar.
+
+        50 Y se que su mandamiento es vida eterna: asi que, lo que yo hablo, 
+como el Padre me lo ha dicho, asi hablo.
+
+
+
+Capitulo  13
+
+        1 ANTES de la fiesta de la Pascua, sabiendo Jesus que su hora habia 
+venido para que pasase de este mundo al Padre, como habia amado a los suyos 
+que estaban en el mundo, amolos hasta el fin.
+
+        2 Y la cena acabada, como el diablo ya habia metido en el corazon de 
+Judas, [hijo] de Simon Iscariote, que le entregase,
+
+        3 Sabiendo Jesus que el Padre le habia dado todas las cosas en las 
+manos, y que habia salido de Dios, y a Dios iba,
+
+        4 Levantase de la cena, y quitase su ropa, y tomando una toalla, cinose.
+
+        5 Luego puso agua en un lebrillo, y comenzo a lavar los pies de los 
+discipulos, y a limpiarlos con la toalla con que estaba cenido.
+
+        6 Entonces vino a Simon Pedro; y Pedro le dice: ?Senor, tu me lavas los 
+pies?
+
+        7 Respondio Jesus, y dijole: Lo que yo hago, tu no entiendes ahora; mas 
+[lo] entenderas despues.
+
+        8 Dicele Pedro: No me lavaras los pies jamas. Respondiole Jesus: Si no 
+te lavare, no tendras parte conmigo.
+
+        9 Dicele Simon Pedro: Senor, no solo mis pies, mas aun las manos y la 
+cabeza.
+
+        10 Dicele Jesus: El que esta lavado, no necesita sino que lave los pies, 
+mas esta todo limpio: y vosotros limpios estais, aunque no todos.
+
+        11 Porque sabia quien le habia de entregar; por eso dijo: No estais 
+limpios todos.
+
+        12 Asi que, despues que les hubo lavado los pies, y tomado su ropa, 
+volviendose a sentar a la mesa, dijoles: ?Sabeis lo que os he hecho?
+
+        13 Vosotros me llamais, Maestro, y, Senor: y decis bien; porque lo soy.
+
+        14 Pues si yo, el Senor y el Maestro, he lavado vuestros pies, vosotros 
+tambien debeis lavar los pies los unos a los otros.
+
+        15 Porque ejemplo os he dado, para que como yo os he hecho, vosotros 
+tambien hagais.
+
+        16 De cierto, de cierto os digo: El siervo no es mayor que su senor, ni 
+el apostol es mayor que el que le envio.
+
+        17 Si sabeis estas cosas, bienaventurados sereis, si las hiciereis.
+
+        18 No hablo de todos vosotros: yo se los que he elegido: mas para que se 
+cumpla la Escritura: El que come pan conmigo, levanto contra mi su calcanar.
+
+        19 Desde ahora os lo digo antes que se haga, para que cuando se hiciere, 
+creais que yo soy.
+
+        20 De cierto, de cierto os digo: El que recibe al que yo enviare, a mi 
+recibe; y el que a mi recibe, recibe al que me envio.
+
+        21 Como hubo dicho Jesus esto, fue conmovido en el espiritu, y protesto, 
+y dijo: De cierto, de cierto os digo, que uno de vosotros me ha de entregar.
+
+        22 Entonces los discipulos mirabanse los unos a los otros, dudando de 
+quien decia.
+
+        23 Y uno de sus discipulos, al cual Jesus amaba, estaba recostado en el 
+seno de Jesus.
+
+        24 A este, pues, hizo senas Simon Pedro, para que preguntase quien era 
+aquel de quien decia.
+
+        25 El entonces recostandose sobre el pecho de Jesus, dicele: Senor, 
+?quien es?
+
+        26 Respondio Jesus: Aquel es, a quien yo diere el pan mojado. Y mojando 
+el pan, diolo a Judas Iscariote, [hijo] de Simon.
+
+        27 Y tras el bocado Satanas entro en el. Entonces Jesus le dice: Lo que 
+haces, haz[lo] mas presto.
+
+        28 Mas ninguno de los que estaban a la mesa entendio a que proposito le 
+dijo esto.
+
+        29 Porque los unos pensaban, por que Judas tenia la bolsa, que Jesus le 
+decia: Compra lo que necesitamos para la fiesta: o, que diese algo a los 
+pobres.
+
+        30 Como el pues hubo tomado el bocado, luego salio: y era [ya] noche.
+
+        31 Entonces como el salio, dijo Jesus: Ahora es glorificado el Hijo del 
+hombre, y Dios es glorificado en el.
+
+        32 Si Dios es glorificado en el, Dios tambien le glorificara en si 
+mismo, y luego le glorificara.
+
+        33 Hijitos, aun un poco estoy con vosotros. Me buscareis; mas, como dije 
+a los Judios: Donde yo voy, vosotros no podeis venir; asi digo a vosotros 
+ahora.
+
+        34 Un mandamiento nuevo os doy: Que os ameis unos a otros: como os he 
+amado, que tambien [os] ameis los unos a los otros.
+
+        35 En esto conoceran todos que sois mis discipulos, si tuviereis amor 
+los unos con los otros.
+
+        36 Dicele Simon Pedro: Senor, ?adonde vas? Respondiole Jesus: Donde yo 
+voy, no me puedes ahora seguir; mas me seguiras despues.
+
+        37 Dicele Pedro: Senor, ?por que no te puedo seguir ahora? mi alma 
+pondre por ti.
+
+        38 Respondiole Jesus: ?Tu alma pondras por mi? De cierto, de cierto te 
+digo: No cantara el gallo, sin que me hayas negado tres veces.
+
+
+
+Capitulo  14
+
+        1 NO se turbe vuestro corazon: creeis en Dios, creed tambien en mi.
+
+        2 En la casa de mi Padre muchas moradas hay: de otra manera os [lo] 
+hubiera dicho: voy, pues, a preparar lugar para vosotros.
+
+        3 Y si me fuere, y os aparejare lugar, vendre otra vez, y os tomare a mi 
+mismo: para que donde yo estoy, vosotros tambien esteis.
+
+        4 Y sabeis a donde yo voy; y sabeis el camino.
+
+        5 Dicele Tomas: Senor, no sabemos a donde vas: ?como, pues, podemos 
+saber el camino?
+
+        6 Jesus le dice: Yo soy el camino, y la verdad, y la vida: nadie viene 
+al Padre, sino por mi.
+
+        7 Si me conocieseis, tambien a mi Padre conocierais: y desde ahora le 
+conoceis, y le habeis visto.
+
+        8 Dicele Felipe: Senor, muestranos el Padre, y nos basta.
+
+        9 Jesus le dice: ?Tanto tiempo ha que estoy con vosotros, y no me has 
+conocido, Felipe? El que me ha visto, ha visto al Padre; ?como, pues, dices 
+tu: Muestranos el Padre?
+
+        10 ?No crees que yo soy en el Padre, y el Padre en mi? Las palabras que 
+yo os hablo, no [las] hablo de mi mismo: mas el Padre que esta en mi, el hace 
+las obras.
+
+        11 Creedme que yo soy en el Padre, y el Padre en mi: de otra manera, 
+creedme por las mismas obras.
+
+        12 De cierto, de cierto os digo: El que en mi cree, las obras que yo 
+hago tambien el [las] hara; y mayores que estas hara; porque yo voy al Padre.
+
+        13 Y todo lo que pidiereis al Padre en mi nombre, esto hare, para que el 
+Padre sea glorificado en el Hijo.
+
+        14 Si algo pidiereis en mi nombre, yo lo hare.
+
+        15 Si me amais, guardad mis mandamientos;
+
+        16 Y yo rogare al Padre, y os dara otro Consolador, para que este con 
+vosotros para siempre:
+
+        17 Al Espiritu de verdad, al cual el mundo no puede recibir, porque no 
+le ve, ni le conoce: mas vosotros le conoceis; porque esta con vosotros, y 
+sera en vosotros.
+
+        18 No os dejare huerfanos: vendre a vosotros.
+
+        19 Aun un poquito, y el mundo no me vera mas; empero vosotros me vereis; 
+porque yo vivo, y vosotros tambien vivireis.
+
+        20 En aquel dia vosotros conocereis que yo estoy en mi Padre, y vosotros 
+en mi, y yo en vosotros.
+
+        21 El que tiene mis mandamientos, y los guarda, aquel es el que me ama; 
+y el que me ama, sera amado de mi Padre, y yo le amare, y me manifestare a el.
+
+        22 Dicele Judas, no el Iscariote: Senor, ?que hay porque te hayas de 
+manifestar a nosotros, y no al mundo?
+
+        23 Respondio Jesus, y dijole: El que me ama, mi palabra guardara; y mi 
+Padre le amara, y vendremos a el, y haremos con el morada.
+
+        24 El que no me ama, no guarda mis palabras: y la palabra que habeis 
+oido, no es mia, sino del Padre que me envio.
+
+        25 Estas cosas os he hablado estando con vosotros.
+
+        26 Mas el Consolador, el Espiritu Santo, al cual el Padre enviara en mi 
+nombre, el os ensenara todas las cosas, y os recordara todas las cosas que os 
+he dicho.
+
+        27 La paz os dejo, mi paz os doy: no como el mundo [la] da, yo os [la] 
+doy. No se turbe vuestro corazon, ni tenga miedo.
+
+        28 Habeis oido como yo os he dicho: Voy, y vengo a vosotros. Si me 
+amaseis, ciertamente os gozariais, porque he dicho que voy al Padre: porque el 
+Padre mayor es que yo.
+
+        29 Y ahora os lo he dicho antes que se haga; para que cuando se hiciere, 
+creais.
+
+        30 Ya no hablare mucho con vosotros: porque viene el principe de este 
+mundo; mas no tiene nada en mi.
+
+        31 Empero para que conozca el mundo que amo al Padre, y como el Padre me 
+dio el mandamiento, asi hago. Levantaos, vamos de aqui.
+
+
+
+Capitulo  15
+
+        1 YO soy la vid verdadera, y mi Padre es el labrador.
+
+        2 Todo pampano que en mi no lleva fruto, le quitara: y todo aquel que 
+lleva fruto, le limpiara, para que lleve mas fruto.
+
+        3 Ya vosotros sois limpios por la palabra que os he hablado.
+
+        4 Estad en mi, y yo en vosotros. Como el pampano no puede llevar fruto 
+de si mismo, si no estuviere en la vid; asi ni vosotros, si no estuviereis en 
+mi.
+
+        5 Yo soy la vid, vosotros los pampanos: el que esta en mi, y yo en el, 
+este lleva mucho fruto; porque sin mi nada podeis hacer.
+
+        6 El que en mi no estuviere, sera echado fuera como [mal] pampano, y se 
+secara; y los cogen, y los echan en el fuego, y arden.
+
+        7 Si estuviereis en mi, y mis palabras estuvieren en vosotros, pedid 
+todo lo que quisiereis, y os sera hecho.
+
+        8 En esto es glorificado mi Padre, [en] que lleveis mucho fruto, y seais 
+[asi] mis discipulos.
+
+        9 Como el Padre me amo, tambien yo os he amado: estad en mi amor.
+
+        10 Si guardareis mis mandamientos, estareis en mi amor; como yo tambien 
+he guardado los mandamientos de mi Padre, y estoy en su amor.
+
+        11 Estas cosas os he hablado, para que mi gozo este en vosotros, y 
+vuestro gozo sea cumplido.
+
+        12 Este es mi mandamiento: Que os ameis los unos a los otros, como yo os 
+he amado.
+
+        13 Nadie tiene mayor amor que este, que ponga alguno su vida por sus 
+amigos.
+
+        14 Vosotros sois mis amigos, si hiciereis las cosas que yo os mando.
+
+        15 Ya no os llamare siervos, porque el siervo no sabe lo que hace su 
+senor: mas os he llamado amigos, porque todas las cosas que oi de mi Padre, os 
+he hecho notorias.
+
+        16 No me elegisteis vosotros a mi, mas yo os elegi a vosotros; y os he 
+puesto para que vayais y lleveis fruto, y vuestro fruto permanezca: para que 
+todo lo que pidiereis del Padre en mi nombre, el os lo de.
+
+        17 Esto os mando: Que os ameis los unos a los otros.
+
+        18 Si el mundo os aborrece, sabed que a mi me aborrecio antes que a 
+vosotros.
+
+        19 Si fuerais del mundo, el mundo amaria lo suyo; mas porque no sois del 
+mundo, antes yo os elegi del mundo, por eso os aborrece el mundo.
+
+        20 Acordaos de la palabra que yo os he dicho: No es el siervo mayor que 
+su senor. Si a mi me han perseguido, tambien a vosotros perseguiran: si han 
+guardado mi palabra, tambien guardaran la vuestra.
+
+        21 Mas todo esto os haran por causa de mi nombre, porque no conocen al 
+que me ha enviado.
+
+        22 Si no hubiera venido, ni les hubiera hablado, no tendrian pecado, mas 
+ahora no tienen excusa de su pecado.
+
+        23 El que me aborrece, tambien a mi Padre aborrece.
+
+        24 Si no hubiese hecho entre ellos obras cuales ningun otro ha hecho, no 
+tendrian pecado; mas ahora, y [las] han visto, y me aborrecen a mi y a mi 
+Padre.
+
+        25 Mas para que se cumpla la palabra que esta escrita en su ley: Que sin 
+causa me aborrecieron.
+
+        26 Empero cuando viniere el Consolador, el cual yo os enviare del Padre, 
+el Espiritu de verdad, el cual procede del Padre, el dara testimonio de mi.
+
+        27 Y vosotros dareis testimonio, porque estais conmigo desde el 
+principio.
+
+
+
+Capitulo  16
+
+        1 ESTAS cosas os he hablado, para que no os escandaliceis.
+
+        2 Os echaran de las sinagogas; y aun viene la hora, cuando cualquiera 
+que os matare, pensara que hace servicio a Dios.
+
+        3 Y estas cosas os haran, porque no conocen al Padre ni a mi.
+
+        4 Mas os he dicho esto, para que cuando aquella hora viniere, os 
+acordeis que yo os lo habia dicho. Esto empero no os lo dije al principio, 
+porque yo estaba con vosotros.
+
+        5 Mas ahora voy al que me envio; y ninguno de vosotros me pregunta: 
+?Adonde vas?
+
+        6 Antes, porque os he hablado estas cosas, tristeza ha henchido vuestro 
+corazon.
+
+        7 Empero yo os digo la verdad: Os es necesario que yo vaya: porque si yo 
+no fuese, el Consolador no vendria a vosotros; mas si yo fuere, os le enviare.
+
+        8 Y cuando el viniere redargueira al mundo de pecado, y de justicia, y de 
+juicio:
+
+        9 De pecado ciertamente, por cuanto no creen en mi;
+
+        10 Y de justicia, por cuanto voy al Padre, y no me vereis mas;
+
+        11 Y de juicio, por cuanto el principe de este mundo es juzgado.
+
+        12 Aun tengo muchas cosas que deciros, mas ahora no las podeis llevar.
+
+        13 Pero cuando viniere aquel Espiritu de verdad, el os guiara a toda 
+verdad; porque no hablara de si mismo, sino que hablara todo lo que oyere, y 
+os hara saber las cosas que han de venir.
+
+        14 El me glorificara: porque tomara de lo mio, y os [lo] hara saber.
+
+        15 Todo lo que tiene el Padre, mio es: por eso dije que tomara de lo 
+mio, y os [lo] hara saber.
+
+        16 Un poquito, y no me vereis; y otra vez un poquito, y me vereis: 
+porque yo voy al Padre.
+
+        17 Entonces dijeron [algunos] de sus discipulos unos a otros: ?Que es 
+esto que nos dice: Un poquito, y no me vereis; y otra vez un poquito, y me 
+vereis: y, porque yo voy al Padre?
+
+        18 Decian pues: ?Que es esto que dice: Un poquito? No entendemos lo que 
+habla.
+
+        19 Y conocio Jesus que le querian preguntar, y dijoles: ?Preguntais 
+entre vosotros de esto que dije: Un poquito, y no me vereis, y otra vez un 
+poquito, y me vereis?
+
+        20 De cierto, de cierto os digo, que vosotros llorareis y lamentareis, y 
+el mundo se alegrara: empero aunque vosotros estareis tristes, vuestra 
+tristeza se tornara en gozo.
+
+        21 La mujer cuando pare, tiene dolor, porque es venida su hora; mas 
+despues que ha parido un nino, ya no se acuerda de la angustia, por el gozo de 
+que haya nacido un hombre en el mundo.
+
+        22 Tambien, pues, vosotros ahora ciertamente teneis tristeza; mas otra 
+vez os vere, y se gozara vuestro corazon, y nadie quitara de vosotros vuestro 
+gozo.
+
+        23 Y aquel dia no me preguntareis nada. De cierto, de cierto os digo, 
+que todo cuanto pidiereis al Padre en mi nombre, os [lo] dara.
+
+        24 Hasta ahora nada habeis pedido en mi nombre: pedid, y recibireis, 
+para que vuestro gozo sea cumplido.
+
+        25 Estas cosas os he hablado en proverbios: la hora viene cuando ya no 
+os hablare por proverbios, pero claramente os anunciare del Padre.
+
+        26 Aquel dia pedireis en mi nombre: y no os digo, que yo rogare al Padre 
+por vosotros;
+
+        27 Pues el mismo Padre os ama, porque vosotros me amasteis, y habeis 
+creido que yo sali de Dios.
+
+        28 Sali del Padre, y he venido al mundo: otra vez dejo el mundo, y voy 
+al Padre.
+
+        29 Dicenle sus discipulos: He aqui, ahora hablas claramente, y ningun 
+proverbio dices.
+
+        30 Ahora entendemos que sabes todas las cosas, y no necesitas que nadie 
+te pregunte: en esto creemos que has salido de Dios.
+
+        31 Respondioles Jesus: ?Ahora creeis?
+
+        32 He aqui, la hora viene, y ha venido, que sereis esparcidos cada uno 
+por su parte, y me dejareis solo: mas no estoy solo, porque el Padre esta 
+conmigo.
+
+        33 Estas cosas os he hablado, para que en mi tengais paz. En el mundo 
+tendreis afliccion: mas confiad, yo he vencido al mundo.
+
+
+
+Capitulo  17
+
+        1 ESTAS cosas hablo Jesus, y levantados los ojos al cielo, dijo: Padre, 
+la hora es llegada; glorifica a tu Hijo, para que tambien tu Hijo te 
+glorifique a ti;
+
+        2 Como le has dado la potestad de toda carne, para que de vida eterna a 
+todos los que le diste.
+
+        3 Esta empero es la vida eterna: que te conozcan el solo Dios verdadero, 
+y a Jesucristo, al cual has enviado.
+
+        4 Yo te he glorificado en la tierra: he acabado la obra que me diste que 
+hiciese.
+
+        5 Ahora pues, Padre, glorificame tu cerca de ti mismo con aquella gloria 
+que tuve cerca de ti antes que el mundo fuese.
+
+        6 He manifestado tu nombre a los hombres que del mundo me diste: tuyos 
+eran, y me los diste, y guardaron tu palabra.
+
+        7 Ahora han conocido que todas las cosas que me diste, son de ti;
+
+        8 Porque las palabras que me diste, les he dado; y ellos [las] 
+recibieron, y han conocido verdaderamente que sali de ti, y han creido que tu 
+me enviaste.
+
+        9 Yo ruego por ellos: no ruego por el mundo, sino por los que me diste; 
+porque tuyos son:
+
+        10 Y todas mis cosas son tus cosas, y tus cosas son mis cosas: y he sido 
+glorificado en ellas.
+
+        11 Y ya no estoy en el mundo; mas estos estan en el mundo, y yo a ti 
+vengo. Padre santo, a los que me has dado, guardalos por tu nombre, para que 
+sean una cosa, como tambien nosotros.
+
+        12 Cuando estaba con ellos en el mundo, yo los guardaba en tu nombre; a 
+los que me diste, yo los guarde, y ninguno de ellos se perdio, sino el hijo de 
+perdicion; para que la Escritura se cumpliese.
+
+        13 Mas ahora vengo a ti; y hablo esto en el mundo, para que tengan mi 
+gozo cumplido en si mismos.
+
+        14 Yo les he dado tu palabra; y el mundo los aborrecio, porque no son 
+del mundo, como tampoco yo soy del mundo.
+
+        15 No ruego que los quites del mundo, sino que los guardes del mal.
+
+        16 No son del mundo, como tampoco yo soy del mundo.
+
+        17 Santificalos en tu verdad: tu palabra es verdad.
+
+        18 Como tu me enviaste al mundo, tambien los he enviado al mundo.
+
+        19 Y por ellos yo me santifico a mi mismo, para que tambien ellos sean 
+santificados en verdad.
+
+        20 Mas no ruego solamente por estos, sino tambien por los que han de 
+creer en mi por la palabra de ellos.
+
+        21 Para que todos sean una cosa; como tu, oh Padre, en mi, y yo en ti, 
+que tambien ellos sean en nosotros una cosa: para que el mundo crea que tu me 
+enviaste.
+
+        22 Y yo, la gloria que me diste les he dado; para que sean una cosa, 
+como tambien nosotros somos una cosa.
+
+        23 Yo en ellos, y tu en mi, para que sean consumadamente una cosa; que 
+el mundo conozca que tu me enviaste, y que los has amado, como tambien a mi me 
+has amado.
+
+        24 Padre, aquellos que me has dado, quiero que donde yo estoy, ellos 
+esten tambien conmigo; para que vean mi gloria que me has dado: por cuanto me 
+has amado desde antes de la constitucion del mundo.
+
+        25 Padre justo, el mundo no te ha conocido, mas yo te he conocido; y 
+estos han conocido que tu me enviaste;
+
+        26 Y yo les he manifestado tu nombre, y manifestare[lo aun]; para que el 
+amor con que me has amado, este en ellos, y yo en ellos.
+
+
+
+Capitulo  18
+
+        1 COMO Jesus hubo dicho estas cosas, saliose con sus discipulos tras el 
+arroyo de Cedron, donde estaba un huerto, en el cual entro Jesus y sus 
+discipulos.
+
+        2 Y tambien Judas, el que le entregaba, sabia aquel lugar; porque muchas 
+veces Jesus se juntaba alli con sus discipulos.
+
+        3 Judas pues tomando una compania, y ministros de los pontifices y de 
+los Fariseos, vino alli con linternas y antorchas, y con armas.
+
+        4 Empero Jesus, sabiendo todas las cosas que habian de venir sobre el, 
+salio delante, y dijoles: ?A quien buscais?
+
+        5 Respondieronle: A Jesus Nazareno. Diceles Jesus: Yo soy. (Y estaba 
+tambien con ellos Judas, el que le entregaba.)
+
+        6 Y como les dijo, Yo soy, volvieron atras, y cayeron en tierra.
+
+        7 Volvioles, pues, a preguntar: ?A quien buscais? Y ellos dijeron: A 
+Jesus Nazareno.
+
+        8 Respondio Jesus: Os he dicho que yo soy: pues si a mi buscais, dejad 
+ir a estos.
+
+        9 Para que se cumpliese la palabra que habia dicho: De los que me diste, 
+ninguno de ellos perdi.
+
+        10 Entonces Simon Pedro, que tenia espada, sacola, e hirio al siervo del 
+pontifice, y le corto la oreja derecha. Y el siervo se llamaba Malco.
+
+        11 Jesus entonces dijo a Pedro: Mete tu espada en la vaina: el vaso que 
+el Padre me ha dado, ?no lo tengo de beber?
+
+        12 Entonces la compania y el tribuno, y los ministros de los Judios, 
+prendieron a Jesus y le ataron,
+
+        13 Y llevaronle primeramente a Anas; porque era suegro de Caifas, el 
+cual era pontifice de aquel ano.
+
+        14 Y era Caifas el que habia dado el consejo a los Judios, que era 
+necesario que un hombre muriese por el pueblo.
+
+        15 Y seguia a Jesus Simon Pedro, y otro discipulo. Y aquel discipulo era 
+conocido del pontifice, y entro con Jesus al atrio del pontifice;
+
+        16 Mas Pedro estaba fuera a la puerta. Y salio aquel discipulo que era 
+conocido del pontifice, y hablo a la portera, y metio dentro a Pedro.
+
+        17 Entonces la criada portera dijo a Pedro: ?No eres tu tambien de los 
+discipulos de este hombre? Dice el: No soy.
+
+        18 Y estaban en pie los siervos y los ministros que habian allegado las 
+ascuas; porque hacia frio, y calentabanse: y estaba tambien con ellos Pedro en 
+pie, calentandose.
+
+        19 Y el pontifice pregunto a Jesus acerca de sus discipulos y de su 
+doctrina.
+
+        20 Jesus le respondio: Yo manifiestamente he hablado al mundo: yo 
+siempre he ensenado en la sinagoga y en el templo, donde se juntan todos los 
+Judios, y nada he hablado en oculto.
+
+        21 ?Que me preguntas a mi? Pregunta a los que han oido, que les haya yo 
+hablado: he aqui, esos saben lo que yo he dicho.
+
+        22 Y como el hubo dicho esto, uno de los criados que estaba alli, dio 
+una bofetada a Jesus, diciendo: ?Asi respondes al pontifice?
+
+        23 Respondiole Jesus: Si he hablado mal, da testimonio del mal: y si 
+bien, ?por que me hieres?
+
+        24 Y Anas le habia enviado atado a Caifas pontifice.
+
+        25 Estaba pues Pedro en pie calentandose. Y dijeronle: ?No eres tu de 
+sus discipulos? El nego, y dijo: No soy.
+
+        26 Uno de los siervos del pontifice, pariente de aquel a quien Pedro 
+habia cortado la oreja, [le] dice: ?No te vi yo en el huerto con el?
+
+        27 Y nego Pedro otra vez: y luego el gallo canto.
+
+        28 Y llevaron a Jesus de Caifas al pretorio: y era por la manana: y 
+ellos no entraron en el pretorio por no ser contaminados, sino que comiesen la 
+pascua.
+
+        29 Entonces salio Pilato a ellos fuera, y dijo: ?Que acusacion traeis 
+contra este hombre?
+
+        30 Respondieron y dijeronle: Si este no fuera malhechor, no te le 
+habriamos entregado.
+
+        31 Diceles entonces Pilato: Tomadle vosotros, y juzgadle segun vuestra 
+ley. Y los Judios le dijeron: A nosotros no es licito matar a nadie:
+
+        32 Para que se cumpliese el dicho de Jesus, que habia dicho, dando a 
+entender de que muerte habia de morir.
+
+        33 Asi que, Pilato volvio a entrar en el pretorio, y llamo a Jesus, y 
+dijole: ?Eres tu el Rey de los Judios?
+
+        34 Respondiole Jesus: ?Dices tu esto de ti mismo, o te lo han dicho 
+otros de mi?
+
+        35 Pilato respondio: ?Soy yo Judio? Tu gente, y los pontifices, te han 
+entregado a mi: ?que has hecho?
+
+        36 Respondio Jesus: Mi reino no es de este mundo: si de este mundo fuera 
+mi reino, mis servidores pelearian para que yo no fuera entregado a los 
+Judios: ahora, pues, mi reino no es de aqui.
+
+        37 Dijole entonces Pilato: ?Luego rey eres tu? Respondio Jesus: Tu dices 
+que yo soy rey. Yo para esto he nacido, y para esto he venido al mundo, para 
+dar testimonio a la verdad. Todo aquel que es de la verdad, oye mi voz.
+
+        38 Dicele Pilato: ?Que cosa es verdad? Y como hubo dicho esto, salio 
+otra vez a los Judios, y diceles: Yo no hallo en el ningun crimen.
+
+        39 Empero vosotros teneis costumbre, que os suelte uno en la Pascua: 
+?quereis, pues, que os suelte al Rey de los Judios?
+
+        40 Entonces todos dieron voces otra vez, diciendo: No a este, sino a 
+Barrabas. Y Barrabas era ladron.
+
+
+
+Capitulo  19
+
+        1 ASI que, entonces tomo Pilato a Jesus, y le azoto.
+
+        2 Y los soldados entretejieron de espinas una corona, y pusieron[la] 
+sobre su cabeza, y le vistieron de una ropa de grana;
+
+        3 Y decian: iSalve, Rey de los Judios! y dabanle de bofetadas.
+
+        4 Entonces Pilato salio otra vez fuera, y dijoles: He aqui, os le traigo 
+fuera, para que entendais que ningun crimen hallo en el.
+
+        5 Y salio Jesus fuera, llevando la corona de espinas y la ropa de grana. 
+Y diceles [Pilato:] He aqui el hombre.
+
+        6 Y como le vieron los principes de los sacerdotes, y los servidores, 
+dieron voces diciendo: Crucificale, crucificale. Diceles Pilato: Tomadle 
+vosotros, y crucificadle; porque yo no hallo en el crimen.
+
+        7 Respondieronle los Judios: Nosotros tenemos ley, y segun nuestra ley 
+debe morir, porque se hizo Hijo de Dios.
+
+        8 Y como Pilato oyo esta palabra, tuvo mas miedo.
+
+        9 Y entro otra vez en el pretorio, y dijo a Jesus: ?De donde eres tu? 
+Mas Jesus no le dio respuesta.
+
+        10 Entonces dicele Pilato: ?A mi no me hablas? ?no sabes que tengo 
+potestad para crucificarte, y que tengo potestad para soltarte?
+
+        11 Respondio Jesus: Ninguna potestad tendrias contra mi, si no te fuese 
+dado de arriba: por tanto, el que a ti me ha entregado, mayor pecado tiene.
+
+        12 Desde entonces procuraba Pilato soltarle; mas los Judios daban voces, 
+diciendo: Si a este sueltas, no eres amigo de Cesar: cualquiera que se hace 
+rey, a Cesar contradice.
+
+        13 Entonces Pilato, oyendo este dicho, llevo fuera a Jesus, y se sento 
+en el tribunal en el lugar que se dice Lithostrotos, y en hebreo Gabbatha.
+
+        14 Y era la vispera de la Pascua, y como la hora de sexta. Entonces dijo 
+a los Judios: He aqui vuestro Rey.
+
+        15 Mas ellos dieron voces: Quita, quita, crucificale. Diceles Pilato: ?A 
+vuestro Rey he de crucificar? Respondieron los pontifices: No tenemos rey sino 
+a Cesar.
+
+        16 Asi que entonces lo entrego a ellos para que fuese crucificado. Y 
+tomaron a Jesus, y le llevaron.
+
+        17 Y llevando su cruz, salio al lugar que se dice de la Calavera, y en 
+hebreo, Golgotha;
+
+        18 Donde le crucificaron, y con el otros dos, uno a cada lado, y Jesus 
+en medio.
+
+        19 Y escribio tambien Pilato un titulo, que puso encima de la cruz. Y el 
+escrito era: JESUS NAZARENO, REY DE LOS JUDIOS.
+
+        20 Y muchos de los Judios leyeron este titulo: porque el lugar donde 
+estaba crucificado Jesus era cerca de la ciudad: y estaba escrito en hebreo, 
+en griego, y en latin.
+
+        21 Y decian a Pilato los pontifices de los Judios: No escribas, Rey de 
+los Judios: sino, que el dijo: Rey soy de los Judios.
+
+        22 Respondio Pilato: Lo que he escrito, he escrito.
+
+        23 Y como los soldados hubieron crucificado a Jesus, tomaron sus 
+vestidos, e hicieron cuatro partes (para cada soldado una parte); y la tunica; 
+mas la tunica era sin costura, toda tejida desde arriba.
+
+        24 Y dijeron entre ellos: No la partamos, sino echemos suertes sobre 
+ella, de quien sera; para que se cumpliese la Escritura, que dice: Partieron 
+para si mis vestidos, Y sobre mi vestidura echaron suertes. Y los soldados 
+hicieron esto.
+
+        25 Y estaban junto a la cruz de Jesus su madre, y la hermana de su 
+madre, Maria [mujer] de Cleofas, y Maria Magdalena.
+
+        26 Y como vio Jesus a la madre, y al discipulo que el amaba, que estaba 
+presente, dice a su madre: Mujer, he ahi tu hijo.
+
+        27 Despues dice al discipulo: He ahi tu madre. Y desde aquella hora el 
+discipulo la recibio consigo.
+
+        28 Despues de esto, sabiendo Jesus que todas las cosas eran ya 
+cumplidas, para que la Escritura se cumpliese, dijo: Sed tengo.
+
+        29 Y estaba [alli] un vaso lleno de vinagre: entonces ellos hinchieron 
+una esponja de vinagre, y rodeada a un hisopo, se la llegaron a la boca.
+
+        30 Y como Jesus tomo el vinagre, dijo: Consumado es. Y habiendo 
+inclinado la cabeza, dio el espiritu.
+
+        31 Entonces los Judios, por cuanto era la vispera [de la Pascua], para 
+que los cuerpos no quedasen en la cruz en el sabado, pues era el gran dia del 
+sabado, rogaron a Pilato que se les quebrasen las piernas, y fuesen quitados.
+
+        32 Y vinieron los soldados, y quebraron las piernas al primero, y 
+asimismo al otro que habia sido crucificado con el.
+
+        33 Mas cuando vinieron a Jesus, como le vieron ya muerto, no le 
+quebraron las piernas:
+
+        34 Empero uno de los soldados le abrio el costado con una lanza, y luego 
+salio sangre y agua.
+
+        35 Y el que [lo] vio, da testimonio, y su testimonio es verdadero: y el 
+sabe que dice verdad, para que vosotros tambien creais.
+
+        36 Porque estas cosas fueron hechas para que se cumpliese la Escritura: 
+Hueso no quebrantareis de el.
+
+        37 Y tambien otra Escritura dice: Miraran al que traspasaron.
+
+        38 Despues de estas cosas, Jose de Arimatea, el cual era discipulo de 
+Jesus, mas secreto por miedo de los Judios, rogo a Pilato que pudiera quitar 
+el cuerpo de Jesus: y permitioselo Pilato. Entonces vino, y quito el cuerpo de 
+Jesus.
+
+        39 Y vino tambien Nicodemo, el que antes habia venido a Jesus de noche, 
+trayendo un compuesto de mirra y de aloes, como cien libras.
+
+        40 Tomaron pues el cuerpo de Jesus, y envolvieronlo en lienzos con 
+especias, como es costumbre de los Judios sepultar.
+
+        41 Y en aquel lugar donde habia sido crucificado, habia un huerto; y en 
+el huerto un sepulcro nuevo, en el cual aun no habia sido puesto ninguno.
+
+        42 Alli, pues, por causa de la vispera [de la Pascua] de los Judios, 
+porque aquel sepulcro estaba cerca, pusieron a Jesus.
+
+
+
+Capitulo  20
+
+        1 Y EL primer [dia] de la semana, Maria Magdalena vino de manana, siendo 
+aun obscuro, al sepulcro; y vio la piedra quitada del sepulcro.
+
+        2 Entonces corrio, y vino a Simon Pedro, y al otro discipulo, al cual 
+amaba Jesus, y les dice: Han llevado al Senor del sepulcro, y no sabemos donde 
+le han puesto.
+
+        3 Y salio Pedro, y el otro discipulo, y vinieron al sepulcro.
+
+        4 Y corrian los dos juntos; mas el otro discipulo corrio mas presto que 
+Pedro, y llego primero al sepulcro.
+
+        5 Y bajandose a mirar, vio los lienzos echados; mas no entro.
+
+        6 Llego luego Simon Pedro siguiendole, y entro en el sepulcro, y vio los 
+lienzos echados,
+
+        7 Y el sudario, que habia estado sobre su cabeza, no puesto con los 
+lienzos, sino envuelto en un lugar aparte.
+
+        8 Y entonces entro tambien el otro discipulo, que habia venido primero 
+al sepulcro, y vio, y creyo.
+
+        9 Porque aun no sabian la Escritura, que era necesario que el resucitase 
+de los muertos.
+
+        10 Y volvieron los discipulos a los suyos.
+
+        11 Empero Maria estaba fuera llorando junto al sepulcro: y estando 
+llorando, bajose a mirar el sepulcro;
+
+        12 Y vio dos angeles en ropas blancas que estaban sentados, el uno a la 
+cabecera, y el otro a los pies, donde el cuerpo de Jesus habia sido puesto.
+
+        13 Y dijeronle: Mujer, ?por que lloras? Diceles: Porque se han llevado a 
+mi Senor, y no se donde le han puesto.
+
+        14 Y como hubo dicho esto, volviose atras, y vio a Jesus que estaba 
+[alli]; mas no sabia que era Jesus.
+
+        15 Dicele Jesus: Mujer, ?por que lloras? ?a quien buscas? Ella, pensando 
+que era el hortelano, dicele: Senor, si tu lo has llevado, dime donde lo has 
+puesto, y yo lo llevare.
+
+        16 Dicele Jesus: iMaria! Volviendose ella, dicele: iRabboni! que quiere 
+decir, Maestro.
+
+        17 Dicele Jesus: No me toques: porque aun no he subido a mi Padre: mas 
+ve a mis hermanos, y diles: Subo a mi Padre y a vuestro Padre, a mi Dios y a 
+vuestro Dios.
+
+        18 Fue Maria Magdalena dando las nuevas a los discipulos de que habia 
+visto al Senor, y que [el] le habia dicho estas cosas.
+
+        19 Y como fue tarde aquel dia, el primero de la semana, y estando las 
+puertas cerradas donde los discipulos estaban juntos por miedo de los Judios, 
+vino Jesus, y pusose en medio, y dijoles: Paz a vosotros.
+
+        20 Y como hubo dicho esto, mostroles las manos y el costado. Y los 
+discipulos se gozaron viendo al Senor.
+
+        21 Entonces les dijo Jesus otra vez: Paz a vosotros; como me envio el 
+Padre, asi tambien yo os envio.
+
+        22 Y como hubo dicho esto, soplo, y dijoles: Tomad el Espiritu Santo:
+
+        23 A los que remitiereis los pecados, les son remitidos: a quienes los 
+retuviereis, seran retenidos.
+
+        24 Empero Tomas, uno de los doce, que se dice el Didimo, no estaba con 
+ellos cuando Jesus vino.
+
+        25 Dijeronle pues los otros discipulos: Al Senor hemos visto. Y el les 
+dijo: Si no viere en sus manos la senal de los clavos, y metiere mi dedo en el 
+lugar de los clavos, y metiere mi mano en su costado, no creere.
+
+        26 Y ocho dias despues, estaban otra vez sus discipulos dentro, y con 
+ellos Tomas. Vino Jesus, las puertas cerradas, y pusose en medio, y dijo: Paz 
+a vosotros.
+
+        27 Luego dice a Tomas: Mete tu dedo aqui, y ve mis manos: y alarga aca 
+tu mano, y metela en mi costado: y no seas incredulo, sino fiel.
+
+        28 Entonces Tomas respondio, y dijole: iSenor mio, y Dios mio!
+
+        29 Dicele Jesus: Porque me has visto, Tomas, creiste: bienaventurados 
+los que no vieron y creyeron.
+
+        30 Y tambien hizo Jesus muchas otras senales en presencia de sus 
+discipulos, que no estan escritas en este libro.
+
+        31 Estas empero son escritas, para que creais que Jesus es el Cristo, el 
+Hijo de Dios; y para que creyendo, tengais vida en su nombre.
+
+
+
+Capitulo  21
+
+        1 DESPUES se manifesto Jesus otra vez a sus discipulos en la mar de 
+Tiberias; y manifestose de esta manera.
+
+        2 Estaban juntos Simon Pedro, y Tomas, llamado el Didimo, y Natanael, el 
+que [era] de Cana de Galilea, y los [hijos] de Zebedeo, y otros dos de sus 
+discipulos.
+
+        3 Diceles Simon: A pescar voy. Dicenle: Vamos nosotros tambien contigo. 
+Fueron, y subieron en una barca; y aquella noche no cogieron nada.
+
+        4 Y venida la manana, Jesus se puso a la ribera: mas los discipulos no 
+entendieron que era Jesus.
+
+        5 Y dijoles: Mozos, ?teneis algo de comer? Respondieronle: No.
+
+        6 Y el les dice: Echad la red a la mano derecha del barco, y hallareis. 
+Entonces la echaron, y no la podian en ninguna manera sacar, por la multitud 
+de los peces.
+
+        7 Entonces aquel discipulo, al cual amaba Jesus, dijo a Pedro: El Senor 
+es. Y Simon Pedro, como oyo que era el Senor, cinose la ropa, porque estaba 
+desnudo, y echose a la mar.
+
+        8 Y los otros discipulos vinieron con el barco (porque no estaban lejos 
+de tierra sino como doscientos codos), trayendo la red de peces.
+
+        9 Y como descendieron a tierra, vieron ascuas puestas, y un pez encima 
+de ellas, y pan.
+
+        10 Diceles Jesus: Traed de los peces que cogisteis ahora.
+
+        11 Subio Simon Pedro, y trajo la red a tierra, llena de grandes peces, 
+ciento cincuenta y tres: y siendo tantos, la red no se rompio.
+
+        12 Diceles Jesus: Venid, comed. Y ninguno de los discipulos osaba 
+preguntarle: ?Tu, quien eres? sabiendo que era el Senor.
+
+        13 Viene pues Jesus, y toma el pan, y les da; y asimismo del pez.
+
+        14 Esta [era] ya la tercera vez que Jesus se manifesto a sus discipulos, 
+habiendo resucitado de los muertos.
+
+        15 Y cuando hubieron comido, Jesus dijo a Simon Pedro: Simon, [hijo] de 
+Jonas, ?me amas mas que estos? Dicele: Si, Senor: tu sabes que te amo. Dicele: 
+Apacienta mis corderos.
+
+        16 Vuelvele a decir la segunda vez: Simon, [hijo] de Jonas, ?me amas? 
+Respondele: Si, Senor: tu sabes que te amo. Dicele: Apacienta mis ovejas.
+
+        17 Dicele la tercera vez: Simon, [hijo] de Jonas, ?me amas? 
+Entristeciose Pedro de que le dijese la tercera vez: ?Me amas? y dicele: 
+Senor, tu sabes todas las cosas; tu sabes que te amo. Dicele Jesus: Apacienta 
+mis ovejas.
+
+        18 De cierto, de cierto te digo: Cuando eras mas mozo, te cenias, e ibas 
+donde querias; mas cuando ya fueres viejo, extenderas tus manos, y te cenira 
+otro, y te llevara a donde no quieras.
+
+        19 Y esto dijo, dando a entender con que muerte habia de glorificar a 
+Dios. Y dicho esto, dicele: Sigueme.
+
+        20 Volviendose Pedro, ve a aquel discipulo al cual amaba Jesus, que 
+seguia, el que tambien se habia recostado a su pecho en la cena, y [le] habia 
+dicho: Senor, ?quien es el que te ha de entregar?
+
+        21 Asi que Pedro vio a este, dice a Jesus: Senor, ?y este, que?
+
+        22 Dicele Jesus: Si quiero que el quede hasta que yo venga, ?que a ti? 
+Sigueme tu.
+
+        23 Salio entonces este dicho entre los hermanos, que aquel discipulo no 
+habia de morir. Mas Jesus no le dijo, No morira; sino: Si quiero que el quede 
+hasta que yo venga ?que a ti?
+
+        24 Este es aquel discipulo que da testimonio de estas cosas, y escribio 
+estas cosas: y sabemos que su testimonio es verdadero.
+
+        25 Y hay tambien otras muchas cosas que hizo Jesus, que si se 
+escribiesen cada una por si, ni aun en el mundo pienso que cabrian los libros 
+que se habrian de escribir. Amen.
+
+
+
+
+
+LA EPISTOLA DEL APOSTOL SAN PABLO
+
+A LOS ROMANOS.
+
+
+
+
+
+Capitulo  1
+
+        1 PABLO, siervo de Jesucristo, llamado [a ser] apostol, apartado para el 
+evangelio de Dios,
+
+        2 Que el habia antes prometido por sus profetas en las santas 
+Escrituras,
+
+        3 Acerca de su Hijo, (que fue hecho de la simiente de David segun la 
+carne;
+
+        4 El cual fue declarado Hijo de Dios con potencia, segun el espiritu de 
+santidad, por la resurreccion de los muertos), de Jesucristo Senor nuestro,
+
+        5 Por el cual recibimos la gracia y el apostolado, para la obediencia de 
+la fe en todas las naciones en su nombre,
+
+        6 Entre las cuales sois tambien vosotros, llamados de Jesucristo:
+
+        7 A todos los que estais en Roma, amados de Dios, llamados santos: 
+Gracia y paz tengais de Dios nuestro Padre, y del Senor Jesucristo.
+
+        8 Primeramente, doy gracias a mi Dios por Jesucristo acerca de todos 
+vosotros, de que vuestra fe es predicada en todo el mundo.
+
+        9 Porque testigo me es Dios, al cual sirvo en mi espiritu en el 
+evangelio de su Hijo, que sin cesar me acuerdo de vosotros siempre en mis 
+oraciones,
+
+        10 Rogando, si al fin algun tiempo haya de tener, por la voluntad de 
+Dios, prospero viaje para ir a vosotros.
+
+        11 Porque os deseo ver, para repartir con vosotros algun don espiritual, 
+para confirmaros;
+
+        12 Es a saber, para ser juntamente consolado con vosotros por la comun 
+fe vuestra y juntamente mia.
+
+        13 Mas no quiero, hermanos, que ignoreis que muchas veces me he 
+propuesto ir a vosotros (empero hasta ahora he sido estorbado), para tener 
+tambien entre vosotros algun fruto, como entre los demas Gentiles.
+
+        14 A Griegos y a barbaros, a sabios y a no sabios soy deudor.
+
+        15 Asi que, cuanto a mi, presto estoy a anunciar el evangelio tambien a 
+vosotros que estais en Roma.
+
+        16 Porque no me avergueenzo del evangelio: porque es potencia de Dios 
+para salud a todo aquel que cree; al Judio primeramente y tambien al Griego.
+
+        17 Porque en el la justicia de Dios se descubre de fe en fe; como esta 
+escrito: Mas el justo vivira por la fe.
+
+        18 Porque manifiesta es la ira de Dios del cielo contra toda impiedad e 
+injusticia de los hombres, que detienen la verdad con injusticia:
+
+        19 Porque lo que de Dios se conoce, a ellos es manifiesto; porque Dios 
+se lo manifesto.
+
+        20 Porque las cosas invisibles de el, su eterna potencia y divinidad, se 
+echan de ver desde la creacion del mundo, siendo entendidas por las cosas que 
+son hechas; de modo que son inexcusables:
+
+        21 Porque habiendo conocido a Dios, no le glorificaron como a Dios, ni 
+dieron gracias; antes se desvanecieron en sus discursos, y el necio corazon de 
+ellos fue entenebrecido.
+
+        22 Diciendose ser sabios, se hicieron fatuos,
+
+        23 Y trocaron la gloria del Dios incorruptible en semejanza de imagen de 
+hombre corruptible, y de aves, y de animales de cuatro pies, y de serpientes.
+
+        24 Por lo cual tambien Dios los entrego a inmundicia, en las 
+concupiscencias de sus corazones, de suerte que contaminaron sus cuerpos entre 
+si mismos:
+
+        25 Los cuales mudaron la verdad de Dios en mentira, honrando y sirviendo 
+a las criaturas antes que al Criador, el cual es bendito por los siglos. Amen.
+
+        26 Por esto Dios los entrego a afectos vergonzosos; pues aun sus mujeres 
+mudaron el natural uso en el uso que es contra naturaleza:
+
+        27 Y del mismo modo tambien los hombres, dejando el uso natural de las 
+mujeres, se encendieron en sus concupiscencias los unos con los otros, 
+cometiendo cosas nefandas hombres con hombres, y recibiendo en si mismos la 
+recompensa que convino a su extravio.
+
+        28 Y como a ellos no les parecio tener a Dios en [su] noticia, Dios los 
+entrego a una mente depravada, para hacer lo que no conviene,
+
+        29 Estando atestados de toda iniquidad, de fornicacion, de malicia, de 
+avaricia, de maldad; llenos de envidia, de homicidios, de contiendas, de 
+enganos, de malignidades;
+
+        30 Murmuradores, detractores, aborrecedores de Dios, injuriosos, 
+soberbios, altivos, inventores de males, desobedientes a los padres,
+
+        31 Necios, desleales, sin afecto natural, implacables, sin misericordia:
+
+        32 Que habiendo entendido el juicio de Dios que los que hacen tales 
+cosas son dignos de muerte, no solo las hacen, mas aun consienten a los que 
+las hacen.
+
+
+
+Capitulo  2
+
+        1 POR lo cual eres inexcusable, oh hombre, cualquiera que juzgas: porque 
+en lo que juzgas a otro, te condenas a ti mismo; porque lo mismo haces, tu que 
+juzgas.
+
+        2 Mas sabemos que el juicio de Dios es segun verdad contra los que hacen 
+tales cosas.
+
+        3 ?Y piensas esto, oh hombre, que juzgas a los que hacen tales cosas, y 
+haces las mismas, que tu escaparas del juicio de Dios?
+
+        4 ?O menosprecias las riquezas de su benignidad, y paciencia, y 
+longaminidad, ignorando que su benignidad te guia a arrepentimiento?
+
+        5 Mas por tu dureza, y por tu corazon no arrepentido, atesoras para ti 
+mismo ira para el dia de la ira y de la manifestacion del justo juicio de 
+Dios;
+
+        6 El cual pagara a cada uno conforme a sus obras:
+
+        7 A los que perseverando en bien hacer, buscan gloria y honra e 
+inmortalidad, la vida eterna.
+
+        8 Mas a los que son contenciosos, y no obedecen a la verdad, antes 
+obedecen a la injusticia, enojo e ira;
+
+        9 Tribulacion y angustia sobre toda persona humana que obra lo malo, el 
+Judio primeramente, y tambien el Griego:
+
+        10 Mas gloria y honra y paz a cualquiera que obra el bien, al Judio 
+primeramente, y tambien al Griego.
+
+        11 Porque no hay acepcion de personas para con Dios.
+
+        12 Porque todos los que sin ley pecaron, sin ley tambien pereceran; y 
+todos los que en la ley pecaron, por la ley seran juzgados:
+
+        13 Porque no los oidores de la ley son justos para con Dios, mas los 
+hacedores de la ley seran justificados.
+
+        14 Porque los Gentiles que no tienen ley, naturalmente haciendo lo que 
+es de la ley, los tales, aunque no tengan ley, ellos son ley a si mismos:
+
+        15 Mostrando la obra de la ley escrita en sus corazones, dando 
+testimonio juntamente sus conciencias, y acusandose y tambien excusandose sus 
+pensamientos unos con otros;
+
+        16 En el dia que juzgara el Senor lo encubierto de los hombres, conforme 
+a mi evangelio, por Jesucristo.
+
+        17 He aqui, tu tienes el sobrenombre de Judio, y estas reposado en la 
+ley, y te glorias en Dios,
+
+        18 Y sabes su voluntad, y apruebas lo mejor, instruido por la ley;
+
+        19 Y confias que eres guia de los ciegos, luz de los que estan en 
+tinieblas,
+
+        20 Ensenador de los que no saben, maestro de ninos, que tienes la forma 
+de la ciencia y de la verdad en la ley:
+
+        21 Tu pues, que ensenas a otro, ?no te ensenas a ti mismo? ?Tu, que 
+predicas que no se ha de hurtar, hurtas?
+
+        22 ?Tu, que dices que no se ha de adulterar, adulteras? ?Tu, que 
+abominas los idolos, cometes sacrilegio?
+
+        23 ?Tu, que te jactas de la ley, con infraccion de la ley deshonras a 
+Dios?
+
+        24 Porque el nombre de Dios es blasfemado por causa de vosotros entre 
+los Gentiles, como esta escrito.
+
+        25 Porque la circuncision en verdad aprovecha, si guardares la ley; mas 
+si eres rebelde a la ley, tu circuncision es hecha incircuncision.
+
+        26 De manera que, si el incircunciso guardare las justicias de la ley, 
+?no sera tenida su incircuncision por circuncision?
+
+        27 Y lo que de su natural es incircunciso, guardando perfectamente la 
+ley, te juzgara a ti, que con la letra y con la circuncision eres rebelde a la 
+ley.
+
+        28 Porque no es Judio el que lo es en manifiesto; ni la circuncision es 
+la que es en manifiesto en la carne:
+
+        29 Mas es Judio el que lo es en lo interior; y la circuncision es la del 
+corazon, en espiritu, no en letra; la alabanza del cual no es de los hombres, 
+sino de Dios.
+
+
+
+Capitulo  3
+
+        1 ?QUE, pues, tiene mas el Judio? ?o que aprovecha la circuncision?
+
+        2 Mucho en todas maneras. Lo primero ciertamente, que la palabra de Dios 
+les ha sido confiada.
+
+        3 ?Pues que si algunos de ellos han sido incredulos? ?la incredulidad de 
+ellos habra hecho vana la verdad de Dios?
+
+        4 En ninguna manera; antes bien sea Dios verdadero, mas todo hombre 
+mentiroso; como esta escrito: Para que seas justificado en tus dichos, Y 
+venzas cuando de ti se juzgare.
+
+        5 Y si nuestra iniquidad encarece la justicia de Dios, ?que diremos? 
+?Sera injusto Dios que da castigo? (hablo como hombre.)
+
+        6 En ninguna manera: de otra suerte ?como juzgaria Dios el mundo?
+
+        7 Empero si la verdad de Dios por mi mentira crecio a gloria suya, ?por 
+que aun asi yo soy juzgado como pecador?
+
+        8 ?Y por que no [decir] (como somos blasfemados, y como algunos dicen 
+que nosotros decimos): Hagamos males para que vengan bienes? la condenacion de 
+los cuales es justa.
+
+        9 ?Que pues? ?Somos mejores que ellos? En ninguna manera: porque ya 
+hemos acusado a Judios y a Gentiles, que todos estan debajo de pecado.
+
+        10 Como esta escrito: No hay justo, ni aun uno;
+
+        11 No hay quien entienda, No hay quien busque a Dios;
+
+        12 Todos se apartaron, a una fueron hechos inutiles; No hay quien haga 
+lo bueno, no hay ni aun uno:
+
+        13 Sepulcro abierto es su garganta; Con sus lenguas tratan 
+enganosamente; Veneno de aspides esta debajo de sus labios;
+
+        14 Cuya boca esta llena de maledicencia y de amargura;
+
+        15 Sus pies son ligeros a derramar sangre;
+
+        16 Quebrantamiento y desventura hay en sus caminos;
+
+        17 Y camino de paz no conocieron:
+
+        18 No hay temor de Dios delante de sus ojos.
+
+        19 Empero sabemos que todo lo que la ley dice, a los que estan en la ley 
+lo dice, para que toda boca se tape, y que todo el mundo se sujete a Dios:
+
+        20 Porque por las obras de la ley ninguna carne se justificara delante 
+de el; porque por la ley [es] el conocimiento del pecado.
+
+        21 Mas ahora, sin la ley, la justicia de Dios se ha manifestado, 
+testificada por la ley y por los profetas:
+
+        22 La justicia de Dios por la fe de Jesucristo, para todos los que creen 
+en el: porque no hay diferencia;
+
+        23 Por cuanto todos pecaron, y estan distituidos de la gloria de Dios;
+
+        24 Siendo justificados gratuitamente por su gracia, por la redencion que 
+es en Cristo Jesus;
+
+        25 Al cual Dios ha propuesto en propiciacion por la fe en su sangre, 
+para manifestacion de su justicia, atento a haber pasado por alto, en su 
+paciencia, los pecados pasados,
+
+        26 Con la mira de manifestar su justicia en este tiempo: para que el sea 
+el justo, y el que justifica al que es de la fe de Jesus.
+
+        27 ?Donde pues esta la jactancia? Es excluida. ?Por cual ley? ?de las 
+obras? No; mas por la ley de la fe.
+
+        28 Asi que, concluimos ser el hombre justificado por fe sin las obras de 
+la ley.
+
+        29 ?Es Dios solamente [Dios] de los Judios? ?No es tambien [Dios] de los 
+Gentiles? Cierto, tambien de los Gentiles.
+
+        30 Porque uno es Dios, el cual justificara por la fe la circuncision, y 
+por medio de la fe la incircuncision.
+
+        31 ?Luego deshacemos la ley por la fe? En ninguna manera; antes 
+establecemos la ley.
+
+
+
+Capitulo  4
+
+        1 ?QUE, pues, diremos que hallo Abraham nuestro padre segun la carne?
+
+        2 Que si Abraham fue justificado por las obras, tiene de que gloriarse; 
+mas no para con Dios.
+
+        3 Porque ?que dice la Escritura? Y creyo Abraham a Dios, y le fue 
+atribuido a justicia.
+
+        4 Empero al que obra, no se le cuenta el salario por merced, sino por 
+deuda.
+
+        5 Mas al que no obra, pero cree en aquel que justifica al impio, la fe 
+le es contada por justicia.
+
+        6 Como tambien David dice ser bienaventurado el hombre al cual Dios 
+atribuye justicia sin obras,
+
+        7 [Diciendo:] Bienaventurados aquellos cuyas iniquidades son perdonadas, 
+Y cuyos pecados son cubiertos.
+
+        8 Bienaventurado el varon al cual el Senor no imputo pecado.
+
+        9 ?Es pues esta bienaventuranza [solamente] en la circuncision, o 
+tambien en la incircuncision? porque decimos que a Abraham fue contada la fe 
+por justicia.
+
+        10 ?Como pues [le] fue contada? ?en la circuncision, o en la 
+incircuncision? No en la circuncision, sino en la incircuncision.
+
+        11 Y recibio la circuncision por senal, por sello de la justicia de la 
+fe que tuvo en la incircuncision: para que fuese padre de todos los creyentes 
+no circuncidados, para que tambien a ellos les sea contado por justicia;
+
+        12 Y padre de la circuncision, no solamente a los que son de la 
+circuncision, mas tambien a los que siguen las pisadas de la fe que fue en 
+nuestro padre Abraham antes de ser circuncidado.
+
+        13 Porque no por la ley fue [dada] la promesa a Abraham o a su simiente, 
+que seria heredero del mundo, sino por la justicia de la fe.
+
+        14 Porque si los que son de la ley son los herederos, vana es la fe, y 
+anulada es la promesa.
+
+        15 Porque la ley obra ira; porque donde no hay ley, tampoco hay 
+transgresion.
+
+        16 Por tanto [es] por la fe, para que [sea] por gracia; para que la 
+promesa sea firme a toda simiente, no solamente al que es de la ley, mas 
+tambien al que es de la fe de Abraham, el cual es padre de todos nosotros,
+
+        17 (Como esta escrito: Que por padre de muchas gentes te he puesto) 
+delante de Dios, al cual creyo; el cual da vida a los muertos, y llama las 
+cosas que no son, como las que son.
+
+        18 El creyo en esperanza contra esperanza, para venir a ser padre de 
+muchas gentes, conforme a lo que [le] habia sido dicho: Asi sera tu simiente.
+
+        19 Y no se enflaquecio en la fe, ni considero su cuerpo ya muerto 
+(siendo ya de casi cien anos), ni la matriz muerta de Sara;
+
+        20 Tampoco en la promesa de Dios dudo con desconfianza: antes fue 
+esforzado en fe, dando gloria a Dios,
+
+        21 Plenamente convencido de que todo lo que habia prometido, era tambien 
+poderoso para hacerlo.
+
+        22 Por lo cual tambien le fue atribuido a justicia.
+
+        23 Y no solamente por el fue escrito que le haya sido imputado;
+
+        24 Sino tambien por nosotros, a quienes sera imputado, [esto es], a los 
+que creemos en el que levanto de los muertos a Jesus Senor nuestro,
+
+        25 El cual fue entregado por nuestros delitos, y resucitado para nuestra 
+justificacion
+
+
+
+Capitulo  5
+
+        1 JUSTIFICADOS pues por la fe, tenemos paz para con Dios por medio de 
+nuestro Senor Jesucristo:
+
+        2 Por el cual tambien tenemos entrada por la fe a esta gracia en la cual 
+estamos [firmes], y nos gloriamos en la esperanza de la gloria de Dios.
+
+        3 Y no solo esto, mas aun nos gloriamos en las tribulaciones, sabiendo 
+que la tribulacion produce paciencia;
+
+        4 Y la paciencia, prueba; y la prueba, esperanza;
+
+        5 Y la esperanza no avergueenza; porque el amor de Dios esta derramado en 
+nuestros corazones por el Espiritu Santo que nos es dado.
+
+        6 Porque Cristo, cuando aun eramos flacos, a su tiempo murio por los 
+impios.
+
+        7 Ciertamente apenas muere alguno por un justo: con todo podra ser que 
+alguno osara morir por el bueno.
+
+        8 Mas Dios encarece su caridad para con nosotros, porque siendo aun 
+pecadores, Cristo murio por nosotros.
+
+        9 Luego mucho mas ahora, justificados en su sangre, por el seremos 
+salvos de la ira.
+
+        10 Porque si siendo enemigos, fuimos reconciliados con Dios por la 
+muerte de su Hijo, mucho mas, estando reconciliados, seremos salvos por su 
+vida.
+
+        11 Y no solo esto, mas aun nos gloriamos en Dios por el Senor nuestro 
+Jesucristo, por el cual hemos ahora recibido la reconciliacion.
+
+        12 De consiguiente, [vino la reconciliacion por uno], asi como el pecado 
+entro en el mundo por un hombre, y por el pecado la muerte, y la muerte asi 
+paso a todos los hombres, pues que todos pecaron.
+
+        13 Porque hasta la ley, el pecado estaba en el mundo; pero no se imputa 
+pecado no habiendo ley.
+
+        14 No obstante, reino la muerte desde Adam hasta Moises, aun en los que 
+no pecaron a la manera de la rebelion de Adam; el cual es figura del que habia 
+de venir.
+
+        15 Mas no como el delito, tal fue el don: porque si por el delito de 
+aquel uno murieron los muchos, mucho mas abundo la gracia de Dios a los 
+muchos, y el don por la gracia de un hombre, Jesucristo.
+
+        16 Ni tampoco de la manera que por un pecado, [asi] tambien el don: 
+porque el juicio a la verdad [vino] de un [pecado] para condenacion, mas la 
+gracia [vino] de muchos delitos para justificacion.
+
+        17 Porque, si por un delito reino la muerte por uno, mucho mas reinaran 
+en vida por un Jesucristo los que reciben la abundancia de la gracia, y del 
+don de la justicia.
+
+        18 Asi que, de la manera que por un delito [vino la culpa] a todos los 
+hombres para condenacion, asi por una justicia [vino la gracia] a todos los 
+hombres para justificacion de vida.
+
+        19 Porque como por la desobediencia de un hombre los muchos fueron 
+constituidos pecadores, asi por la obediencia de uno los muchos seran 
+constituidos justos.
+
+        20 La ley empero entro para que el pecado creciese; mas cuando el pecado 
+crecio, sobrepujo la gracia;
+
+        21 Para que, de la manera que el pecado reino para muerte, asi tambien 
+la gracia reine por la justicia para vida eterna por Jesucristo Senor nuestro.
+
+
+
+Capitulo  6
+
+        1 ?PUES que diremos? Perseveraremos en pecado para que la gracia crezca?
+
+        2 En ninguna manera. Porque los que somos muertos al pecado, ?como 
+viviremos aun en el?
+
+        3 ?O no sabeis que todos los que somos bautizados en Cristo Jesus, somos 
+bautizados en su muerte?
+
+        4 Porque somos sepultados juntamente con el a muerte por el bautismo; 
+para que como Cristo resucito de los muertos por la gloria del Padre, asi 
+tambien nosotros andemos en novedad de vida.
+
+        5 Porque si fuimos plantados juntamente en [el] a la semejanza de su 
+muerte, asi tambien [lo seremos a la] de su resurreccion:
+
+        6 Sabiendo esto, que nuestro viejo hombre juntamente fue crucificado con 
+[el], para que el cuerpo del pecado sea deshecho, a fin de que no sirvamos mas 
+al pecado.
+
+        7 Porque el que es muerto, justificado es del pecado.
+
+        8 Y si morimos con Cristo, creemos que tambien viviremos con el;
+
+        9 Sabiendo que Cristo, habiendo resucitado de entre los muertos, ya no 
+muere: la muerte no se ensenoreara mas de el.
+
+        10 Porque el haber muerto, al pecado murio una vez; mas el vivir, a Dios 
+vive.
+
+        11 Asi tambien vosotros, pensad que de cierto estais muertos al pecado, 
+mas vivos a Dios en Cristo Jesus Senor nuestro.
+
+        12 No reine, pues, el pecado en vuestro cuerpo mortal, para que le 
+obedezcais en sus concupiscencias;
+
+        13 Ni tampoco presenteis vuestros miembros al pecado por instrumentos de 
+iniquidad; antes presentaos a Dios como vivos de los muertos, y vuestros 
+miembros a Dios por instrumentos de justicia.
+
+        14 Porque el pecado no se ensenoreara de vosotros; pues no estais bajo 
+la ley, sino bajo la gracia.
+
+        15 ?Pues que? ?Pecaremos, porque no estamos bajo de la ley, sino bajo de 
+la gracia? En ninguna manera.
+
+        16 ?No sabeis que a quien os prestais vosotros mismos por siervos para 
+obedecer[le], sois siervos de aquel a quien obedeceis, o del pecado para 
+muerte, o de la obediencia para justicia?
+
+        17 Empero gracias a Dios, que aunque fuisteis siervos del pecado, habeis 
+obedecido de corazon a aquella forma de doctrina a la cual sois entregados;
+
+        18 Y libertados del pecado, sois hechos siervos de la justicia.
+
+        19 Humana cosa digo, por la flaqueza de vuestra carne: que como para 
+iniquidad presentasteis vuestros miembros a servir a la inmundicia y a la 
+iniquidad, asi ahora para santidad presenteis vuestros miembros a servir a la 
+justicia.
+
+        20 Porque cuando fuisteis siervos del pecado, erais libres acerca de la 
+justicia.
+
+        21 ?Que fruto, pues, teniais de aquellas cosas de las cuales ahora os 
+avergonzais? porque el fin de ellas es muerte.
+
+        22 Mas ahora, librados del pecado, y hechos siervos a Dios, teneis por 
+vuestro fruto la santificacion, y por fin la vida eterna.
+
+        23 Porque la paga del pecado es muerte: mas la dadiva de Dios es vida 
+eterna en Cristo Jesus Senor nuestro.
+
+
+
+Capitulo  7
+
+        1 ?IGNORAIS, hermanos, (porque hablo con los que saben la ley) que la 
+ley se ensenorea del hombre entre tanto que vive?
+
+        2 Porque la mujer que esta sujeta a marido, mientras el marido vive esta 
+obligada a la ley; mas muerto el marido, libre es de la ley del marido.
+
+        3 Asi que, viviendo el marido, se llamara adultera si fuere de otro 
+varon; mas si su marido muriere, es libre de la ley; de tal manera que no sera 
+adultera si fuere de otro marido.
+
+        4 Asi tambien vosotros, hermanos mios, estais muertos a la ley por el 
+cuerpo de Cristo, para que seais de otro, [a saber], del que resucito de los 
+muertos, a fin de que fructifiquemos a Dios.
+
+        5 Porque mientras estabamos en la carne, los afectos de los pecados que 
+eran por la ley, obraban en nuestros miembros fructificando para muerte.
+
+        6 Mas ahora estamos libres de la ley, habiendo muerto a aquella en la 
+cual estabamos detenidos, para que sirvamos en novedad de espiritu, y no en 
+vejez de letra.
+
+        7 ?Que pues diremos? ?La ley es pecado? En ninguna manera. Empero yo no 
+conoci el pecado sino por la ley: porque tampoco conociera la concupiscencia, 
+si la ley no dijera: No codiciaras.
+
+        8 Mas el pecado, tomando ocasion, obro en mi por el mandamiento toda 
+concupiscencia: porque sin la ley el pecado [esta] muerto.
+
+        9 Asi que, yo sin la ley vivia por algun tiempo: mas venido el 
+mandamiento, el pecado revivio, y yo mori.
+
+        10 Y halle que el mandamiento, [intimado] para vida, [para mi] era 
+mortal:
+
+        11 Porque el pecado, tomando ocasion, me engano por el mandamiento, y 
+por el me mato.
+
+        12 De manera que la ley a la verdad es santa, y el mandamiento santo, y 
+justo, y bueno.
+
+        13 ?Luego lo que es bueno, a mi me es hecho muerte? No; sino que el 
+pecado, para mostrarse pecado, por lo bueno me obro la muerte, haciendose 
+pecado sobremanera pecante por el mandamiento.
+
+        14 Porque sabemos que la ley es espiritual; mas yo soy carnal, vendido a 
+sujecion del pecado.
+
+        15 Porque lo que hago, no lo entiendo; ni lo que quiero, hago; antes lo 
+que aborrezco, aquello hago.
+
+        16 Y si lo que no quiero, esto hago, apruebo que la ley es buena.
+
+        17 De manera que ya no obro aquello, sino el pecado que mora en mi.
+
+        18 Y yo se que en mi (es a saber, en mi carne) no mora el bien: porque 
+tengo el querer, mas efectuar el bien no lo alcanzo.
+
+        19 Porque no hago el bien que quiero; mas el mal que no quiero, este 
+hago.
+
+        20 Y si hago lo que no quiero, ya no lo obro yo, sino el pecado que mora 
+en mi.
+
+        21 Asi que, queriendo yo hacer el bien, hallo [esta] ley: Que el mal 
+esta en mi.
+
+        22 Porque segun el hombre interior, me deleito en la ley de Dios:
+
+        23 Mas veo otra ley en mis miembros, que se rebela contra la ley de mi 
+espiritu, y que me lleva cautivo a la ley del pecado que esta en mis miembros.
+
+        24 iMiserable hombre de mi! ?quien me librara del cuerpo de esta muerte?
+
+        25 Gracias doy a Dios, por Jesucristo Senor nuestro. Asi que, yo mismo 
+con la mente sirvo a la ley de Dios, mas con la carne a la ley del pecado.
+
+
+
+Capitulo  8
+
+        1 AHORA pues, ninguna condenacion hay para los que estan en Cristo 
+Jesus, los que no andan conforme a la carne, mas conforme al espiritu.
+
+        2 Porque la ley del Espiritu de vida en Cristo Jesus me ha librado de la 
+ley del pecado y de la muerte.
+
+        3 Porque lo que era imposible a la ley, por cuanto era debil por la 
+carne, Dios enviando a su Hijo en semejanza de carne de pecado, y a causa del 
+pecado, condeno al pecado en la carne;
+
+        4 Para que la justicia de la ley fuese cumplida en nosotros, que no 
+andamos conforme a la carne, mas conforme al espiritu.
+
+        5 Porque los que viven conforme a la carne, de las cosas que son de la 
+carne se ocupan; mas los que conforme al espiritu, de las cosas del espiritu.
+
+        6 Porque la intencion de la carne es muerte; mas la intencion del 
+espiritu, vida y paz:
+
+        7 Por cuanto la intencion de la carne es enemistad contra Dios; porque 
+no se sujeta a la ley de Dios, ni tampoco puede.
+
+        8 Asi que, los que estan en la carne no pueden agradar a Dios.
+
+        9 Mas vosotros no estais en la carne, sino en el espiritu, si es que el 
+Espiritu de Dios mora en vosotros. Y si alguno no tiene el Espiritu de Cristo, 
+el tal no es de el.
+
+        10 Empero si Cristo esta en vosotros, el cuerpo a la verdad esta muerto 
+a causa del pecado; mas el espiritu vive a causa de la justicia.
+
+        11 Y si el Espiritu de aquel que levanto de los muertos a Jesus mora en 
+vosotros, el que levanto a Cristo Jesus de los muertos, vivificara tambien 
+vuestros cuerpos mortales por su Espiritu que mora en vosotros.
+
+        12 Asi que, hermanos, deudores somos, no a la carne, para que vivamos 
+conforme a la carne:
+
+        13 Porque si viviereis conforme a la carne, morireis; mas si por el 
+espiritu mortificais las obras de la carne, vivireis.
+
+        14 Porque todos los que son guiados por el Espiritu de Dios, los tales 
+son hijos de Dios.
+
+        15 Porque no habeis recibido el espiritu de servidumbre para [estar] 
+otra vez en temor; mas habeis recibido el espiritu de adopcion, por el cual 
+clamamos, Abba, Padre.
+
+        16 Porque el mismo Espiritu da testimonio a nuestro espiritu que somos 
+hijos de Dios.
+
+        17 Y si hijos, tambien herederos; herederos de Dios, y coherederos de 
+Cristo; si empero padecemos juntamente [con el], para que juntamente [con el] 
+seamos glorificados.
+
+        18 Porque tengo por cierto que lo que en este tiempo se padece, no es de 
+comparar con la gloria venidera que en nosotros ha de ser manifestada.
+
+        19 Porque el continuo anhelar de las criaturas espera la manifestacion 
+de los hijos de Dios.
+
+        20 Porque las criaturas sujetas fueron a vanidad, no de grado, mas por 
+causa del que las sujeto con esperanza,
+
+        21 Que tambien las mismas criaturas seran libradas de la servidumbre de 
+corrupcion en la libertad gloriosa de los hijos de Dios.
+
+        22 Porque sabemos que todas las criaturas gimen a una, y a una estan de 
+parto hasta ahora.
+
+        23 Y no solo ellas, mas tambien nosotros mismos, que tenemos las 
+primicias del Espiritu, nosotros tambien gemimos dentro de nosotros mismos, 
+esperando la adopcion, [es a saber], la redencion de nuestro cuerpo.
+
+        24 Porque en esperanza somos salvos; mas la esperanza que se ve, no es 
+esperanza; porque lo que alguno ve, ?a que esperarlo?
+
+        25 Empero si lo que no vemos esperamos, por paciencia esperamos.
+
+        26 Y asimismo tambien el Espiritu ayuda nuestra flaqueza: porque que 
+hemos de pedir como conviene, no lo sabemos; sino que el mismo Espiritu pide 
+por nosotros con gemidos indecibles.
+
+        27 Mas el que escudrina los corazones, sabe cual es el intento del 
+Espiritu, porque conforme a [la voluntad de] Dios, demanda por los santos.
+
+        28 Y sabemos que a los que a Dios aman, todas las cosas les ayudan a 
+bien, [es a saber], a los que conforme al proposito son llamados.
+
+        29 Porque a los que antes conocio, tambien predestino para que fuesen 
+hechos conformes a la imagen de su Hijo, para que el sea el primogenito entre 
+muchos hermanos;
+
+        30 Y a los que predestino, a estos tambien llamo; y a los que llamo, a 
+estos tambien justifico; y a los que justifico, a estos tambien glorifico.
+
+        31 ?Pues que diremos a esto? Si Dios por nosotros, ?quien contra 
+
+nosotros?
+
+        32 El que aun a su propio Hijo no perdono, antes le entrego por todos 
+nosotros, ?como no nos dara tambien con el todas las cosas?
+
+        33 ?Quien acusara a los escogidos de Dios? Dios es el que justifica.
+
+        34 ?Quien es el que condenara? Cristo es el que murio; mas aun, el que 
+tambien resucito, quien ademas esta a la diestra de Dios, el que tambien 
+intercede por nosotros.
+
+        35 ?Quien nos apartara del amor de Cristo? tribulacion? o angustia? o 
+persecucion? o hambre? o desnudez? o peligro? o cuchillo?
+
+        36 Como esta escrito: Por causa de ti somos muertos todo el tiempo: 
+Somos estimados como ovejas de matadero.
+
+        37 Antes, en todas estas cosas hacemos mas que vencer por medio de aquel 
+que nos amo.
+
+        38 Por lo cual estoy cierto que ni la muerte, ni la vida, ni angeles, ni 
+principados, ni potestades, ni lo presente, ni lo por venir,
+
+        39 Ni lo alto, ni lo bajo, ni ninguna criatura nos podra apartar del 
+amor de Dios, que es en Cristo Jesus Senor nuestro.
+
+
+
+Capitulo  9
+
+        1 VERDAD digo en Cristo, no miento, dandome testimonio mi conciencia en 
+el Espiritu Santo,
+
+        2 Que tengo gran tristeza y continuo dolor en mi corazon.
+
+        3 Porque deseara yo mismo ser apartado de Cristo por mis hermanos, los 
+que son mis parientes segun la carne;
+
+        4 Que son israelitas, de los cuales es la adopcion, y la gloria, y el 
+pacto, y la data de la ley, y el culto, y las promesas;
+
+        5 Cuyos son los padres, y de los cuales es Cristo segun la carne, el 
+cual es Dios sobre todas las cosas, bendito por los siglos. Amen.
+
+        6 No empero que la palabra de Dios haya faltado: porque no todos los que 
+son de Israel son Israelitas;
+
+        7 Ni por ser simiente de Abraham, son todos hijos; mas: En Isaac te sera 
+llamada simiente.
+
+        8 Quiere decir: No los que son hijos de la carne, estos son los hijos de 
+Dios; mas los que son hijos de la promesa, son contados en la generacion.
+
+        9 Porque la palabra de la promesa es esta: Como en este tiempo vendre, y 
+tendra Sara un hijo.
+
+        10 Y no solo esto; mas tambien Rebeca concibiendo de uno, de Isaac 
+nuestro padre,
+
+        11 (Porque no siendo aun nacidos, ni habiendo hecho aun ni bien ni mal, 
+para que el proposito de Dios conforme a la eleccion, no por las obras sino 
+por el que llama, permaneciese;)
+
+        12 Le fue dicho que el mayor serviria al menor.
+
+        13 Como esta escrito: A Jacob ame, mas a Esau aborreci.
+
+        14 ?Pues que diremos? ?Que hay injusticia en Dios? En ninguna manera.
+
+        15 Mas a Moises dice: Tendre misericordia del que tendre misericordia, y 
+me compadecere del que me compadecere.
+
+        16 Asi que no es del que quiere, ni del que corre, sino de Dios que 
+tiene misericordia.
+
+        17 Porque la Escritura dice de Faraon: Que para esto mismo te he 
+levantado, para mostrar en ti mi potencia, y que mi nombre sea anunciado por 
+toda la tierra.
+
+        18 De manera que del que quiere tiene misericordia; y al que quiere, 
+endurece.
+
+        19 Me diras pues: ?Por que, pues, se enoja? porque ?quien resistira a su 
+voluntad?
+
+        20 Mas antes, oh hombre, ?quien eres tu, para que alterques con Dios? 
+Dira el vaso de barro al que le labro: ?Por que me has hecho tal?
+
+        21 ?O no tiene potestad el alfarero para hacer de la misma masa un vaso 
+para honra, y otro para vergueenza?
+
+        22 ?Y que, si Dios, queriendo mostrar la ira y hacer notoria su 
+potencia, soporto con mucha mansedumbre los vasos de ira preparados para 
+muerte,
+
+        23 Y para hacer notorias las riquezas de su gloria, [mostrolas] para con 
+los vasos de misericordia que el ha preparado para gloria;
+
+        24 Los cuales tambien ha llamado, [es a saber], a nosotros, no solo de 
+los Judios, mas tambien de los Gentiles?
+
+        25 Como tambien en Oseas dice: Llamare al que no era mi pueblo, pueblo 
+mio; Y a la no amada, amada.
+
+        26 Y sera, que en el lugar donde les fue dicho: Vosotros no sois pueblo 
+mio: Alli seran llamados hijos del Dios viviente.
+
+        27 Tambien Isaias clama tocante a Israel: Si fuere el numero de los 
+hijos de Israel como la arena de la mar, las reliquias seran salvas:
+
+        28 Porque palabra consumadora y abreviadora en justicia, porque palabra 
+abreviada, hara el Senor sobre la tierra.
+
+        29 Y como antes dijo Isaias: Si el Senor de los ejercitos no nos hubiera 
+dejado simiente, Como Sodoma habriamos venido a ser, y a Gomorra fueramos 
+semejantes.
+
+        30 ?Pues que diremos? Que los Gentiles que no seguian justicia, han 
+alcanzado la justicia, es a saber, la justicia que es por la fe;
+
+        31 Mas Israel que seguia la ley de justicia, no ha llegado a la ley de 
+justicia.
+
+        32 ?Por que? Porque [la seguian] no por fe, mas como por las obras de la 
+ley: por lo cual tropezaron en la piedra de tropiezo,
+
+        33 Como esta escrito: He aqui pongo en Sion piedra de tropiezo, y piedra 
+de caida; Y aquel que creyere en ella, no sera avergonzado.
+
+
+
+Capitulo  10
+
+        1 HERMANOS, ciertamente la voluntad de mi corazon y mi oracion a Dios 
+sobre Israel, es para salud.
+
+        2 Porque yo les doy testimonio que tienen celo de Dios, mas no conforme 
+a ciencia.
+
+        3 Porque ignorando la justicia de Dios, y procurando establecer la suya 
+propia, no se han sujetado a la justicia de Dios.
+
+        4 Porque el fin de la ley es Cristo, para justicia a todo aquel que 
+cree.
+
+        5 Porque Moises describe la justicia que es por la ley: Que el hombre 
+que hiciere estas cosas, vivira por ellas.
+
+        6 Mas la justicia que es por la fe dice asi: No digas en tu corazon: 
+?Quien subira al cielo? (esto es, para traer abajo a Cristo:)
+
+        7 O, ?quien descendera al abismo? (esto es, para volver a traer a Cristo 
+de los muertos.)
+
+        8 Mas ?que dice? Cercana esta la palabra, en tu boca y en tu corazon. 
+Esta es la palabra de fe, la cual predicamos:
+
+        9 Que si confesares con tu boca al Senor Jesus, y creyeres en tu corazon 
+que Dios le levanto de los muertos, seras salvo.
+
+        10 Porque con el corazon se cree para justicia; mas con la boca se hace 
+confesion para salud.
+
+        11 Porque la Escritura dice: Todo aquel que en el creyere, no sera 
+avergonzado.
+
+        12 Porque no hay diferencia de Judio y de Griego: porque el mismo que es 
+Senor de todos, rico es para con todos los que le invocan:
+
+        13 Porque todo aquel que invocare el nombre del Senor, sera salvo.
+
+        14 ?Como, pues, invocaran a aquel en el cual no han creido? ?y como 
+creeran a aquel de quien no han oido? ?y como oiran sin [haber] quien [les] 
+predique?
+
+        15 ?Y como predicaran si no fueren enviados? Como esta escrito: iCuan 
+hermosos son los pies de los que anuncian el evangelio de la paz, de los que 
+anuncian el evangelio de los bienes!
+
+        16 Mas no todos obedecen al evangelio; pues Isaias dice: Senor, ?quien 
+ha creido a nuestro anuncio?
+
+        17 Luego la fe es por el oir; y el oir por la palabra de Dios.
+
+        18 Mas digo: ?No han oido? Antes bien, Por toda la tierra ha salido la 
+fama de ellos, Y hasta los cabos de la redondez de la tierra las palabras de 
+ellos.
+
+        19 Mas digo: ?No ha conocido [esto] Israel? Primeramente Moises dice: Yo 
+os provocare a celos con gente que no es [mia]; Con gente insensata os 
+provocare a ira.
+
+        20 E Isaias determinadamente dice: Fui hallado de los que no me 
+buscaban; Manifesteme a los que no preguntaban por mi.
+
+        21 Mas acerca de Israel dice: Todo el dia extendi mis manos a un pueblo 
+rebelde y contradictor.
+
+
+
+Capitulo  11
+
+        1 DIGO pues: ?Ha desechado Dios a su pueblo? En ninguna manera. Porque 
+tambien yo soy Israelita, de la simiente de Abraham, de la tribu de Benjamin.
+
+        2 No ha desechado Dios a su pueblo, al cual antes conocio. ?O no sabeis 
+que dice de Elias la Escritura? como hablando con Dios contra Israel [dice:]
+
+        3 Senor, a tus profetas han muerto, y tus altares han derruido; y yo he 
+quedado solo, y procuran matarme.
+
+        4 Mas ?que le dice la divina respuesta? He dejado para mi siete mil 
+hombres, que no han doblado la rodilla delante de Baal.
+
+        5 Asi tambien, aun en este tiempo han quedado reliquias por la eleccion 
+de gracia.
+
+        6 Y si por gracia, luego no por las obras; de otra manera la gracia ya 
+no es gracia. Y si por las obras, ya no es gracia; de otra manera la obra ya 
+no es obra.
+
+        7 ?Que pues? Lo que buscaba Israel aquello no ha alcanzado; mas la 
+eleccion lo ha alcanzado: y los demas fueron endurecidos;
+
+        8 Como esta escrito: Dioles Dios espiritu de remordimiento, ojos con que 
+no vean, y oidos con que no oigan, hasta el dia de hoy.
+
+        9 Y David dice: Seales vuelta su mesa en lazo, y en red, Y en 
+tropezadero, y en paga:
+
+        10 Sus ojos sean obscurecidos para que no vean, Y agobiales siempre el 
+espinazo.
+
+        11 Digo pues: ?Han tropezado para que cayesen? En ninguna manera; mas 
+por el tropiezo de ellos [vino] la salud a los Gentiles, para que fuesen 
+provocados a celos.
+
+        12 Y si la falta de ellos es la riqueza del mundo, y el menoscabo de 
+ellos la riqueza de los Gentiles, ?cuanto mas el henchimiento de ellos?
+
+        13 Porque a vosotros hablo, Gentiles. Por cuanto pues, yo soy apostol de 
+los Gentiles, mi ministerio honro,
+
+        14 Por si en alguna manera provocase a celos a mi carne, e hiciese 
+salvos a algunos de ellos.
+
+        15 Porque si el extranamiento de ellos [es] la reconciliacion del mundo, 
+?que [sera] el recibimiento [de ellos], sino vida de los muertos?
+
+        16 Y si el primer fruto es santo, tambien lo es el todo, y si la raiz es 
+santa, tambien lo son las ramas.
+
+        17 Que si algunas de las ramas fueron quebradas, y tu, siendo acebuche, 
+has sido ingerido en lugar de ellas, y has sido hecho participante de la raiz 
+y de la grosura de la oliva;
+
+        18 No te jactes contra las ramas; y si te jactas, [sabe que] no 
+sustentas tu a la raiz, sino la raiz a ti.
+
+        19 Pues las ramas, diras, fueron quebradas para que yo fuese ingerido.
+
+        20 Bien: por su incredulidad fueron quebradas, mas tu por la fe estas en 
+pie. No te ensoberbezcas, antes teme,
+
+        21 Que si Dios no perdono a las ramas naturales, a ti tampoco no 
+perdone.
+
+        22 Mira, pues, la bondad y la severidad de Dios: la severidad 
+ciertamente en los que cayeron; mas la bondad para contigo, si permanecieres 
+en la bondad; pues de otra manera tu tambien seras cortado.
+
+        23 Y aun ellos, si no permanecieren en incredulidad, seran ingeridos; 
+que poderoso es Dios para volverlos a ingerir.
+
+        24 Porque si tu eres cortado del natural acebuche, y contra natura 
+fuiste ingerido en la buena oliva, ?cuanto mas estos, que son las [ramas] 
+naturales, seran ingeridos en su oliva?
+
+        25 Porque no quiero, hermanos, que ignoreis este misterio, para que no 
+seais acerca de vosotros mismos arrogantes: que el endurecimiento en parte ha 
+acontecido en Israel, hasta que haya entrado la plenitud de los Gentiles;
+
+        26 Y luego todo Israel sera salvo; como esta escrito: Vendra de Sion el 
+Libertador, Que quitara de Jacob la impiedad;
+
+        27 Y este es mi pacto con ellos, Cuando quitare sus pecados.
+
+        28 Asi que, cuanto al evangelio, son enemigos por causa de vosotros: mas 
+cuanto a la eleccion, son muy amados por causa de los padres.
+
+        29 Porque sin arrepentimiento son las mercedes y la vocacion de Dios.
+
+        30 Porque como tambien vosotros en algun tiempo no creisteis a Dios, mas 
+ahora habeis alcanzado misericordia por la incredulidad de ellos;
+
+        31 Asi tambien estos ahora no han creido, para que, por la misericordia 
+para con vosotros, ellos tambien alcancen misericordia.
+
+        32 Porque Dios encerro a todos en incredulidad, para tener misericordia 
+de todos.
+
+        33 iOh profundidad de las riquezas de la sabiduria y de la ciencia de 
+Dios! iCuan incomprensibles son sus juicios, e inescrutables sus caminos!
+
+        34 Porque ?quien entendio la mente del Senor? ?o quien fue su consejero?
+
+        35 ?O quien le dio a el primero, para que le sea pagado?
+
+        36 Porque de el, y por el, y en el, son todas las cosas. A el sea gloria 
+por siglos. Amen.
+
+
+
+Capitulo  12
+
+        1 ASI que, hermanos, os ruego por las misericordias de Dios, que 
+presenteis vuestros cuerpos en sacrificio vivo, santo, agradable a Dios, [que 
+es] vuestro racional culto.
+
+        2 Y no os conformeis a este siglo; mas reformaos por la renovacion de 
+vuestro entendimiento, para que experimenteis cual sea la buena voluntad de 
+Dios, agradable y perfecta.
+
+        3 Digo pues por la gracia que me es dada, a cada cual que esta entre 
+vosotros, que no tenga mas alto concepto de si que el que debe tener, sino que 
+piense de si con templanza, conforme a la medida de fe que Dios repartio a 
+cada uno.
+
+ 4 Porque de la manera que en un cuerpo tenemos muchos miembros, empero todos 
+los miembros no tienen la misma operacion;
+
+        5 Asi muchos somos un cuerpo en Cristo, mas todos miembros los unos de 
+los otros.
+
+        6 De manera que, teniendo diferentes dones segun la gracia que nos es 
+dada, si [el de] profecia, [usese] conforme a la medida de la fe;
+
+        7 O si ministerio, en servir; o el que ensena, en doctrina;
+
+        8 El que exhorta, en exhortar; el que reparte, [hagalo] en simplicidad; 
+el que preside, con solicitud; el que hace misericordia, con alegria.
+
+        9 El amor sea sin fingimiento: aborreciendo lo malo, llegandoos a lo 
+bueno;
+
+        10 Amandoos los unos a los otros con caridad fraternal; previniendoos 
+con honra los unos a los otros;
+
+        11 En el cuidado no perezosos; ardientes en espiritu; sirviendo al 
+Senor;
+
+        12 Gozosos en la esperanza; sufridos en la tribulacion; constantes en la 
+oracion;
+
+        13 Comunicando a las necesidades de los santos; siguiendo la 
+hospitalidad.
+
+        14 Bendecid a los que os persiguen: bendecid, y no maldigais.
+
+        15 Gozaos con los que se gozan: llorad con los que lloran.
+
+        16 Unanimes entre vosotros: no altivos, mas acomodandoos a los humildes. 
+No seais sabios en vuestra opinion.
+
+        17 No pagueis a nadie mal por mal; procurad lo bueno delante de todos 
+los hombres.
+
+        18 Si se puede hacer, cuanto esta en vosotros, tened paz con todos los 
+hombres.
+
+        19 No os vengueis vosotros mismos, amados mios; antes dad lugar a la 
+ira; porque escrito esta: Mia es la venganza: yo pagare, dice el Senor.
+
+        20 Asi que, si tu enemigo tuviere hambre, dale de comer; si tuviere sed, 
+dale de beber: que haciendo esto, ascuas de fuego amontonas sobre su cabeza.
+
+        21 No seas vencido de lo malo; mas vence con el bien el mal.
+
+
+
+Capitulo  13
+
+        1 TODA alma se someta a las potestades superiores; porque no hay 
+potestad sino de Dios; y las que son, de Dios son ordenadas.
+
+        2 Asi que, el que se opone a la potestad, a la ordenacion de Dios 
+resiste: y los que resisten, ellos mismos ganan condenacion para si.
+
+        3 Porque los magistrados no son para temor al que bien hace, sino al 
+malo. ?Quieres pues no temer la potestad? haz lo bueno, y tendras alabanza de 
+ella;
+
+        4 Porque es ministro de Dios para tu bien. Mas si hicieres lo malo, 
+teme: porque no en vano lleva el cuchillo; porque es ministro de Dios, 
+vengador para castigo al que hace lo malo.
+
+        5 Por lo cual es necesario que [le] esteis sujetos, no solamente por la 
+ira, mas aun por la conciencia.
+
+        6 Porque por esto pagais tambien los tributos; porque son ministros de 
+Dios que sirven a esto mismo.
+
+        7 Pagad a todos lo que debeis: al que tributo, tributo; al que pecho, 
+pecho; al que temor, temor; al que honra, honra.
+
+        8 No debais a nadie nada, sino amaros unos a otros; porque el que ama al 
+projimo, cumplio la ley.
+
+        9 Porque: No adulteraras; no mataras; no hurtaras; no diras falso 
+testimonio; no codiciaras: y si hay algun otro mandamiento, en esta sentencia 
+se comprende sumariamente: Amaras a tu projimo como a ti mismo.
+
+        10 La caridad no hace mal al projimo: asi que, el cumplimiento de la ley 
+es la caridad.
+
+        11 Y esto, conociendo el tiempo, que es ya hora de levantarnos del 
+sueno; porque ahora nos esta mas cerca nuestra salud que cuando creimos.
+
+        12 La noche ha pasado, y ha llegado el dia: echemos, pues, las obras de 
+las tinieblas, y vistamonos las armas de luz.
+
+        13 Andemos como de dia, honestamente: no en glotonerias y borracheras, 
+no en lechos y disoluciones, no en pedencias y envidia:
+
+        14 Mas vestios del Senor Jesucristo, y no hagais caso de la carne en 
+[sus] deseos.
+
+
+
+Capitulo  14
+
+        1 RECIBID al flaco en la fe, [pero] no para contiendas de disputas.
+
+        2 Porque uno cree que se ha de comer de todas cosas: otro que es debil, 
+come legumbres.
+
+        3 El que come, no menosprecie al que no come: y el que no come, no 
+juzgue al que come; porque Dios le ha levantado.
+
+        4 ?Tu quien eres que juzgas al siervo ajeno? para su senor esta en pie, 
+o cae: mas se afirmara; que poderoso es el Senor para afirmarle.
+
+        5 Uno hace diferencia entre dia y dia; otro juzga [iguales] todos los 
+dias. Cada uno este asegurado en su animo.
+
+        6 El que hace caso del dia, hace[lo] para el Senor: y el que no hace 
+caso del dia, no lo hace para el Senor. El que come, come para el Senor, 
+porque da gracias a Dios; y el que no come, no come para el Senor, y da 
+gracias a Dios.
+
+        7 Porque ninguno de nosotros vive para si, y ninguno muere para si.
+
+        8 Que si vivimos, para el Senor vivimos; y si morimos, para el Senor 
+morimos. Asi que, o que vivamos, o que muramos, del Senor somos.
+
+        9 Porque Cristo para esto murio, y resucito, y volvio a vivir, para ser 
+Senor asi de los muertos como de los que viven.
+
+        10 Mas tu ?por que juzgas a tu hermano? O tu tambien, ?por que 
+menosprecias a tu hermano? porque todos hemos de estar ante el tribunal de 
+Cristo.
+
+        11 Porque escrito esta: Vivo yo, dice el Senor, que a mi se doblara toda 
+rodilla, Y toda lengua confesara a Dios.
+
+        12 De manera que, cada uno de nosotros dara a Dios razon de si.
+
+        13 Asi que, no juzguemos mas los unos de los otros: antes bien juzgad de 
+no poner tropiezo o escandalo al hermano.
+
+        14 Yo se, y confio en el Senor Jesus, que de suyo nada hay inmundo: mas 
+a aquel que piensa alguna cosa ser inmunda, para el es inmunda.
+
+        15 Empero si por causa de la comida tu hermano es contristado, ya no 
+andas conforme a la caridad. No arruines con tu comida a aquel por el cual 
+Cristo murio.
+
+        16 No sea pues blasfemado vuestro bien:
+
+        17 Que el reino de Dios no es comida ni bebida, sino justicia y paz y 
+gozo por el Espiritu Santo.
+
+        18 Porque el que en esto sirve a Cristo, agrada a Dios, y es acepto a 
+los hombres.
+
+        19 Asi que, sigamos lo que hace a la paz, y a la edificacion de los unos 
+a los otros.
+
+        20 No destruyas la obra de Dios por causa de la comida. Todas las cosas 
+a la verdad son limpias: mas malo es al hombre que come con escandalo.
+
+        21 Bueno es no comer carne, ni beber vino, ni [nada] en que tu hermano 
+tropiece, o se ofenda, o sea debilitado.
+
+        22 ?Tienes tu fe? Tenla para contigo delante de Dios. Bienaventurado el 
+que no se condena a si mismo con lo que aprueba.
+
+        23 Mas el que hace diferencia, si comiere, es condenado, porque no 
+[comio] por fe: y todo lo que no es de fe, es pecado.
+
+
+
+Capitulo  15
+
+        1 ASI que, los que somos mas firmes debemos sobrellevar las flaquezas de 
+los flacos, y no agradarnos a nosotros mismos.
+
+        2 Cada uno de nosotros agrade a su projimo en bien, a edificacion.
+
+        3 Porque Cristo no se agrado a si mismo; antes bien, como esta escrito: 
+Los vituperios de los que te vituperan, cayeron sobre mi.
+
+        4 Porque las cosas que antes fueron escritas, para nuestra ensenanza 
+fueron escritas; para que por la paciencia, y por la consolacion de las 
+Escrituras, tengamos esperanza.
+
+        5 Mas el Dios de la paciencia y de la consolacion os de que entre 
+vosotros seais unanimes segun Cristo Jesus;
+
+        6 Para que concordes, a una boca glorifiqueis al Dios y Padre de nuestro 
+Senor Jesucristo.
+
+        7 Por tanto, sobrellevaos los unos a los otros, como tambien Cristo nos 
+sobrellevo, para gloria de Dios.
+
+        8 Digo, pues, que Cristo Jesus fue hecho ministro de la circuncision por 
+la verdad de Dios, para confirmar las promesas [hechas] a los padres,
+
+        9 Y para que los Gentiles glorifiquen a Dios por la misericordia; como 
+esta escrito: Por tanto yo te confesare entre los Gentiles, Y cantare a tu 
+nombre.
+
+        10 Y otra vez dice: Alegraos, Gentiles, con su pueblo.
+
+        11 Y otra vez: Alabad al Senor todos los Gentiles, Y magnificadle, todos 
+los pueblos.
+
+        12 Y otra vez, dice Isaias: Estara la raiz de Jesse, Y el que se 
+levantara a regir los Gentiles: Los Gentiles esperaran en el.
+
+        13 Y el Dios de esperanza os llene de todo gozo y paz creyendo, para que 
+abundeis en esperanza por la virtud del Espiritu Santo.
+
+        14 Empero cierto estoy yo de vosotros, hermanos mios, que aun vosotros 
+mismos estais llenos de bondad, llenos de todo conocimiento, de tal manera que 
+podais amonestaros los unos a los otros.
+
+        15 Mas os he escrito, hermanos, en parte resueltamente, como 
+amonestandoos por la gracia que de Dios me es dada,
+
+        16 Para ser ministro de Jesucristo a los Gentiles, ministrando el 
+evangelio de Dios, para que la ofrenda de los Gentiles sea agradable, 
+santificada por el Espiritu Santo.
+
+        17 Tengo, pues, de que gloriarme en Cristo Jesus en lo que mira a Dios.
+
+        18 Porque no osaria hablar alguna cosa que Cristo no haya hecho por mi 
+para la obediencia de los Gentiles, con la palabra y con las obras,
+
+        19 Con potencia de milagros y prodigios, en virtud del Espiritu de Dios: 
+de manera que desde Jerusalem, y por los alrededores hasta Ilirico, he llenado 
+[todo] del evangelio de Cristo.
+
+        20 Y de esta manera me esforce a predicar el evangelio, no donde [antes] 
+Cristo fuese nombrado, por no edificar sobre ajeno fundamento:
+
+        21 Sino, como esta escrito: A los que no fue anunciado de el, veran: Y 
+los que no oyeron, entenderan.
+
+        22 Por lo cual aun he sido impedido muchas veces de venir a vosotros.
+
+        23 Mas ahora no teniendo mas lugar en estas regiones, y deseando ir a 
+vosotros muchos anos ha,
+
+        24 Cuando partiere para Espana, ire a vosotros; porque espero que 
+pasando os vere, y que sere llevado de vosotros alla, si empero antes hubiere 
+gozado de vosotros.
+
+        25 Mas ahora parto para Jerusalem a ministrar a los santos.
+
+        26 Porque Macedonia y Acaya tuvieron por bien hacer una colecta para los 
+pobres de los santos que estan en Jerusalem.
+
+        27 Porque les parecio bueno, y son deudores a ellos: porque si los 
+Gentiles han sido hechos participantes de sus bienes espirituales, deben 
+tambien ellos servirles en los carnales.
+
+        28 Asi que, cuando hubiere concluido esto, y les hubiere consignado este 
+fruto, pasare por vosotros a Espana.
+
+        29 Y se que cuando llegue a vosotros, llegare con abundancia de la 
+bendicion del evangelio de Cristo.
+
+        30 Ruegoos empero, hermanos, por el Senor nuestro Jesucristo, y por la 
+caridad del Espiritu, que me ayudeis con oraciones por mi a Dios,
+
+        31 Que sea librado de los rebeldes que estan en Judea, y que la ofrenda 
+de mi servicio a los santos en Jerusalem sea acepta;
+
+        32 Para que con gozo llegue a vosotros por la voluntad de Dios, y que 
+sea recreado juntamente con vosotros.
+
+        33 Y el Dios de paz sea con todos vosotros. Amen.
+
+
+
+Capitulo  16
+
+        1 ENCOMIENDOOS empero a Febe nuestra hermana, la cual es diaconisa de la 
+iglesia que esta en Cencreas:
+
+        2 Que la recibais en el Senor, como es digno a los santos, y que la 
+ayudeis en cualquiera cosa en que os hubiere menester: porque ella ha ayudado 
+a muchos, y a mi mismo.
+
+        3 Saludad a Priscila y Aquila, mis coadjutores en Cristo Jesus;
+
+        4 (Que pusieron sus cuellos por mi vida: a los cuales no doy gracias yo 
+solo, mas aun todas las iglesias de los Gentiles;)
+
+        5 Asimismo a la iglesia de su casa. Saludad a Epeneto, amado mio, que es 
+las primicias de Acaya en Cristo.
+
+        6 Saludad a Maria, la cual ha trabajado mucho con vosotros.
+
+        7 Saludad a Andronico y a Junia, mis parientes, y mis companeros en la 
+cautividad, los que son insignes entre los apostoles; los cuales tambien 
+fueron antes de mi en Cristo.
+
+        8 Saludad a Amplias, amado mio en el Senor.
+
+        9 Saludad a Urbano, nuestro ayudador en Cristo Jesus, y a Stachis, amado 
+mio.
+
+        10 Saludad a Apeles, probado en Cristo. Saludad a los que son de 
+Aristobulo.
+
+        11 Saludad a Herodion, mi pariente. Saludad a los que son de [la casa 
+de] Narciso, los que estan en el Senor.
+
+        12 Saludad a Trifena y a Trifosa, las cuales trabajan en el Senor. 
+Saludad a Persida amada, la cual ha trabajado mucho en el Senor.
+
+        13 Saludad a Rufo, escogido en el Senor, y a su madre y mia.
+
+        14 Saludad a Asincrito, y a Flegonte, a Hermas, a Patrobas, a Hermes, y 
+a los hermanos que estan con ellos.
+
+        15 Saludad a Filologo y a Julia, a Nereo y a su hermana, y a Olimpas, y 
+a todos los santos que estan con ellos.
+
+        16 Saludaos los unos a los otros con osculo santo. Os saludan todas las 
+iglesias de Cristo.
+
+        17 Y os ruego hermanos, que mireis los que causan disensiones y 
+escandalos contra la doctrina que vosotros habeis aprendido; y apartaos de 
+ellos.
+
+        18 Porque los tales no sirven al Senor nuestro Jesucristo, sino a sus 
+vientres; y con suaves palabras y bendiciones enganan los corazones de los 
+simples.
+
+        19 Porque vuestra obediencia ha venido a ser notoria a todos; asi que me 
+gozo de vosotros; mas quiero que seais sabios en el bien, y simples en el mal.
+
+        20 Y el Dios de paz quebrantara presto a Satanas debajo de vuestros 
+pies. La gracia del Senor nuestro Jesucristo [sea] con vosotros.
+
+        21 Os saludan Timoteo, mi coadjutor, y Lucio y Jason y Sosipater, mis 
+parientes.
+
+        22 Yo Tercio, que escribi la epistola, os saludo en el Senor.
+
+        23 Saludaos Gayo, mi huesped, y de toda la iglesia. Saludaos Erasto, 
+tesorero de la ciudad, y el hermano Cuarto.
+
+        24 La gracia del Senor nuestro Jesucristo sea con todos vosotros. Amen.
+
+        25 Y al que puede confirmaros segun mi evangelio y la predicacion de 
+Jesucristo, segun la revelacion del misterio encubierto desde tiempos eternos,
+
+        26 Mas manifestado ahora, y por las Escrituras de los profetas, segun el 
+mandamiento del Dios eterno, declarado a todas las gentes para que obedezcan a 
+la fe;
+
+        27 Al solo Dios sabio, sea gloria por Jesucristo para siempre. Amen.
+
+
+The first pass correction was made by Adrian Silva, Bret Carpenter, and MnJ on Sunday, May
+        18,     1997; using primarily the two non-suspect*      1909's: ABS/BFBS     1922 and the 
+ABS/BFBS        1925; but for reference the (suspect) ABS       1980, the (s) IBA (No date 
+available.), the (s) TSELF      1977, the (s) Gideons   1974, the (n-s) Gideons 1968, and the 
+(s) Trinitarian Bible Society (No date available.).  All ties decided by the "casting of the lot" 
+(Flipping a coin, and letting providence decide.), and are reserved for possible correction. 
+
+* Those leaving the reading "dia de Domingo" in Revelation        1.10 instead of "dia del Senor.  
+This change appears to have been made between   1968 and        1974, possibly because of the 
+influence of the KJB and the Reina Valera       1960 translation.
+
+
+Of the non-suspect      1909's, those that DO NOT have a comma after "Asi que" are the 
+following: the ABS/BFBS 1925 and the Gideons International      1968.  This is supported by the 
+following suspect       1909's:  Gideons International       1974 and the Trinitarian Bible Society 
+(No date available.).  These total to four (4) without a comma.
+
+The non-suspect 1909 supporting a comma after "Asi que" is: ABS/BFBS   1922.  The 
+suspect 1909's not supporting a comma are:  ABS      1980, IBA (No date available.) (Box
+        225646, Dallas, Texas,  75265, USA), and the TSELF      1977 (P.O. Box
+        6094, Grand Rapids, Michigan,   49506, USA.  ISBN:84-399-5760-2)
+These total four (4) with a comma.
+
+Because of the tie between available readings, we commended the matter to providence and 
+flipped a coin. (Cast the lot in the lap.).
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK, REINA VALERA NEW TESTAMENT OF THE BIBLE 1909 ***
+
+This file should be named 7va0910.txt or 7va0910.zip
+Corrected EDITIONS of our eBooks get a new NUMBER, 7va0911.txt
+VERSIONS based on separate sources get new LETTER, 7va0910a.txt
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext04 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext04
+
+Or /etext03, 02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information online at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this eBook's header and trailer may be reprinted only
+when distributed free of all fees.  Copyright (C) 2001, 2002 by
+Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
+used in any sales of Project Gutenberg eBooks or other materials be
+they hardware or software or any other related product without
+express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*
+

@@ -1,0 +1,31 @@
+Esta versión del GUI no está terminada. Todavía falta "pegarle" el tree view con el proyecto y que agregue los textos (al proyecto).
+
+--------
+Update:  (24 Noviembre) La tabla se construye dinámicamente. No he podido ponerla bonita con 5 textos, no sé como 'centrar' los dos de abajo.  El numero de textos está "hard-coded" en el constructor. Es el parámetro que recibe el build_table.
+
+Ya está listo el add file (con file chooser). Lo que hay que hacer es que agregue el archivo al proyecto y no directamente al textview (podemos hacer un botón que sea ADD AND EDIT) o algo así que agregue al proyecto y a las vistas.
+También está listo el ABOUT DIALOG.
+
+El código está medio comentado.
+--------------FIN UPDATE---------------------
+
+-----
+Update 26 de Noviembre:  Ya empezamos a unir el proyecto de rxml y la Interfaz. Ya se agregan los archivos al proyecto desde la interfaz. Cuando se muestran los archivos la tabla se va generando automáticamente dependiendo del número de archivos que se agreguen.
+
+Se creo la carpeta pixmaps para las imagenes
+--------FIN UPDATE----------
+
+
+
+*****************************************************************************************************************************************************************************************
+This GUI version is not finished yet.
+
+---
+November 24th - Update: The table is now created dinamically. I haven't been able to make it look good with 5 texts. I don't know how to 'center' the bottom ones. The text numbers is hard-coded at the 'initialize' method. The method that builds the table is called "build_table" and recieves the number of texts.
+
+The add file (with file chooser) is ready. Also the about dialog
+---
+November 26th - Update: We have started to join the rxml and gui parts. The files are now added to the project and not to the text views. You can right click on the project to "show" them.
+The pixmaps folder was created to hold all images.
+*****************************************************************************************************************************************************************************************
+

@@ -1,0 +1,7 @@
+The makefile has been edited so it does not copy the datasets in the bin folder. The older makefile is now 'm2'.\
+
+The main algorithm is now under revision. It will be properly commented soon.
+===
+The GUI is inside "separando". The GUI folder is the older version that has some code that's not in the final version yet. The GUI folder will be deleted as soon as the new GUI is ready.
+
+The latest .glade file is the one inside "Separando"

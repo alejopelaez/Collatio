@@ -1,0 +1,8 @@
+BIN_DIR=../bin
+
+all:
+	g++ md5.c main.cc -o $(BIN_DIR)/collatio
+	cp -r datasets $(BIN_DIR)/datasets
+clean:
+	rm -f $(BIN_DIR)/collatio
+	rm -rf $(BIN_DIR)/datasets

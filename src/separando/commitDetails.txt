@@ -1,0 +1,2 @@
+First Commit
+The GUI was getting bigger and much more difficult to read so we started to make diferent files. Each one has a specific option and at the end they will all use each other. This separation will make the code easier to read,debug,upgrade and mantain.

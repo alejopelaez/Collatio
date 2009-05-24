@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE glade-interface SYSTEM "glade-2.0.dtd">
+<!--Generated with glade3 3.4.5 on Sun May 24 13:19:00 2009 -->
+<glade-interface>
+  <widget class="GtkWindow" id="mainWindow">
+    <property name="width_request">1024</property>
+    <property name="height_request">768</property>
+    <property name="visible">True</property>
+    <property name="title" translatable="yes">Collatio Builder</property>
+    <property name="window_position">GTK_WIN_POS_CENTER</property>
+    <property name="default_width">800</property>
+    <property name="default_height">600</property>
+    <signal name="destroy" handler="quit"/>
+    <signal name="destroy_event" handler="quit"/>
+    <child>
+      <widget class="GtkVBox" id="mainVerticalDivision">
+        <property name="width_request">800</property>
+        <property name="height_request">600</property>
+        <property name="visible">True</property>
+        <child>
+          <widget class="GtkVBox" id="menuBox">
+            <property name="height_request">115</property>
+            <property name="visible">True</property>
+            <child>
+              <widget class="GtkMenuBar" id="menubar1">
+                <property name="visible">True</property>
+                <child>
+                  <widget class="GtkMenuItem" id="mainMenu_File">
+                    <property name="visible">True</property>
+                    <property name="label" translatable="yes">_File</property>
+                    <property name="use_underline">True</property>
+                    <child>
+                      <widget class="GtkMenu" id="menu1">
+                        <property name="visible">True</property>
+                        <child>
+                          <widget class="GtkImageMenuItem" id="fileMenu_New">
+                            <property name="visible">True</property>
+                            <property name="tooltip" translatable="yes">Selects a new princeps file to start a new project</property>
+                            <property name="label" translatable="yes">New Project</property>
+                            <property name="use_underline">True</property>
+                            <signal name="activate" handler="new_project"/>
+                            <child internal-child="image">
+                              <widget class="GtkImage" id="menu-item-image11">
+                                <property name="visible">True</property>
+                                <property name="pixbuf">images/new_project.png</property>
+                              </widget>
+                            </child>
+                          </widget>
+                        </child>
+                        <child>
+                          <widget class="GtkImageMenuItem" id="fileMenu_open">
+                            <property name="visible">True</property>
+                            <property name="tooltip" translatable="yes">Opens a project to work on</property>
+                            <property name="label" translatable="yes">Open Project</property>
+                            <property name="use_underline">True</property>
+                            <signal name="activate" handler="open_project"/>
+                            <child internal-child="image">
+                              <widget class="GtkImage" id="menu-item-image13">
+                                <property name="pixbuf">images/open_project.png</property>
+                              </widget>
+                            </child>
+                          </widget>
+                        </child>
+                        <child>
+                          <widget class="GtkImageMenuItem" id="fileMenu_Save">
+                            <property name="visible">True</property>
+                            <property name="tooltip" translatable="yes">Saves the project progress</property>
+                            <property name="label" translatable="yes">Save Project</property>
+                            <property name="use_underline">True</property>
+                            <signal name="activate" handler="save_project"/>
+                            <child internal-child="image">
+                              <widget class="GtkImage" id="menu-item-image14">
+                                <property name="pixbuf">images/save_project.png</property>
+                              </widget>
+                            </child>
+                          </widget>
+                        </child>
+                        <child>
+                          <widget class="GtkImageMenuItem" id="fileMenu_SaveAs">
+                            <property name="visible">True</property>
+                            <property name="tooltip" translatable="yes">Saves the project with a different name</property>
+                            <property name="label" translatable="yes">Save Project As</property>
+                            <property name="use_underline">True</property>
+                            <signal name="activate" handler="save_as"/>
+                            <child internal-child="image">
+                              <widget class="GtkImage" id="menu-item-image15">
+                                <property name="pixbuf">images/save_as_project.png</property>
+                              </widget>
+                            </child>
+                          </widget>
+                        </child>
+                        <child>
+                          <widget class="GtkSeparatorMenuItem" id="fileMenu_Separator1">
+                            <property name="visible">True</property>
+                          </widget>
+                        </child>
+                        <child>
+                          <widget class="GtkImageMenuItem" id="fileMenu_Quit">
+                            <property name="visible">True</property>
+                            <property name="tooltip" translatable="yes">Exit Collatio Builder</property>
+                            <property name="label" translatable="yes">Quit</property>
+                            <property name="use_underline">True</property>
+                            <signal name="activate" handler="quit"/>
+                            <child internal-child="image">
+                              <widget class="GtkImage" id="menu-item-image16">
+                                <property name="stock">gtk-missing-image</property>
+                              </widget>
+                            </child>
+                          </widget>
+                        </child>
+                      </widget>
+                    </child>
+                  </widget>
+                </child>
+                <child>
+                  <widget class="GtkMenuItem" id="mainMenu_Help">
+                    <property name="visible">True</property>
+                    <property name="label" translatable="yes">_Help</property>
+                    <property name="use_underline">True</property>
+                    <child>
+                      <widget class="GtkMenu" id="menu3">
+                        <property name="visible">True</property>
+                        <child>
+                          <widget class="GtkImageMenuItem" id="helpMenu_About">
+                            <property name="visible">True</property>
+                            <property name="label" translatable="yes">About Collatio Builder</property>
+                            <property name="use_underline">True</property>
+                            <signal name="activate" handler="about"/>
+                            <child internal-child="image">
+                              <widget class="GtkImage" id="menu-item-image17">
+                                <property name="stock">gtk-missing-image</property>
+                              </widget>
+                            </child>
+                          </widget>
+                        </child>
+                      </widget>
+                    </child>
+                  </widget>
+                </child>
+              </widget>
+              <packing>
+                <property name="expand">False</property>
+              </packing>
+            </child>
+            <child>
+              <widget class="GtkToolbar" id="iconToolBar">
+                <property name="height_request">80</property>
+                <property name="visible">True</property>
+                <child>
+                  <widget class="GtkToolButton" id="iconMenu_NewProject">
+                    <property name="visible">True</property>
+                    <property name="label" translatable="yes">New Project</property>
+                    <property name="icon">images/new_project.png</property>
+                    <signal name="clicked" handler="new_project"/>
+                  </widget>
+                  <packing>
+                    <property name="expand">False</property>
+                  </packing>
+                </child>
+                <child>
+                  <widget class="GtkToolButton" id="iconMenu_OpenProject">
+                    <property name="visible">True</property>
+                    <property name="label" translatable="yes">Open Project</property>
+                    <property name="icon">images/open_project.png</property>
+                    <signal name="clicked" handler="open_project"/>
+                  </widget>
+                  <packing>
+                    <property name="expand">False</property>
+                  </packing>
+                </child>
+                <child>
+                  <widget class="GtkToolButton" id="iconMenu_SaveProject">
+                    <property name="visible">True</property>
+                    <property name="label" translatable="yes">Save Project</property>
+                    <property name="icon">images/save_project.png</property>
+                    <signal name="clicked" handler="save_project"/>
+                  </widget>
+                  <packing>
+                    <property name="expand">False</property>
+                  </packing>
+                </child>
+                <child>
+                  <widget class="GtkSeparatorToolItem" id="iconMenu_Separator1">
+                    <property name="visible">True</property>
+                  </widget>
+                  <packing>
+                    <property name="expand">False</property>
+                    <property name="homogeneous">False</property>
+                  </packing>
+                </child>
+                <child>
+                  <widget class="GtkToolButton" id="iconMenu_AddText">
+                    <property name="visible">True</property>
+                    <property name="label" translatable="yes">Add Text</property>
+                    <property name="icon">images/add_text.png</property>
+                    <signal name="clicked" handler="add_text"/>
+                  </widget>
+                  <packing>
+                    <property name="expand">False</property>
+                  </packing>
+                </child>
+                <child>
+                  <widget class="GtkToolButton" id="iconMenu_RemoveText">
+                    <property name="visible">True</property>
+                    <property name="label" translatable="yes">Remove Text</property>
+                    <property name="icon">images/remove_text.png</property>
+                    <signal name="clicked" handler="remove_text"/>
+                  </widget>
+                  <packing>
+                    <property name="expand">False</property>
+                  </packing>
+                </child>
+              </widget>
+              <packing>
+                <property name="expand">False</property>
+                <property name="position">1</property>
+              </packing>
+            </child>
+          </widget>
+          <packing>
+            <property name="expand">False</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="GtkHBox" id="mainDiv">
+            <property name="visible">True</property>
+            <child>
+              <placeholder/>
+            </child>
+            <child>
+              <widget class="GtkTable" id="mainTable">
+                <property name="visible">True</property>
+                <property name="n_rows">1</property>
+                <property name="n_columns">1</property>
+                <child>
+                  <placeholder/>
+                </child>
+              </widget>
+              <packing>
+                <property name="position">1</property>
+              </packing>
+            </child>
+          </widget>
+          <packing>
+            <property name="position">1</property>
+          </packing>
+        </child>
+      </widget>
+    </child>
+  </widget>
+</glade-interface>
