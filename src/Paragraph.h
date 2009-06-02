@@ -22,9 +22,14 @@ using std::vector;
 using std::ostream;
 
 class Paragraph {
+    
+    string paragraph;
+    int currentPos;
+    vector<string> phrases;
+    string lastPhrase;
 
  public:
-    Paragraph(string _paragraph = "") : currentPos(0){
+    Paragraph(string _paragraph = "HOCK.") : currentPos(0){
         paragraph = _paragraph;
         SplitParagraph();
     }
@@ -86,14 +91,17 @@ class Paragraph {
     
  private:
     vector<string> SplitParagraph(const string & delimiter = ".") {    
+        puts("SplitParagraph Method");
+        cout<<paragraph<<endl;
         string phrase;
         // drop delimiters at start
         string::size_type lastPos = paragraph.find_first_not_of(delimiter);
-
+        
         string::size_type pos = paragraph.find_first_of(delimiter);
-
+        
         while (pos != string::npos || lastPos != string::npos) {
             phrase = paragraph.substr(lastPos, pos - lastPos);
+            cout<<"DEBUG FRASE!      "<<phrase<<endl;
             phrases.push_back(RemoveWhitespace(phrase));
             // use find_first_not_of instead of += 1  to skip "..."
             lastPos = paragraph.find_first_not_of(delimiter, pos);
@@ -113,10 +121,7 @@ class Paragraph {
 
     friend ostream & operator<<(ostream &os, const Paragraph& p);
 
-    string paragraph;
-    int currentPos;
-    vector<string> phrases;
-    string lastPhrase;
+    
 };
   
 ostream & operator<<(ostream &os, const Paragraph& p){

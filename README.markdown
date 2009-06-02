@@ -22,24 +22,34 @@ Global setup:
 ----------
 
   Download and install Git
+
   git config --global user.name "user name"
+
   git config --global user.email "user-email"
+
 
 To Get the Git Repo:
 --------------------
 
   mkdir Collatio
+
   cd Collatio
+
   git init
+
   git remote add origin git@github.com:nhocki/Collatio.git
+
   git pull origin master
 
 To commit something:
 --------------------
 
   cd Collatio
+
   git add <files> (you can use '.' to add everything)
+
   git commit -m 'commit message'
+
   git push origin master
 
 

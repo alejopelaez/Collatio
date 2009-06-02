@@ -181,10 +181,87 @@ int main(int argc, char *argv[]){
  	for (unsigned int cont1 = 0; cont1 < s2.size(); cont1++) {
  		md5_csum(reinterpret_cast<unsigned char *>(const_cast<char *>(s2[cont1].to_str().c_str())),s2[cont1].size(), 
  				 m2[cont1].GetBuffer());
- 	}
+ 	}    
 
-// 	int distance = LevenshteinDistance(m1,m2, d);
-        print_diff(m1,m2,d,s1,s2);
+        //Levenshtein Matrix
+        vector<vector<int> > matrizOperaciones;
+        int distance = LevenshteinDistance(m1,m2, d, matrizOperaciones);
+        
+        for(int i = 0; i < matrizOperaciones.size(); ++i)
+        {
+            if(matrizOperaciones[i][0] == 1)
+                cout << "se elimino \"" << s1[matrizOperaciones[i][1]] << "\""<<endl;
+            else if(matrizOperaciones[i][0] == 2)
+                cout << "Se inserto \"" << s2[matrizOperaciones[i][1]] << "\"" << endl;
+            //Splits the paragraph into phrases, and call levenshtein
+            else if(matrizOperaciones[i][0] == 3)
+            {
+                //vector<string> f1(s1[matrizOperaciones[i][1]].NumberOfPhrases());
+                //vector<string> f2(s2[matrizOperaciones[i][2]].NumberOfPhrases());
+                
+                puts("Primer parrafo ***");
+                cout<<s1[matrizOperaciones[i][1]]<<endl;
+                puts("Segundo parrafo ***");
+                cout<<s2[matrizOperaciones[i][2]]<<endl;
+                
+                vector<string> f1 = s1[matrizOperaciones[i][1]].get_phrases();
+                vector<string> f2 = s2[matrizOperaciones[i][2]].get_phrases();
+                
+                printf("Frases 1.size = %d\n",f1.size());
+                printf("Frases 2.size = %d\n",f2.size());
+                
+                for(int k = 0; k<f1.size();++k){
+                    cout<<f1[k]<<endl;
+                }
+                puts("********************** EL OTRO ****************");
+                for(int k = 0; k<f2.size();++k){
+                    cout<<f2[k]<<endl;
+                }
+                
+                m1 = vector<Signature>(f1.size());
+                m2 = vector<Signature>(f2.size());
+                
+                for (unsigned int cont1 = 0; cont1 < f1.size(); cont1++) {
+                    md5_csum(reinterpret_cast<unsigned char *>(const_cast<char *>(f1[cont1].c_str())),f1[cont1].length(), 
+ 				 m1[cont1].GetBuffer());
+                }
+                for (unsigned int cont1 = 0; cont1 < f2.size(); cont1++) {
+                    md5_csum(reinterpret_cast<unsigned char *>(const_cast<char *>(f2[cont1].c_str())),f2[cont1].length(), 
+ 				 m2[cont1].GetBuffer());
+                }
+                
+                vector<vector<int> > matrizOperaciones2;
+                d = vector<vector<int> > (f1.size()+1,vector<int>(f2.size()+1));
+                distance = LevenshteinDistance(m1,m2, d, matrizOperaciones2);
+                
+                cerr<<matrizOperaciones2.size();
+                puts("  <--- Tamaño Matriz 2");
+                
+                
+                
+                for(int j = 0; j < matrizOperaciones2.size(); ++j)
+                {
+                    cerr << "OPERACION, con j= "<<j<<" tengo "<<matrizOperaciones2[j][0]<<endl;
+                    cerr << "En F1, con j= "<<j<<" tengo "<<f1[matrizOperaciones2[j][1]]<<endl;
+                    cerr << "En F1, con j= "<<j<<" tengo "<<f1[matrizOperaciones2[j][2]]<<endl;
+                    cerr << "En F2, con j= "<<j<<" tengo "<<f2[matrizOperaciones2[j][1]]<<endl;
+                    cerr << "En F2, con j= "<<j<<" tengo "<<f2[matrizOperaciones2[j][2]]<<endl;
+                    
+                    if(matrizOperaciones2[j][0] == 1)
+                        cout << "se elimino \"" << f1[matrizOperaciones2[j][1]] << "\""<<endl;
+                    else if(matrizOperaciones2[j][0] == 2)
+                        cout << "Se inserto \"" << f2[matrizOperaciones2[j][1]] << "\"" << endl;
+                    else if(matrizOperaciones[j][0]==3){
+                        cout << "se reemplazó \"" << f1[matrizOperaciones2[j][1]] << "\" por \"";
+                        cout<< f2[matrizOperaciones2[j][2]]<<"\" " <<endl;
+                        
+                    }
+                }
+            }
+                
+        }
+        
+        //print_diff(m1,m2,d,s1,s2);
  	fin = clock();
  	double timeMD5 = static_cast<double>(fin - inicio)/CLOCKS_PER_SEC;
 

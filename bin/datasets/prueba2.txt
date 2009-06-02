@@ -1,11 +1,3 @@
-prueba 2
-
-ESTA ES LA PRUEBA DOS, SOLO DEBE SACAR UN CAMBIO.
-
-ESTO ES IGUAL!
-
-mas cosas
-y otras cosas!
-
-Pero esto se agrega. Pq esto no está en el principe.
-
+prueba 5.
+otro.
+otro2.
