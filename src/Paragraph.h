@@ -29,7 +29,7 @@ class Paragraph {
     string lastPhrase;
 
  public:
-    Paragraph(string _paragraph = "HOCK.") : currentPos(0){
+    Paragraph(string _paragraph = "") : currentPos(0){
         paragraph = _paragraph;
         SplitParagraph();
     }
@@ -87,12 +87,15 @@ class Paragraph {
         return paragraph;
     }
     
+    void create_phrases(){
+        phrases.clear();
+        phrases = SplitParagraph();
+    }
+    
     vector<string> get_phrases(){return phrases;}
     
  private:
-    vector<string> SplitParagraph(const string & delimiter = ".") {    
-        puts("SplitParagraph Method");
-        cout<<paragraph<<endl;
+    vector<string> SplitParagraph(const string & delimiter = ".") {
         string phrase;
         // drop delimiters at start
         string::size_type lastPos = paragraph.find_first_not_of(delimiter);
@@ -101,7 +104,7 @@ class Paragraph {
         
         while (pos != string::npos || lastPos != string::npos) {
             phrase = paragraph.substr(lastPos, pos - lastPos);
-            cout<<"DEBUG FRASE!      "<<phrase<<endl;
+//            cout<<"DEBUG FRASE!      "<<phrase<<endl;
             phrases.push_back(RemoveWhitespace(phrase));
             // use find_first_not_of instead of += 1  to skip "..."
             lastPos = paragraph.find_first_not_of(delimiter, pos);

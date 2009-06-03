@@ -38,6 +38,7 @@ class BookReader {
 
     ifstream inputStream;
     string streamName;
+    vector<Paragraph> book;
     int lineCount;
     int phrasePos;
 	
@@ -71,12 +72,14 @@ class BookReader {
 	    if (!inputStream.eof())  {
 		trim(l);
 		if (l.size() > 0) {
+                    
 		    if (firstLine && isdigit(l[0])) {
 			firstLine = false;
 		    } else if (firstLine){
 			done = true;
 		    } else {
-			paragraph.append(" ");
+                        string k = "";
+			k = paragraph.append(" ");
 		    }
 		    paragraph.append(l);
 		} else if (!firstLine) {
@@ -101,6 +104,7 @@ class BookReader {
 	
 	do {
             paragraph = GetNextParagraph();
+            book.push_back(paragraph);
 	    paragraphs++;
 
 	} while (paragraph.size() > 0);
@@ -115,13 +119,14 @@ class BookReader {
     // Returns the book as a vector of strings where each string is a
     // paragraph.
     vector<Paragraph> GetParagraphs() {
-        vector<Paragraph> book(NumberOfParagraphs());
-
-        for (int i = 0; i < NumberOfParagraphs(); i++) {
-            book[i] = GetNextParagraph();
-        }
-
         return book;
+//        vector<Paragraph> book(NumberOfParagraphs());
+//
+//        for (int i = 0; i < NumberOfParagraphs(); i++) {
+//            book[i] = GetNextParagraph();
+//        }
+//
+//        return book;
 
     };
 };
