@@ -148,10 +148,9 @@ class TreeV
       if iter = view.model.get_iter(path)
         if iter.parent != nil and iter.parent[0] == 'Texts'
           if iter[2] == 'true'
-            puts 'show prince'
+            @window.show_prince_file iter[1]
           else
-            puts 'show text'
-            #show_file iter[1]
+            @window.show_file iter[1]
           end
         end
       end

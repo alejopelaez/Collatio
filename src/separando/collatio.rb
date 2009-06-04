@@ -34,6 +34,13 @@ class CollatioGlade
     @filter.add_pattern('*.xml')
     @filter.add_pattern('*.txt')
 
+    @mainWindow = self
+
+    #array with the texts
+    @texts = []
+    @scrolls = []
+    @number_of_texts = 0
+
     # Manage the project
     @project = Project.new
     
@@ -45,6 +52,67 @@ class CollatioGlade
     @glade.get_widget('mainDiv').pack_start @treeView.view, false, false, 0
     @glade.get_widget('mainDiv').reorder_child @treeView.view, 0
     @glade.get_widget('mainDiv').show_all
+  end
+
+  # Builds the table depending on the number of texts to display.
+  # Also ataches the texts to the table
+  def build_table (number)
+      @main_table.each{|child| @main_table.remove(child)}
+      if number<=3
+          @main_table.n_columns = number
+          @main_table.n_rows = 1
+          i = 0
+          while i<number
+            text = @texts[i]
+            scrolled = @scrolls[i]
+            if text == nil
+                scrolled = Gtk::ScrolledWindow.new
+                text = Gtk::TextView.new
+                text.name = "txtNumber#{i+1}"
+                text.editable = false
+                scrolled.name = "scrollNumber#{i+1}"
+                scrolled.add(text)
+                scrolled.show_all
+                @texts[i] = text
+                @scrolls[i] = scrolled
+            end
+            @main_table.attach(scrolled,i,i+1,0,1)
+            @main_table.show_all
+            i+=1
+          end
+      else
+      @main_table.n_rows = 2
+      @main_table.n_columns = (number+1)/2
+          i = 0
+          fil = col = 0
+          while i<number
+              text = @texts[i]
+              scrolled = @scrolls[i]
+            if text == nil
+                scrolled = Gtk::ScrolledWindow.new
+                text = Gtk::TextView.new
+                text.name = "txtNumber#{i+1}"
+                scrolled.name = "scrollNumber#{i+1}"
+                scrolled.add(text)
+                scrolled.show_all
+                @texts[i] = text
+                @scrolls[i] = scrolled
+            end
+            #Fils the first row. The fil variable acts like a controller. When it changes, the row has changed.
+            if (col < @main_table.n_columns && fil == 0)
+              @main_table.attach(scrolled,col,col+1,0,1)
+              col+=1
+              if col==@main_table.n_columns  #All the columns have been filled. We change rows
+                fil = 1; col = 0  #Restart the columns index
+              end
+            else #Second row statrs here
+              @main_table.attach(scrolled,col,col+1,1,2)
+              col+=1
+            end
+            @main_table.show_all
+            i+=1
+          end
+        end
   end
 
   # Event triggered by the open project button
@@ -219,7 +287,59 @@ class CollatioGlade
     error.run
     error.destroy
   end
-  
+
+  # Reads the contents of the specified file, and returns its text
+  def read_file name
+    return false if name.nil?
+    if File.exists?(name)
+      File.open(name){|f| f.readlines.join }
+    else
+      false
+    end
+  end
+
+  # Puts the selected file on the table, and display it.
+  # Receives the path as a parameter
+  def show_file name
+      if(texts = read_file(name))
+      i = @texts.size
+      if @number_of_texts <6
+          @number_of_texts+=1
+          build_table(@number_of_texts)
+          @main_table.show_all 
+      end
+      if (i<6)
+          text = @texts[i]
+          buffer = text.buffer    
+      else
+          text = @texts[5]
+      end      
+      buffer.set_text(texts)
+      buffer.place_cursor(buffer.start_iter)
+      else
+        show_error("File Not Found", "File Not Found")
+      end
+  end
+
+  # Displays the prince text. 
+  # Receives the path as a parameter
+  def show_prince_file name
+    if(text = read_file name)
+      prince_text = @texts[0]
+      if prince_text == nil
+          @number_of_texts += 1
+          build_table(@number_of_texts)
+          prince_text = @texts[0]
+      end
+      buffer = prince_text.buffer
+      buffer.set_text(text)
+      buffer.place_cursor(buffer.start_iter)
+      prince_text.has_focus = true
+      prince_text.visible = true
+    else
+      show_error("File Not Found", "File Not Found")
+    end
+  end
 end
 
 # Main program

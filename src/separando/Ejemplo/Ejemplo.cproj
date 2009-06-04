@@ -1,0 +1,8 @@
+<?xml version='1.0'?> 
+<Project name='Ejemplo' path='/home/alejandro/Collatio/src/separando/Ejemplo/Ejemplo.cproj'>
+   <Texts>
+      <Text name='configure.in' p='true' path='/home/alejandro/Collatio/src/separando/configure.in'/>
+      <Text name='commitDetails.txt' p='false' path='/home/alejandro/Collatio/src/separando/commitDetails.txt'/>
+      <Text name='Makefile.in' p='false' path='/home/alejandro/Collatio/src/Makefile.in'/>
+   </Texts>
+</Project>
