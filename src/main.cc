@@ -1,4 +1,6 @@
 #ifndef __MD5_H
+#include <string>
+
 #include "md5.h"
 #define __MD5_H
 #endif
@@ -48,6 +50,23 @@ using std::cout;
 using std::endl;
 using std::vector;
 using std::string;
+
+vector<string> get_words(string s){
+    vector<string>words;
+    string delimiter = " ",word;
+    string::size_type poss;
+    while((poss=s.find(","))!=string::npos) s.erase(poss,1); //Remove Commas
+    string::size_type lastPos = s.find_first_not_of(delimiter);
+    string::size_type pos = s.find_first_of(delimiter);
+    while (pos != string::npos || lastPos != string::npos) {
+        word = s.substr(lastPos, pos - lastPos);
+        while((poss=word.find(" "))!=string::npos) word.erase(poss,1); //Remove WhiteSpaces
+        words.push_back(word);
+        lastPos = s.find_first_not_of(delimiter, pos);
+        pos = s.find_first_of(delimiter, lastPos);
+    }
+    return words;
+}
 
 int main(int argc, char *argv[]){
 
@@ -146,12 +165,12 @@ int main(int argc, char *argv[]){
                         cout << "Se inserto en el parrafo "<<matrizOperaciones.size()-i<<" \"" << f2[matrizOperaciones2[j][2]] << "\"" << endl;
                     else if(matrizOperaciones2[j][0]==3){
                         //TODO separacion de frases y la última distancia pero SIN md5.   <========= TODO
+                        vector<string> w1=get_words(f1[matrizOperaciones2[j][1]]), w2 = get_words(f2[matrizOperaciones2[j][2]]);
                         cout << "se reemplazó en el parrafo "<<matrizOperaciones.size()-i<<" \"" << f1[matrizOperaciones2[j][1]] << "\" por \"";
                         cout<< f2[matrizOperaciones2[j][2]]<<"\" " <<endl;
                     }
                 }
             }
-                
         }
         
  	fin = clock();

@@ -67,7 +67,7 @@
 			  <child internal-child="image">
 			    <widget class="GtkImage" id="menu-item-image11">
 			      <property name="visible">True</property>
-			      <property name="pixbuf">new_project.png</property>
+			      <property name="pixbuf">images/new_project.png</property>
 			      <property name="xalign">0.5</property>
 			      <property name="yalign">0.5</property>
 			      <property name="xpad">0</property>
@@ -87,7 +87,7 @@
 
 			  <child internal-child="image">
 			    <widget class="GtkImage" id="menu-item-image13">
-			      <property name="pixbuf">open_project.png</property>
+			      <property name="pixbuf">images/open_project.png</property>
 			      <property name="xalign">0.5</property>
 			      <property name="yalign">0.5</property>
 			      <property name="xpad">0</property>
@@ -107,7 +107,7 @@
 
 			  <child internal-child="image">
 			    <widget class="GtkImage" id="menu-item-image14">
-			      <property name="pixbuf">save_project.png</property>
+			      <property name="pixbuf">images/save_project.png</property>
 			      <property name="xalign">0.5</property>
 			      <property name="yalign">0.5</property>
 			      <property name="xpad">0</property>
@@ -127,7 +127,7 @@
 
 			  <child internal-child="image">
 			    <widget class="GtkImage" id="menu-item-image15">
-			      <property name="pixbuf">save_as_project.png</property>
+			      <property name="pixbuf">images/save_as_project.png</property>
 			      <property name="xalign">0.5</property>
 			      <property name="yalign">0.5</property>
 			      <property name="xpad">0</property>
@@ -223,7 +223,7 @@
 		  <property name="visible">True</property>
 		  <property name="label" translatable="yes">New Project</property>
 		  <property name="use_underline">True</property>
-		  <property name="icon">new_project.png</property>
+		  <property name="icon">images/new_project.png</property>
 		  <property name="visible_horizontal">True</property>
 		  <property name="visible_vertical">True</property>
 		  <property name="is_important">False</property>
@@ -240,7 +240,7 @@
 		  <property name="visible">True</property>
 		  <property name="label" translatable="yes">Open Project</property>
 		  <property name="use_underline">True</property>
-		  <property name="icon">open_project.png</property>
+		  <property name="icon">images/open_project.png</property>
 		  <property name="visible_horizontal">True</property>
 		  <property name="visible_vertical">True</property>
 		  <property name="is_important">False</property>
@@ -257,7 +257,7 @@
 		  <property name="visible">True</property>
 		  <property name="label" translatable="yes">Save Project</property>
 		  <property name="use_underline">True</property>
-		  <property name="icon">save_project.png</property>
+		  <property name="icon">images/save_project.png</property>
 		  <property name="visible_horizontal">True</property>
 		  <property name="visible_vertical">True</property>
 		  <property name="is_important">False</property>
@@ -287,7 +287,7 @@
 		  <property name="visible">True</property>
 		  <property name="label" translatable="yes">Add Text</property>
 		  <property name="use_underline">True</property>
-		  <property name="icon">add_text.png</property>
+		  <property name="icon">images/add_text.png</property>
 		  <property name="visible_horizontal">True</property>
 		  <property name="visible_vertical">True</property>
 		  <property name="is_important">False</property>
@@ -304,7 +304,7 @@
 		  <property name="visible">True</property>
 		  <property name="label" translatable="yes">Remove Text</property>
 		  <property name="use_underline">True</property>
-		  <property name="icon">remove_text.png</property>
+		  <property name="icon">images/remove_text.png</property>
 		  <property name="visible_horizontal">True</property>
 		  <property name="visible_vertical">True</property>
 		  <property name="is_important">False</property>
