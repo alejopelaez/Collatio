@@ -52,10 +52,18 @@ using std::vector;
 using std::string;
 
 vector<string> get_words(string s){
+    
     vector<string>words;
     string delimiter = " ",word;
     string::size_type poss;
     while((poss=s.find(","))!=string::npos) s.erase(poss,1); //Remove Commas
+    while((poss=s.find("?"))!=string::npos) s.erase(poss,1); //Remove Question Marks
+    while((poss=s.find("¿"))!=string::npos) s.erase(poss,1); 
+    while((poss=s.find(";"))!=string::npos) s.erase(poss,1); //Remove  Semicolon
+    while((poss=s.find("."))!=string::npos) s.erase(poss,1); //Remove  Semicolon
+    while((poss=s.find("\""))!=string::npos) s.erase(poss,1); //Remove  Semicolon
+    while((poss=s.find(";"))!=string::npos) s.erase(poss,1); //Remove  Semicolon
+    
     string::size_type lastPos = s.find_first_not_of(delimiter);
     string::size_type pos = s.find_first_of(delimiter);
     while (pos != string::npos || lastPos != string::npos) {
@@ -166,8 +174,27 @@ int main(int argc, char *argv[]){
                     else if(matrizOperaciones2[j][0]==3){
                         //TODO separacion de frases y la última distancia pero SIN md5.   <========= TODO
                         vector<string> w1=get_words(f1[matrizOperaciones2[j][1]]), w2 = get_words(f2[matrizOperaciones2[j][2]]);
-                        cout << "se reemplazó en el parrafo "<<matrizOperaciones.size()-i<<" \"" << f1[matrizOperaciones2[j][1]] << "\" por \"";
-                        cout<< f2[matrizOperaciones2[j][2]]<<"\" " <<endl;
+                        
+                        vector<vector<int> > matrizOperaciones3;
+                        d = vector<vector<int> > (w1.size()+1,vector<int>(w2.size()+1));
+                        distance = LevenshteinDistance(w1,w2, d, matrizOperaciones3);
+                        
+                        for(int k=0;k<matrizOperaciones3.size();++k){
+                            if(matrizOperaciones2[j][0] == 1)
+                                cerr << "Se elimino en el parrafo "<<matrizOperaciones.size()-i<<" en la frase " << matrizOperaciones2.size()-j << " \""<<w1[matrizOperaciones3[k][1]]
+                                <<"\""<<endl;
+                            else if(matrizOperaciones2[j][0] == 2)
+                                cerr << "Se inserto en el parrafo "<<matrizOperaciones.size()-i<<" en la frase " << matrizOperaciones2.size()-j << " \""<<w2[matrizOperaciones3[k][2]]
+                                <<"\""<<endl;
+                            else if(matrizOperaciones2[j][0]==3){
+                                
+                                cerr << "se reemplazó en el parrafo "<<matrizOperaciones.size()-i<<" en la frase "<<matrizOperaciones2.size()-j<<" \"" << w1[matrizOperaciones3[k][1]] << "\" por \"";
+                                cerr << w2[matrizOperaciones3[k][2]]<<"\" " <<endl;
+                            }
+                        }
+                        
+                        //cout << "se reemplazó en el parrafo "<<matrizOperaciones.size()-i<<" \"" << f1[matrizOperaciones2[j][1]] << "\" por \"";
+                        //cout<< f2[matrizOperaciones2[j][2]]<<"\" " <<endl;
                     }
                 }
             }

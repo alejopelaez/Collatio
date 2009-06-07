@@ -1,4 +1,11 @@
-prueba 5.
-otro. frase más larga.
-Este es un parrafo completo que no está en el principe. Entonces ninguna de estas frases se debe partir. otro2.
-Y mucho menos este.
+prueba 2
+
+ESTA ES LA PRUEBA DOS, SOLO DEBE SACAR UN CAMBIO.
+
+ESTO ES IGUAL!
+
+mas cosas
+y otras cosas!
+
+Pero esto se agrega. Pq esto no está en el principe.
+
