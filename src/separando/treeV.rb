@@ -92,9 +92,9 @@ class TreeV
       if iter = @view.selection.selected
         if iter.parent[0] == 'Texts'
           if iter[2] == 'true'
-            #show prince
+            @window.show_prince_file iter[1]
           else
-            #show text
+             @window.show_file iter[1]
           end
         end
       end
@@ -110,8 +110,6 @@ class TreeV
           if response == Gtk::Dialog::RESPONSE_YES
             if iter.parent[0] == 'Texts'
               if iter[2] == 'true'
-                #delete prince
-                # @treestore.remove(iter)
                 puts "Can't delete the prince"
               else
                 if @proj.delete_text iter[1]

@@ -5,6 +5,7 @@
 require 'libglade2'
 require 'project'
 require 'treeV'
+require 'tagManager'
 
 PROG_NAME = TITLE = "Collatio Builder"
 VERSION = "1.0"
@@ -43,6 +44,9 @@ class CollatioGlade
 
     # Manage the project
     @project = Project.new
+
+    #Tag Manager
+    @tagManager = TagManager.new
     
     #Manage the table and texts
     @main_table = @glade.get_widget('mainTable')
@@ -330,6 +334,23 @@ class CollatioGlade
           @number_of_texts += 1
           build_table(@number_of_texts)
           prince_text = @texts[0]
+          
+        #Populates the text view menu
+        prince_text.signal_connect("populate_popup") do |widget,menu|
+          tagMenu  = Gtk::MenuItem.new("Tags")
+          
+          tags = @tagManager.tags
+          tags.each do |t|
+            
+          end
+          create  = Gtk::MenuItem.new("Create Tag")
+          tagMenu.append(create)
+
+          menu.append(tagMenu)
+          menu.popup(nil, nil, 0, 0)
+        end
+     
+        
       end
       buffer = prince_text.buffer
       buffer.set_text(text)
