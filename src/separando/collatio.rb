@@ -12,7 +12,6 @@ VERSION = "1.0"
 
 class CollatioGlade
   include GetText
-
   attr :glade
   
   #################################################################
@@ -305,24 +304,53 @@ class CollatioGlade
   # Puts the selected file on the table, and display it.
   # Receives the path as a parameter
   def show_file name
-      if(texts = read_file(name))
+    if(texts = read_file(name))
       i = @texts.size
       if @number_of_texts <6
-          @number_of_texts+=1
-          build_table(@number_of_texts)
-          @main_table.show_all 
-      end
+        @number_of_texts+=1
+        build_table(@number_of_texts)
+        @main_table.show_all 
+        end
       if (i<6)
-          text = @texts[i]
-          buffer = text.buffer    
+        text = @texts[i]
+        buffer = text.buffer    
       else
-          text = @texts[5]
-      end      
+        text = @texts[5]
+      end
+ 
+      #Populates the text view menu
+      text.signal_connect("populate_popup") do |widget,menu|
+        tagMenu  = Gtk::Menu.new
+        
+        @tagManager.types.collect.each do |t|
+          temp = Gtk::MenuItem.new(t.tag.name)
+          tagMenu.append(temp)
+          temp.signal_connect('activate'){|w| tag_text(prince_text, t)}
+        end
+        tagMenu.append(Gtk::MenuItem.new("Create Tag"))
+        subMenu = Gtk::MenuItem.new("Tags")
+        subMenu.submenu = tagMenu
+        
+        #se esta removiendo cut, hay ke ver como hacer para ke no lo remueva la primera vez
+        menu.remove(menu.children[0])
+        menu.prepend(subMenu)
+        menu.show_all
+        menu.popup(nil, nil, 0, 0)
+      end
+      
       buffer.set_text(texts)
       buffer.place_cursor(buffer.start_iter)
-      else
-        show_error("File Not Found", "File Not Found")
+
+      #Adds the text tags
+      buffer.tag_table.each do |t|
+        buffer.tag_table.remove(t)
       end
+      @tagManager.types.collect.each do |t|
+        buffer.tag_table.add(t.tag)
+      end
+    else
+      show_error("File Not Found", "File Not Found")
+    end
   end
 
   # Displays the prince text. 
@@ -331,35 +359,54 @@ class CollatioGlade
     if(text = read_file name)
       prince_text = @texts[0]
       if prince_text == nil
-          @number_of_texts += 1
-          build_table(@number_of_texts)
-          prince_text = @texts[0]
-          
-        #Populates the text view menu
-        prince_text.signal_connect("populate_popup") do |widget,menu|
-          tagMenu  = Gtk::MenuItem.new("Tags")
-          
-          tags = @tagManager.tags
-          tags.each do |t|
-            
-          end
-          create  = Gtk::MenuItem.new("Create Tag")
-          tagMenu.append(create)
-
-          menu.append(tagMenu)
-          menu.popup(nil, nil, 0, 0)
-        end
-     
+        @number_of_texts += 1
+        build_table(@number_of_texts)
+        prince_text = @texts[0]
         
       end
+      
+      #Populates the text view menu
+      prince_text.signal_connect("populate_popup") do |widget,menu|
+        tagMenu  = Gtk::Menu.new
+        
+        @tagManager.types.collect.each.each do |t|
+          temp = Gtk::MenuItem.new(t.tag.name)
+          tagMenu.append(temp)
+          temp.signal_connect('activate'){|w| tag_text(prince_text, t)}
+        end
+        tagMenu.append(Gtk::MenuItem.new("Create Tag"))
+        subMenu = Gtk::MenuItem.new("Tags")
+        subMenu.submenu = tagMenu
+        
+        #se esta removiendo cut, hay ke ver como hacer para ke no lo remueva la primera vez
+        menu.remove(menu.children[0])
+        menu.prepend(subMenu)
+        menu.show_all
+        menu.popup(nil, nil, 10, 0)
+      end
+      
       buffer = prince_text.buffer
       buffer.set_text(text)
       buffer.place_cursor(buffer.start_iter)
       prince_text.has_focus = true
       prince_text.visible = true
+
+      #Adds the text tags
+      buffer.tag_table.each do |t|
+        buffer.tag_table.remove(t)
+      end
+      @tagManager.types.collect.each do |t|
+        buffer.tag_table.add(t.tag)
+      end
     else
       show_error("File Not Found", "File Not Found")
     end
+  end
+
+  # Tag the selected portion of the text with the desired tag
+  def tag_text text_view, tag_type
+    s, e = text_view.buffer.selection_bounds
+    text_view.buffer.apply_tag(tag_type.tag, s, e)
   end
 end
 
